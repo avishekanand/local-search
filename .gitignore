@@ -12,6 +12,7 @@ node_modules/
 # Build outputs
 build/
 dist/
+index/
 
 # Docker-related files
 *.env
