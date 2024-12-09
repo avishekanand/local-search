@@ -17,6 +17,6 @@ temp_dir = "./temp_test"
 documents = load_documents(data_file, metadata_file, temp_dir=temp_dir)
 print(f"Loaded {len(documents)} documents.")
 
-# Initialize indexing service
-indexing_service = IndexingService(model_name="distiluse-base-multilingual-cased-v1", index_dir="./index")
+# Index documents
+indexing_service = IndexingService(model_name="distiluse-base-multilingual-cased-v1")
 indexing_service.create_embeddings(documents)

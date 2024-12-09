@@ -55,7 +55,7 @@ def compress_file_zstd(input_file: str, output_file: str, level: int = 3):
         f.write(compressed_data)
 
 
-def decompress_file_zstd(input_file: str) -> str:
+def     decompress_file_zstd(input_file: str) -> str:
     """
     Decompress a Zstandard-compressed file and return its content as a string.
     """
