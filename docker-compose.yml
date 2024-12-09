@@ -11,6 +11,8 @@ services:
     volumes:
       - ./data:/app/data
       - ./scripts:/app/scripts
+      - ./index:/app/index  # Mount the root-level index directory to /app/index
+   
     command: ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "8000"]
     environment:
       # Add any environment variables needed
