@@ -31,7 +31,7 @@ print("\033[1;33mTop Results:\033[0m")
 for idx, result in enumerate(results, start=1):
     score = f"{result['score']:.2f}"
     title = highlight_query(result["metadata"]["title"], query)
-    description = highlight_query(result["metadata"]["metadata"].get("description", ""), query)
+    description = highlight_query(result["metadata"]["metadata"].get("resposibilities", ""), query)
 
     print(f"\n\033[1;36mResult {idx}:\033[0m")
     print(f"  \033[1;35mScore:\033[0m {score}")

@@ -8,4 +8,8 @@ RUN npm install
 COPY frontend/ ./
 
 EXPOSE 3000
+
+# Set the OpenSSL legacy provider option
+ENV NODE_OPTIONS="--openssl-legacy-provider"
+
 CMD ["npm", "start"]

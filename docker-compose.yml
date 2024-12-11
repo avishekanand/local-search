@@ -27,6 +27,8 @@ services:
     container_name: local-search-frontend
     ports:
       - "3000:3000"
+    stdin_open: true  # Keep the container open
+    tty: true         # Allocate a pseudo-TTY
     environment:
       # Add any frontend-specific environment variables if needed
       REACT_APP_API_URL: "http://localhost:8000"
