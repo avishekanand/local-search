@@ -4,6 +4,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import json
 import os
 import logging
+import time
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -36,17 +38,21 @@ class QueryService:
                 metadata_file = os.path.join(self.index_dir, file)
                 with open(metadata_file, "r") as f:
                     self.metadata.extend(json.load(f))
-        logger.info(f"Loaded {len(self.metadata)} documents.")
+        logger.info(f"Loaded {len(self.metadata)} documents, size of embeddings {len(self.embeddings)}.")
 
-    def search(self, query: str, top_k: int = 10):
+    def search(self, query: str, top_k: int = 1000):
         """
         Search for the top-k documents similar to the query.
         :param query: Query string.
         :param top_k: Number of top results to return.
         :return: List of top-k results with metadata.
         """
-        # Encode the query
+        start_time = time.perf_counter()  # Start timing
+
+          # Encode the query
         query_embedding = self.model.encode(query, convert_to_numpy=True)
+        end_time = time.perf_counter()  # End timing
+        query_encoding_time = end_time - start_time  # Calculate elapsed time
 
         # Combine all embeddings into one array
         all_embeddings = np.vstack(self.embeddings)
@@ -55,6 +61,12 @@ class QueryService:
         similarities = cosine_similarity([query_embedding], all_embeddings)[0]
         top_indices = np.argsort(similarities)[-top_k:][::-1]  # Get top-k indices
 
+        end_time = time.perf_counter()  # End timing
+        processing_time = end_time - start_time  # Calculate elapsed time
+
+        print(f"Query encoding time: {query_encoding_time:.4f} seconds and query processing time: {processing_time:.4f} seconds")  # Print
+
+        logger.info(f"Size of similarities {len(similarities)} ")
         # Fetch corresponding metadata
         results = [{"score": similarities[i], "metadata": self.metadata[i]} for i in top_indices]
         return results

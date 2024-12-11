@@ -30,7 +30,7 @@ index_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../in
 query_service = QueryService(model_name="distiluse-base-multilingual-cased-v1", index_dir=index_dir)
 
 @router.get("/search")
-def search(query: str = Query(..., description="Search query parameter"), top_k: int = 10):
+def search(query: str = Query(..., description="Search query parameter"), top_k: int = 20):
     """
     Search endpoint that processes keyword queries and returns relevant results.
     """
