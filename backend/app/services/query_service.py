@@ -23,22 +23,58 @@ class QueryService:
         self.metadata = []
 
         # Load all embeddings and metadata
-        self._load_index()
+        self.load_index()
 
-    def _load_index(self):
+    def load_index(self):
         """
-        Load embeddings and metadata from index files.
+        Load embeddings and metadata from index files ensuring matching numbers.
         """
         logger.info(f"Loading embeddings and metadata from {self.index_dir}...")
-        for file in os.listdir(self.index_dir):
-            if file.startswith("embeddings_") and file.endswith(".npy"):
-                embedding_file = os.path.join(self.index_dir, file)
-                self.embeddings.append(np.load(embedding_file))
-            elif file.startswith("metadata_") and file.endswith(".json"):
-                metadata_file = os.path.join(self.index_dir, file)
-                with open(metadata_file, "r") as f:
-                    self.metadata.extend(json.load(f))
+        
+        # Collect all embeddings and metadata files
+        embedding_files = sorted(
+            [f for f in os.listdir(self.index_dir) if f.startswith("embeddings_") and f.endswith(".npy")]
+        )
+        metadata_files = sorted(
+            [f for f in os.listdir(self.index_dir) if f.startswith("metadata_") and f.endswith(".json")]
+        )
+
+        # Ensure the number of files matches
+        if len(embedding_files) != len(metadata_files):
+            raise ValueError(f"Mismatch: {len(embedding_files)} embedding files and {len(metadata_files)} metadata files found.")
+
+        # Check matching numbers in filenames
+        for embedding_file, metadata_file in zip(embedding_files, metadata_files):
+            embedding_number = int(embedding_file.split("_")[1].split(".")[0])
+            metadata_number = int(metadata_file.split("_")[1].split(".")[0])
+
+            if embedding_number != metadata_number:
+                raise ValueError(f"Mismatch in file numbering: {embedding_file} and {metadata_file}")
+
+            # Load the matched embedding and metadata
+            embedding_path = os.path.join(self.index_dir, embedding_file)
+            metadata_path = os.path.join(self.index_dir, metadata_file)
+
+            self.embeddings.append(np.load(embedding_path))
+
+            with open(metadata_path, "r") as f:
+                self.metadata.extend(json.load(f))
+
         logger.info(f"Loaded {len(self.metadata)} documents, size of embeddings {len(self.embeddings)}.")
+    # def _load_index(self):
+    #     """
+    #     Load embeddings and metadata from index files.
+    #     """
+    #     logger.info(f"Loading embeddings and metadata from {self.index_dir}...")
+    #     for file in os.listdir(self.index_dir):
+    #         if file.startswith("embeddings_") and file.endswith(".npy"):
+    #             embedding_file = os.path.join(self.index_dir, file)
+    #             self.embeddings.append(np.load(embedding_file))
+    #         elif file.startswith("metadata_") and file.endswith(".json"):
+    #             metadata_file = os.path.join(self.index_dir, file)
+    #             with open(metadata_file, "r") as f:
+    #                 self.metadata.extend(json.load(f))
+    #     logger.info(f"Loaded {len(self.metadata)} documents, size of embeddings {len(self.embeddings)}.")
 
     def search(self, query: str, top_k: int = 1000):
         """
