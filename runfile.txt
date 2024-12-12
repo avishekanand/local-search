@@ -14,9 +14,9 @@ buchhalter_lohn_bp_best Q0  13 0.07692307692307693 system_name
 buchhalter_lohn_bp_best Q0  14 0.07142857142857142 system_name
 buchhalter_lohn_bp_best Q0  15 0.06666666666666667 system_name
 buchhalter_lohn_bp_best Q0  16 0.0625 system_name
-buchhalter_lohn_bp_best Q0 186472 17 0.058823529411764705 system_name
+buchhalter_lohn_bp_best Q0  17 0.058823529411764705 system_name
 buchhalter_lohn_bp_best Q0  18 0.05555555555555555 system_name
-buchhalter_lohn_bp_best Q0  19 0.05263157894736842 system_name
+buchhalter_lohn_bp_best Q0 1013192 19 0.05263157894736842 system_name
 buchhalter_lohn_bp_best Q0  20 0.05 system_name
 buchhalter_lohn_bp_best Q0  21 0.047619047619047616 system_name
 buchhalter_lohn_bp_best Q0  22 0.045454545454545456 system_name
@@ -114,9 +114,9 @@ buchhalter_anlagen_bp_best Q0  13 0.07692307692307693 system_name
 buchhalter_anlagen_bp_best Q0  14 0.07142857142857142 system_name
 buchhalter_anlagen_bp_best Q0  15 0.06666666666666667 system_name
 buchhalter_anlagen_bp_best Q0  16 0.0625 system_name
-buchhalter_anlagen_bp_best Q0 186472 17 0.058823529411764705 system_name
+buchhalter_anlagen_bp_best Q0  17 0.058823529411764705 system_name
 buchhalter_anlagen_bp_best Q0  18 0.05555555555555555 system_name
-buchhalter_anlagen_bp_best Q0  19 0.05263157894736842 system_name
+buchhalter_anlagen_bp_best Q0 1013192 19 0.05263157894736842 system_name
 buchhalter_anlagen_bp_best Q0  20 0.05 system_name
 buchhalter_anlagen_bp_best Q0  21 0.047619047619047616 system_name
 buchhalter_anlagen_bp_best Q0  22 0.045454545454545456 system_name
@@ -214,9 +214,9 @@ buchhalter_debit_bp_best Q0  13 0.07692307692307693 system_name
 buchhalter_debit_bp_best Q0  14 0.07142857142857142 system_name
 buchhalter_debit_bp_best Q0  15 0.06666666666666667 system_name
 buchhalter_debit_bp_best Q0  16 0.0625 system_name
-buchhalter_debit_bp_best Q0 186472 17 0.058823529411764705 system_name
+buchhalter_debit_bp_best Q0  17 0.058823529411764705 system_name
 buchhalter_debit_bp_best Q0  18 0.05555555555555555 system_name
-buchhalter_debit_bp_best Q0  19 0.05263157894736842 system_name
+buchhalter_debit_bp_best Q0 1013192 19 0.05263157894736842 system_name
 buchhalter_debit_bp_best Q0  20 0.05 system_name
 buchhalter_debit_bp_best Q0  21 0.047619047619047616 system_name
 buchhalter_debit_bp_best Q0  22 0.045454545454545456 system_name
@@ -314,9 +314,9 @@ buchhalter_finanz_bp_best Q0  13 0.07692307692307693 system_name
 buchhalter_finanz_bp_best Q0  14 0.07142857142857142 system_name
 buchhalter_finanz_bp_best Q0  15 0.06666666666666667 system_name
 buchhalter_finanz_bp_best Q0  16 0.0625 system_name
-buchhalter_finanz_bp_best Q0 186472 17 0.058823529411764705 system_name
+buchhalter_finanz_bp_best Q0  17 0.058823529411764705 system_name
 buchhalter_finanz_bp_best Q0  18 0.05555555555555555 system_name
-buchhalter_finanz_bp_best Q0  19 0.05263157894736842 system_name
+buchhalter_finanz_bp_best Q0 1013192 19 0.05263157894736842 system_name
 buchhalter_finanz_bp_best Q0  20 0.05 system_name
 buchhalter_finanz_bp_best Q0  21 0.047619047619047616 system_name
 buchhalter_finanz_bp_best Q0  22 0.045454545454545456 system_name
@@ -402,7 +402,7 @@ fachkraft_lagerlogistik_bp_best Q0  1 1.0 system_name
 fachkraft_lagerlogistik_bp_best Q0  2 0.5 system_name
 fachkraft_lagerlogistik_bp_best Q0  3 0.3333333333333333 system_name
 fachkraft_lagerlogistik_bp_best Q0  4 0.25 system_name
-fachkraft_lagerlogistik_bp_best Q0  5 0.2 system_name
+fachkraft_lagerlogistik_bp_best Q0 33541 5 0.2 system_name
 fachkraft_lagerlogistik_bp_best Q0  6 0.16666666666666666 system_name
 fachkraft_lagerlogistik_bp_best Q0  7 0.14285714285714285 system_name
 fachkraft_lagerlogistik_bp_best Q0  8 0.125 system_name
@@ -418,9 +418,9 @@ fachkraft_lagerlogistik_bp_best Q0  17 0.058823529411764705 system_name
 fachkraft_lagerlogistik_bp_best Q0  18 0.05555555555555555 system_name
 fachkraft_lagerlogistik_bp_best Q0  19 0.05263157894736842 system_name
 fachkraft_lagerlogistik_bp_best Q0  20 0.05 system_name
-fachkraft_lagerlogistik_bp_best Q0 24694 21 0.047619047619047616 system_name
+fachkraft_lagerlogistik_bp_best Q0  21 0.047619047619047616 system_name
 fachkraft_lagerlogistik_bp_best Q0  22 0.045454545454545456 system_name
-fachkraft_lagerlogistik_bp_best Q0 34394 23 0.043478260869565216 system_name
+fachkraft_lagerlogistik_bp_best Q0  23 0.043478260869565216 system_name
 fachkraft_lagerlogistik_bp_best Q0  24 0.041666666666666664 system_name
 fachkraft_lagerlogistik_bp_best Q0  25 0.04 system_name
 fachkraft_lagerlogistik_bp_best Q0  26 0.038461538461538464 system_name
@@ -440,7 +440,7 @@ fachkraft_lagerlogistik_bp_best Q0  39 0.02564102564102564 system_name
 fachkraft_lagerlogistik_bp_best Q0  40 0.025 system_name
 fachkraft_lagerlogistik_bp_best Q0  41 0.024390243902439025 system_name
 fachkraft_lagerlogistik_bp_best Q0  42 0.023809523809523808 system_name
-fachkraft_lagerlogistik_bp_best Q0 34482 43 0.023255813953488372 system_name
+fachkraft_lagerlogistik_bp_best Q0  43 0.023255813953488372 system_name
 fachkraft_lagerlogistik_bp_best Q0  44 0.022727272727272728 system_name
 fachkraft_lagerlogistik_bp_best Q0  45 0.022222222222222223 system_name
 fachkraft_lagerlogistik_bp_best Q0  46 0.021739130434782608 system_name
@@ -464,11 +464,11 @@ fachkraft_lagerlogistik_bp_best Q0  63 0.015873015873015872 system_name
 fachkraft_lagerlogistik_bp_best Q0  64 0.015625 system_name
 fachkraft_lagerlogistik_bp_best Q0  65 0.015384615384615385 system_name
 fachkraft_lagerlogistik_bp_best Q0  66 0.015151515151515152 system_name
-fachkraft_lagerlogistik_bp_best Q0  67 0.014925373134328358 system_name
+fachkraft_lagerlogistik_bp_best Q0 34044 67 0.014925373134328358 system_name
 fachkraft_lagerlogistik_bp_best Q0  68 0.014705882352941176 system_name
-fachkraft_lagerlogistik_bp_best Q0 167482 69 0.014492753623188406 system_name
-fachkraft_lagerlogistik_bp_best Q0 565298 70 0.014285714285714285 system_name
-fachkraft_lagerlogistik_bp_best Q0  71 0.014084507042253521 system_name
+fachkraft_lagerlogistik_bp_best Q0  69 0.014492753623188406 system_name
+fachkraft_lagerlogistik_bp_best Q0  70 0.014285714285714285 system_name
+fachkraft_lagerlogistik_bp_best Q0 34044 71 0.014084507042253521 system_name
 fachkraft_lagerlogistik_bp_best Q0  72 0.013888888888888888 system_name
 fachkraft_lagerlogistik_bp_best Q0  73 0.0136986301369863 system_name
 fachkraft_lagerlogistik_bp_best Q0  74 0.013513513513513514 system_name
@@ -479,9 +479,9 @@ fachkraft_lagerlogistik_bp_best Q0  78 0.01282051282051282 system_name
 fachkraft_lagerlogistik_bp_best Q0  79 0.012658227848101266 system_name
 fachkraft_lagerlogistik_bp_best Q0  80 0.0125 system_name
 fachkraft_lagerlogistik_bp_best Q0  81 0.012345679012345678 system_name
-fachkraft_lagerlogistik_bp_best Q0  82 0.012195121951219513 system_name
-fachkraft_lagerlogistik_bp_best Q0 24694 83 0.012048192771084338 system_name
-fachkraft_lagerlogistik_bp_best Q0  84 0.011904761904761904 system_name
+fachkraft_lagerlogistik_bp_best Q0 40328 82 0.012195121951219513 system_name
+fachkraft_lagerlogistik_bp_best Q0 40328 83 0.012048192771084338 system_name
+fachkraft_lagerlogistik_bp_best Q0 40328 84 0.011904761904761904 system_name
 fachkraft_lagerlogistik_bp_best Q0  85 0.011764705882352941 system_name
 fachkraft_lagerlogistik_bp_best Q0  86 0.011627906976744186 system_name
 fachkraft_lagerlogistik_bp_best Q0  87 0.011494252873563218 system_name
@@ -497,12 +497,12 @@ fachkraft_lagerlogistik_bp_best Q0  96 0.010416666666666666 system_name
 fachkraft_lagerlogistik_bp_best Q0  97 0.010309278350515464 system_name
 fachkraft_lagerlogistik_bp_best Q0  98 0.01020408163265306 system_name
 fachkraft_lagerlogistik_bp_best Q0  99 0.010101010101010102 system_name
-fachkraft_lagerlogistik_bp_best Q0  100 0.01 system_name
+fachkraft_lagerlogistik_bp_best Q0 34044 100 0.01 system_name
 abteilungsleiter_logistik_bp_best Q0  1 1.0 system_name
 abteilungsleiter_logistik_bp_best Q0  2 0.5 system_name
 abteilungsleiter_logistik_bp_best Q0  3 0.3333333333333333 system_name
 abteilungsleiter_logistik_bp_best Q0  4 0.25 system_name
-abteilungsleiter_logistik_bp_best Q0  5 0.2 system_name
+abteilungsleiter_logistik_bp_best Q0 33541 5 0.2 system_name
 abteilungsleiter_logistik_bp_best Q0  6 0.16666666666666666 system_name
 abteilungsleiter_logistik_bp_best Q0  7 0.14285714285714285 system_name
 abteilungsleiter_logistik_bp_best Q0  8 0.125 system_name
@@ -518,9 +518,9 @@ abteilungsleiter_logistik_bp_best Q0  17 0.058823529411764705 system_name
 abteilungsleiter_logistik_bp_best Q0  18 0.05555555555555555 system_name
 abteilungsleiter_logistik_bp_best Q0  19 0.05263157894736842 system_name
 abteilungsleiter_logistik_bp_best Q0  20 0.05 system_name
-abteilungsleiter_logistik_bp_best Q0 24694 21 0.047619047619047616 system_name
+abteilungsleiter_logistik_bp_best Q0  21 0.047619047619047616 system_name
 abteilungsleiter_logistik_bp_best Q0  22 0.045454545454545456 system_name
-abteilungsleiter_logistik_bp_best Q0 34394 23 0.043478260869565216 system_name
+abteilungsleiter_logistik_bp_best Q0  23 0.043478260869565216 system_name
 abteilungsleiter_logistik_bp_best Q0  24 0.041666666666666664 system_name
 abteilungsleiter_logistik_bp_best Q0  25 0.04 system_name
 abteilungsleiter_logistik_bp_best Q0  26 0.038461538461538464 system_name
@@ -540,7 +540,7 @@ abteilungsleiter_logistik_bp_best Q0  39 0.02564102564102564 system_name
 abteilungsleiter_logistik_bp_best Q0  40 0.025 system_name
 abteilungsleiter_logistik_bp_best Q0  41 0.024390243902439025 system_name
 abteilungsleiter_logistik_bp_best Q0  42 0.023809523809523808 system_name
-abteilungsleiter_logistik_bp_best Q0 34482 43 0.023255813953488372 system_name
+abteilungsleiter_logistik_bp_best Q0  43 0.023255813953488372 system_name
 abteilungsleiter_logistik_bp_best Q0  44 0.022727272727272728 system_name
 abteilungsleiter_logistik_bp_best Q0  45 0.022222222222222223 system_name
 abteilungsleiter_logistik_bp_best Q0  46 0.021739130434782608 system_name
@@ -564,11 +564,11 @@ abteilungsleiter_logistik_bp_best Q0  63 0.015873015873015872 system_name
 abteilungsleiter_logistik_bp_best Q0  64 0.015625 system_name
 abteilungsleiter_logistik_bp_best Q0  65 0.015384615384615385 system_name
 abteilungsleiter_logistik_bp_best Q0  66 0.015151515151515152 system_name
-abteilungsleiter_logistik_bp_best Q0  67 0.014925373134328358 system_name
+abteilungsleiter_logistik_bp_best Q0 34044 67 0.014925373134328358 system_name
 abteilungsleiter_logistik_bp_best Q0  68 0.014705882352941176 system_name
-abteilungsleiter_logistik_bp_best Q0 167482 69 0.014492753623188406 system_name
-abteilungsleiter_logistik_bp_best Q0 565298 70 0.014285714285714285 system_name
-abteilungsleiter_logistik_bp_best Q0  71 0.014084507042253521 system_name
+abteilungsleiter_logistik_bp_best Q0  69 0.014492753623188406 system_name
+abteilungsleiter_logistik_bp_best Q0  70 0.014285714285714285 system_name
+abteilungsleiter_logistik_bp_best Q0 34044 71 0.014084507042253521 system_name
 abteilungsleiter_logistik_bp_best Q0  72 0.013888888888888888 system_name
 abteilungsleiter_logistik_bp_best Q0  73 0.0136986301369863 system_name
 abteilungsleiter_logistik_bp_best Q0  74 0.013513513513513514 system_name
@@ -579,9 +579,9 @@ abteilungsleiter_logistik_bp_best Q0  78 0.01282051282051282 system_name
 abteilungsleiter_logistik_bp_best Q0  79 0.012658227848101266 system_name
 abteilungsleiter_logistik_bp_best Q0  80 0.0125 system_name
 abteilungsleiter_logistik_bp_best Q0  81 0.012345679012345678 system_name
-abteilungsleiter_logistik_bp_best Q0  82 0.012195121951219513 system_name
-abteilungsleiter_logistik_bp_best Q0 24694 83 0.012048192771084338 system_name
-abteilungsleiter_logistik_bp_best Q0  84 0.011904761904761904 system_name
+abteilungsleiter_logistik_bp_best Q0 40328 82 0.012195121951219513 system_name
+abteilungsleiter_logistik_bp_best Q0 40328 83 0.012048192771084338 system_name
+abteilungsleiter_logistik_bp_best Q0 40328 84 0.011904761904761904 system_name
 abteilungsleiter_logistik_bp_best Q0  85 0.011764705882352941 system_name
 abteilungsleiter_logistik_bp_best Q0  86 0.011627906976744186 system_name
 abteilungsleiter_logistik_bp_best Q0  87 0.011494252873563218 system_name
@@ -597,7 +597,7 @@ abteilungsleiter_logistik_bp_best Q0  96 0.010416666666666666 system_name
 abteilungsleiter_logistik_bp_best Q0  97 0.010309278350515464 system_name
 abteilungsleiter_logistik_bp_best Q0  98 0.01020408163265306 system_name
 abteilungsleiter_logistik_bp_best Q0  99 0.010101010101010102 system_name
-abteilungsleiter_logistik_bp_best Q0  100 0.01 system_name
+abteilungsleiter_logistik_bp_best Q0 34044 100 0.01 system_name
 indkfm_hr_bp_best Q0  1 1.0 system_name
 indkfm_hr_bp_best Q0  2 0.5 system_name
 indkfm_hr_bp_best Q0  3 0.3333333333333333 system_name
@@ -607,22 +607,22 @@ indkfm_hr_bp_best Q0  6 0.16666666666666666 system_name
 indkfm_hr_bp_best Q0  7 0.14285714285714285 system_name
 indkfm_hr_bp_best Q0  8 0.125 system_name
 indkfm_hr_bp_best Q0  9 0.1111111111111111 system_name
-indkfm_hr_bp_best Q0 49343 10 0.1 system_name
-indkfm_hr_bp_best Q0  11 0.09090909090909091 system_name
+indkfm_hr_bp_best Q0  10 0.1 system_name
+indkfm_hr_bp_best Q0 49343 11 0.09090909090909091 system_name
 indkfm_hr_bp_best Q0  12 0.08333333333333333 system_name
 indkfm_hr_bp_best Q0  13 0.07692307692307693 system_name
-indkfm_hr_bp_best Q0 24694 14 0.07142857142857142 system_name
+indkfm_hr_bp_best Q0  14 0.07142857142857142 system_name
 indkfm_hr_bp_best Q0  15 0.06666666666666667 system_name
 indkfm_hr_bp_best Q0  16 0.0625 system_name
 indkfm_hr_bp_best Q0  17 0.058823529411764705 system_name
 indkfm_hr_bp_best Q0  18 0.05555555555555555 system_name
 indkfm_hr_bp_best Q0  19 0.05263157894736842 system_name
 indkfm_hr_bp_best Q0  20 0.05 system_name
-indkfm_hr_bp_best Q0 453728 21 0.047619047619047616 system_name
-indkfm_hr_bp_best Q0 401791 22 0.045454545454545456 system_name
+indkfm_hr_bp_best Q0  21 0.047619047619047616 system_name
+indkfm_hr_bp_best Q0  22 0.045454545454545456 system_name
 indkfm_hr_bp_best Q0  23 0.043478260869565216 system_name
 indkfm_hr_bp_best Q0  24 0.041666666666666664 system_name
-indkfm_hr_bp_best Q0 35402 25 0.04 system_name
+indkfm_hr_bp_best Q0  25 0.04 system_name
 indkfm_hr_bp_best Q0  26 0.038461538461538464 system_name
 indkfm_hr_bp_best Q0  27 0.037037037037037035 system_name
 indkfm_hr_bp_best Q0  28 0.03571428571428571 system_name
@@ -652,7 +652,7 @@ indkfm_hr_bp_best Q0  51 0.0196078431372549 system_name
 indkfm_hr_bp_best Q0  52 0.019230769230769232 system_name
 indkfm_hr_bp_best Q0  53 0.018867924528301886 system_name
 indkfm_hr_bp_best Q0  54 0.018518518518518517 system_name
-indkfm_hr_bp_best Q0 36412 55 0.01818181818181818 system_name
+indkfm_hr_bp_best Q0  55 0.01818181818181818 system_name
 indkfm_hr_bp_best Q0  56 0.017857142857142856 system_name
 indkfm_hr_bp_best Q0  57 0.017543859649122806 system_name
 indkfm_hr_bp_best Q0  58 0.017241379310344827 system_name
@@ -666,11 +666,11 @@ indkfm_hr_bp_best Q0  65 0.015384615384615385 system_name
 indkfm_hr_bp_best Q0  66 0.015151515151515152 system_name
 indkfm_hr_bp_best Q0  67 0.014925373134328358 system_name
 indkfm_hr_bp_best Q0  68 0.014705882352941176 system_name
-indkfm_hr_bp_best Q0 24694 69 0.014492753623188406 system_name
+indkfm_hr_bp_best Q0  69 0.014492753623188406 system_name
 indkfm_hr_bp_best Q0  70 0.014285714285714285 system_name
 indkfm_hr_bp_best Q0  71 0.014084507042253521 system_name
 indkfm_hr_bp_best Q0  72 0.013888888888888888 system_name
-indkfm_hr_bp_best Q0 42371 73 0.0136986301369863 system_name
+indkfm_hr_bp_best Q0  73 0.0136986301369863 system_name
 indkfm_hr_bp_best Q0  74 0.013513513513513514 system_name
 indkfm_hr_bp_best Q0  75 0.013333333333333334 system_name
 indkfm_hr_bp_best Q0  76 0.013157894736842105 system_name
@@ -707,22 +707,22 @@ indkfm_finanz_bp_best Q0  6 0.16666666666666666 system_name
 indkfm_finanz_bp_best Q0  7 0.14285714285714285 system_name
 indkfm_finanz_bp_best Q0  8 0.125 system_name
 indkfm_finanz_bp_best Q0  9 0.1111111111111111 system_name
-indkfm_finanz_bp_best Q0 49343 10 0.1 system_name
-indkfm_finanz_bp_best Q0  11 0.09090909090909091 system_name
+indkfm_finanz_bp_best Q0  10 0.1 system_name
+indkfm_finanz_bp_best Q0 49343 11 0.09090909090909091 system_name
 indkfm_finanz_bp_best Q0  12 0.08333333333333333 system_name
 indkfm_finanz_bp_best Q0  13 0.07692307692307693 system_name
-indkfm_finanz_bp_best Q0 24694 14 0.07142857142857142 system_name
+indkfm_finanz_bp_best Q0  14 0.07142857142857142 system_name
 indkfm_finanz_bp_best Q0  15 0.06666666666666667 system_name
 indkfm_finanz_bp_best Q0  16 0.0625 system_name
 indkfm_finanz_bp_best Q0  17 0.058823529411764705 system_name
 indkfm_finanz_bp_best Q0  18 0.05555555555555555 system_name
 indkfm_finanz_bp_best Q0  19 0.05263157894736842 system_name
 indkfm_finanz_bp_best Q0  20 0.05 system_name
-indkfm_finanz_bp_best Q0 453728 21 0.047619047619047616 system_name
-indkfm_finanz_bp_best Q0 401791 22 0.045454545454545456 system_name
+indkfm_finanz_bp_best Q0  21 0.047619047619047616 system_name
+indkfm_finanz_bp_best Q0  22 0.045454545454545456 system_name
 indkfm_finanz_bp_best Q0  23 0.043478260869565216 system_name
 indkfm_finanz_bp_best Q0  24 0.041666666666666664 system_name
-indkfm_finanz_bp_best Q0 35402 25 0.04 system_name
+indkfm_finanz_bp_best Q0  25 0.04 system_name
 indkfm_finanz_bp_best Q0  26 0.038461538461538464 system_name
 indkfm_finanz_bp_best Q0  27 0.037037037037037035 system_name
 indkfm_finanz_bp_best Q0  28 0.03571428571428571 system_name
@@ -752,7 +752,7 @@ indkfm_finanz_bp_best Q0  51 0.0196078431372549 system_name
 indkfm_finanz_bp_best Q0  52 0.019230769230769232 system_name
 indkfm_finanz_bp_best Q0  53 0.018867924528301886 system_name
 indkfm_finanz_bp_best Q0  54 0.018518518518518517 system_name
-indkfm_finanz_bp_best Q0 36412 55 0.01818181818181818 system_name
+indkfm_finanz_bp_best Q0  55 0.01818181818181818 system_name
 indkfm_finanz_bp_best Q0  56 0.017857142857142856 system_name
 indkfm_finanz_bp_best Q0  57 0.017543859649122806 system_name
 indkfm_finanz_bp_best Q0  58 0.017241379310344827 system_name
@@ -766,11 +766,11 @@ indkfm_finanz_bp_best Q0  65 0.015384615384615385 system_name
 indkfm_finanz_bp_best Q0  66 0.015151515151515152 system_name
 indkfm_finanz_bp_best Q0  67 0.014925373134328358 system_name
 indkfm_finanz_bp_best Q0  68 0.014705882352941176 system_name
-indkfm_finanz_bp_best Q0 24694 69 0.014492753623188406 system_name
+indkfm_finanz_bp_best Q0  69 0.014492753623188406 system_name
 indkfm_finanz_bp_best Q0  70 0.014285714285714285 system_name
 indkfm_finanz_bp_best Q0  71 0.014084507042253521 system_name
 indkfm_finanz_bp_best Q0  72 0.013888888888888888 system_name
-indkfm_finanz_bp_best Q0 42371 73 0.0136986301369863 system_name
+indkfm_finanz_bp_best Q0  73 0.0136986301369863 system_name
 indkfm_finanz_bp_best Q0  74 0.013513513513513514 system_name
 indkfm_finanz_bp_best Q0  75 0.013333333333333334 system_name
 indkfm_finanz_bp_best Q0  76 0.013157894736842105 system_name
@@ -807,22 +807,22 @@ indkfm_beschaffung_bp_best Q0  6 0.16666666666666666 system_name
 indkfm_beschaffung_bp_best Q0  7 0.14285714285714285 system_name
 indkfm_beschaffung_bp_best Q0  8 0.125 system_name
 indkfm_beschaffung_bp_best Q0  9 0.1111111111111111 system_name
-indkfm_beschaffung_bp_best Q0 49343 10 0.1 system_name
-indkfm_beschaffung_bp_best Q0  11 0.09090909090909091 system_name
+indkfm_beschaffung_bp_best Q0  10 0.1 system_name
+indkfm_beschaffung_bp_best Q0 49343 11 0.09090909090909091 system_name
 indkfm_beschaffung_bp_best Q0  12 0.08333333333333333 system_name
 indkfm_beschaffung_bp_best Q0  13 0.07692307692307693 system_name
-indkfm_beschaffung_bp_best Q0 24694 14 0.07142857142857142 system_name
+indkfm_beschaffung_bp_best Q0  14 0.07142857142857142 system_name
 indkfm_beschaffung_bp_best Q0  15 0.06666666666666667 system_name
 indkfm_beschaffung_bp_best Q0  16 0.0625 system_name
 indkfm_beschaffung_bp_best Q0  17 0.058823529411764705 system_name
 indkfm_beschaffung_bp_best Q0  18 0.05555555555555555 system_name
 indkfm_beschaffung_bp_best Q0  19 0.05263157894736842 system_name
 indkfm_beschaffung_bp_best Q0  20 0.05 system_name
-indkfm_beschaffung_bp_best Q0 453728 21 0.047619047619047616 system_name
-indkfm_beschaffung_bp_best Q0 401791 22 0.045454545454545456 system_name
+indkfm_beschaffung_bp_best Q0  21 0.047619047619047616 system_name
+indkfm_beschaffung_bp_best Q0  22 0.045454545454545456 system_name
 indkfm_beschaffung_bp_best Q0  23 0.043478260869565216 system_name
 indkfm_beschaffung_bp_best Q0  24 0.041666666666666664 system_name
-indkfm_beschaffung_bp_best Q0 35402 25 0.04 system_name
+indkfm_beschaffung_bp_best Q0  25 0.04 system_name
 indkfm_beschaffung_bp_best Q0  26 0.038461538461538464 system_name
 indkfm_beschaffung_bp_best Q0  27 0.037037037037037035 system_name
 indkfm_beschaffung_bp_best Q0  28 0.03571428571428571 system_name
@@ -852,7 +852,7 @@ indkfm_beschaffung_bp_best Q0  51 0.0196078431372549 system_name
 indkfm_beschaffung_bp_best Q0  52 0.019230769230769232 system_name
 indkfm_beschaffung_bp_best Q0  53 0.018867924528301886 system_name
 indkfm_beschaffung_bp_best Q0  54 0.018518518518518517 system_name
-indkfm_beschaffung_bp_best Q0 36412 55 0.01818181818181818 system_name
+indkfm_beschaffung_bp_best Q0  55 0.01818181818181818 system_name
 indkfm_beschaffung_bp_best Q0  56 0.017857142857142856 system_name
 indkfm_beschaffung_bp_best Q0  57 0.017543859649122806 system_name
 indkfm_beschaffung_bp_best Q0  58 0.017241379310344827 system_name
@@ -866,11 +866,11 @@ indkfm_beschaffung_bp_best Q0  65 0.015384615384615385 system_name
 indkfm_beschaffung_bp_best Q0  66 0.015151515151515152 system_name
 indkfm_beschaffung_bp_best Q0  67 0.014925373134328358 system_name
 indkfm_beschaffung_bp_best Q0  68 0.014705882352941176 system_name
-indkfm_beschaffung_bp_best Q0 24694 69 0.014492753623188406 system_name
+indkfm_beschaffung_bp_best Q0  69 0.014492753623188406 system_name
 indkfm_beschaffung_bp_best Q0  70 0.014285714285714285 system_name
 indkfm_beschaffung_bp_best Q0  71 0.014084507042253521 system_name
 indkfm_beschaffung_bp_best Q0  72 0.013888888888888888 system_name
-indkfm_beschaffung_bp_best Q0 42371 73 0.0136986301369863 system_name
+indkfm_beschaffung_bp_best Q0  73 0.0136986301369863 system_name
 indkfm_beschaffung_bp_best Q0  74 0.013513513513513514 system_name
 indkfm_beschaffung_bp_best Q0  75 0.013333333333333334 system_name
 indkfm_beschaffung_bp_best Q0  76 0.013157894736842105 system_name
@@ -914,12 +914,12 @@ systemadministrator_bp_best Q0  13 0.07692307692307693 system_name
 systemadministrator_bp_best Q0  14 0.07142857142857142 system_name
 systemadministrator_bp_best Q0  15 0.06666666666666667 system_name
 systemadministrator_bp_best Q0  16 0.0625 system_name
-systemadministrator_bp_best Q0  17 0.058823529411764705 system_name
+systemadministrator_bp_best Q0 24694 17 0.058823529411764705 system_name
 systemadministrator_bp_best Q0  18 0.05555555555555555 system_name
 systemadministrator_bp_best Q0  19 0.05263157894736842 system_name
 systemadministrator_bp_best Q0  20 0.05 system_name
-systemadministrator_bp_best Q0 211381 21 0.047619047619047616 system_name
-systemadministrator_bp_best Q0  22 0.045454545454545456 system_name
+systemadministrator_bp_best Q0  21 0.047619047619047616 system_name
+systemadministrator_bp_best Q0 262643 22 0.045454545454545456 system_name
 systemadministrator_bp_best Q0  23 0.043478260869565216 system_name
 systemadministrator_bp_best Q0  24 0.041666666666666664 system_name
 systemadministrator_bp_best Q0  25 0.04 system_name
@@ -947,16 +947,16 @@ systemadministrator_bp_best Q0  46 0.021739130434782608 system_name
 systemadministrator_bp_best Q0  47 0.02127659574468085 system_name
 systemadministrator_bp_best Q0  48 0.020833333333333332 system_name
 systemadministrator_bp_best Q0  49 0.02040816326530612 system_name
-systemadministrator_bp_best Q0 21680 50 0.02 system_name
+systemadministrator_bp_best Q0  50 0.02 system_name
 systemadministrator_bp_best Q0  51 0.0196078431372549 system_name
 systemadministrator_bp_best Q0  52 0.019230769230769232 system_name
-systemadministrator_bp_best Q0 470783 53 0.018867924528301886 system_name
+systemadministrator_bp_best Q0  53 0.018867924528301886 system_name
 systemadministrator_bp_best Q0  54 0.018518518518518517 system_name
 systemadministrator_bp_best Q0  55 0.01818181818181818 system_name
 systemadministrator_bp_best Q0  56 0.017857142857142856 system_name
 systemadministrator_bp_best Q0  57 0.017543859649122806 system_name
 systemadministrator_bp_best Q0  58 0.017241379310344827 system_name
-systemadministrator_bp_best Q0  59 0.01694915254237288 system_name
+systemadministrator_bp_best Q0 26273 59 0.01694915254237288 system_name
 systemadministrator_bp_best Q0  60 0.016666666666666666 system_name
 systemadministrator_bp_best Q0  61 0.01639344262295082 system_name
 systemadministrator_bp_best Q0  62 0.016129032258064516 system_name
@@ -1001,7 +1001,7 @@ systemadministrator_bp_best Q0  100 0.01 system_name
 archi_bp_best Q0  1 1.0 system_name
 archi_bp_best Q0  2 0.5 system_name
 archi_bp_best Q0  3 0.3333333333333333 system_name
-archi_bp_best Q0  4 0.25 system_name
+archi_bp_best Q0 498020 4 0.25 system_name
 archi_bp_best Q0  5 0.2 system_name
 archi_bp_best Q0  6 0.16666666666666666 system_name
 archi_bp_best Q0  7 0.14285714285714285 system_name
@@ -1009,13 +1009,13 @@ archi_bp_best Q0  8 0.125 system_name
 archi_bp_best Q0  9 0.1111111111111111 system_name
 archi_bp_best Q0  10 0.1 system_name
 archi_bp_best Q0  11 0.09090909090909091 system_name
-archi_bp_best Q0  12 0.08333333333333333 system_name
-archi_bp_best Q0  13 0.07692307692307693 system_name
-archi_bp_best Q0  14 0.07142857142857142 system_name
+archi_bp_best Q0 24694 12 0.08333333333333333 system_name
+archi_bp_best Q0 24694 13 0.07692307692307693 system_name
+archi_bp_best Q0 913163 14 0.07142857142857142 system_name
 archi_bp_best Q0  15 0.06666666666666667 system_name
 archi_bp_best Q0  16 0.0625 system_name
 archi_bp_best Q0  17 0.058823529411764705 system_name
-archi_bp_best Q0  18 0.05555555555555555 system_name
+archi_bp_best Q0 172420 18 0.05555555555555555 system_name
 archi_bp_best Q0  19 0.05263157894736842 system_name
 archi_bp_best Q0  20 0.05 system_name
 archi_bp_best Q0  21 0.047619047619047616 system_name
@@ -1024,8 +1024,8 @@ archi_bp_best Q0  23 0.043478260869565216 system_name
 archi_bp_best Q0  24 0.041666666666666664 system_name
 archi_bp_best Q0  25 0.04 system_name
 archi_bp_best Q0  26 0.038461538461538464 system_name
-archi_bp_best Q0  27 0.037037037037037035 system_name
-archi_bp_best Q0  28 0.03571428571428571 system_name
+archi_bp_best Q0 366 27 0.037037037037037035 system_name
+archi_bp_best Q0 377 28 0.03571428571428571 system_name
 archi_bp_best Q0  29 0.034482758620689655 system_name
 archi_bp_best Q0  30 0.03333333333333333 system_name
 archi_bp_best Q0  31 0.03225806451612903 system_name
@@ -1035,7 +1035,7 @@ archi_bp_best Q0  34 0.029411764705882353 system_name
 archi_bp_best Q0  35 0.02857142857142857 system_name
 archi_bp_best Q0  36 0.027777777777777776 system_name
 archi_bp_best Q0  37 0.02702702702702703 system_name
-archi_bp_best Q0 4886 38 0.02631578947368421 system_name
+archi_bp_best Q0  38 0.02631578947368421 system_name
 archi_bp_best Q0  39 0.02564102564102564 system_name
 archi_bp_best Q0  40 0.025 system_name
 archi_bp_best Q0  41 0.024390243902439025 system_name
@@ -1047,10 +1047,10 @@ archi_bp_best Q0  46 0.021739130434782608 system_name
 archi_bp_best Q0  47 0.02127659574468085 system_name
 archi_bp_best Q0  48 0.020833333333333332 system_name
 archi_bp_best Q0  49 0.02040816326530612 system_name
-archi_bp_best Q0  50 0.02 system_name
+archi_bp_best Q0 35377 50 0.02 system_name
 archi_bp_best Q0  51 0.0196078431372549 system_name
 archi_bp_best Q0  52 0.019230769230769232 system_name
-archi_bp_best Q0  53 0.018867924528301886 system_name
+archi_bp_best Q0 759941 53 0.018867924528301886 system_name
 archi_bp_best Q0  54 0.018518518518518517 system_name
 archi_bp_best Q0  55 0.01818181818181818 system_name
 archi_bp_best Q0  56 0.017857142857142856 system_name
@@ -1063,13 +1063,13 @@ archi_bp_best Q0  62 0.016129032258064516 system_name
 archi_bp_best Q0  63 0.015873015873015872 system_name
 archi_bp_best Q0  64 0.015625 system_name
 archi_bp_best Q0  65 0.015384615384615385 system_name
-archi_bp_best Q0 35377 66 0.015151515151515152 system_name
+archi_bp_best Q0  66 0.015151515151515152 system_name
 archi_bp_best Q0  67 0.014925373134328358 system_name
 archi_bp_best Q0  68 0.014705882352941176 system_name
-archi_bp_best Q0  69 0.014492753623188406 system_name
+archi_bp_best Q0 4886 69 0.014492753623188406 system_name
 archi_bp_best Q0  70 0.014285714285714285 system_name
 archi_bp_best Q0  71 0.014084507042253521 system_name
-archi_bp_best Q0  72 0.013888888888888888 system_name
+archi_bp_best Q0 34982 72 0.013888888888888888 system_name
 archi_bp_best Q0  73 0.0136986301369863 system_name
 archi_bp_best Q0  74 0.013513513513513514 system_name
 archi_bp_best Q0  75 0.013333333333333334 system_name
@@ -1090,9 +1090,9 @@ archi_bp_best Q0  89 0.011235955056179775 system_name
 archi_bp_best Q0  90 0.011111111111111112 system_name
 archi_bp_best Q0  91 0.01098901098901099 system_name
 archi_bp_best Q0  92 0.010869565217391304 system_name
-archi_bp_best Q0  93 0.010752688172043012 system_name
-archi_bp_best Q0 33084 94 0.010638297872340425 system_name
-archi_bp_best Q0  95 0.010526315789473684 system_name
+archi_bp_best Q0 893459 93 0.010752688172043012 system_name
+archi_bp_best Q0 199223 94 0.010638297872340425 system_name
+archi_bp_best Q0 231592 95 0.010526315789473684 system_name
 archi_bp_best Q0  96 0.010416666666666666 system_name
 archi_bp_best Q0  97 0.010309278350515464 system_name
 archi_bp_best Q0  98 0.01020408163265306 system_name
@@ -1105,7 +1105,7 @@ aussendienst_verkauf_bp Q0  4 0.25 system_name
 aussendienst_verkauf_bp Q0  5 0.2 system_name
 aussendienst_verkauf_bp Q0  6 0.16666666666666666 system_name
 aussendienst_verkauf_bp Q0  7 0.14285714285714285 system_name
-aussendienst_verkauf_bp Q0  8 0.125 system_name
+aussendienst_verkauf_bp Q0 150096 8 0.125 system_name
 aussendienst_verkauf_bp Q0  9 0.1111111111111111 system_name
 aussendienst_verkauf_bp Q0  10 0.1 system_name
 aussendienst_verkauf_bp Q0  11 0.09090909090909091 system_name
@@ -1123,7 +1123,7 @@ aussendienst_verkauf_bp Q0  22 0.045454545454545456 system_name
 aussendienst_verkauf_bp Q0  23 0.043478260869565216 system_name
 aussendienst_verkauf_bp Q0  24 0.041666666666666664 system_name
 aussendienst_verkauf_bp Q0  25 0.04 system_name
-aussendienst_verkauf_bp Q0 563369 26 0.038461538461538464 system_name
+aussendienst_verkauf_bp Q0  26 0.038461538461538464 system_name
 aussendienst_verkauf_bp Q0  27 0.037037037037037035 system_name
 aussendienst_verkauf_bp Q0  28 0.03571428571428571 system_name
 aussendienst_verkauf_bp Q0  29 0.034482758620689655 system_name
@@ -1138,7 +1138,7 @@ aussendienst_verkauf_bp Q0  37 0.02702702702702703 system_name
 aussendienst_verkauf_bp Q0  38 0.02631578947368421 system_name
 aussendienst_verkauf_bp Q0  39 0.02564102564102564 system_name
 aussendienst_verkauf_bp Q0  40 0.025 system_name
-aussendienst_verkauf_bp Q0 511226 41 0.024390243902439025 system_name
+aussendienst_verkauf_bp Q0  41 0.024390243902439025 system_name
 aussendienst_verkauf_bp Q0  42 0.023809523809523808 system_name
 aussendienst_verkauf_bp Q0  43 0.023255813953488372 system_name
 aussendienst_verkauf_bp Q0  44 0.022727272727272728 system_name
@@ -1184,15 +1184,15 @@ aussendienst_verkauf_bp Q0  83 0.012048192771084338 system_name
 aussendienst_verkauf_bp Q0  84 0.011904761904761904 system_name
 aussendienst_verkauf_bp Q0  85 0.011764705882352941 system_name
 aussendienst_verkauf_bp Q0  86 0.011627906976744186 system_name
-aussendienst_verkauf_bp Q0  87 0.011494252873563218 system_name
+aussendienst_verkauf_bp Q0 106454 87 0.011494252873563218 system_name
 aussendienst_verkauf_bp Q0  88 0.011363636363636364 system_name
 aussendienst_verkauf_bp Q0  89 0.011235955056179775 system_name
 aussendienst_verkauf_bp Q0  90 0.011111111111111112 system_name
-aussendienst_verkauf_bp Q0  91 0.01098901098901099 system_name
+aussendienst_verkauf_bp Q0 377167 91 0.01098901098901099 system_name
 aussendienst_verkauf_bp Q0  92 0.010869565217391304 system_name
 aussendienst_verkauf_bp Q0  93 0.010752688172043012 system_name
-aussendienst_verkauf_bp Q0  94 0.010638297872340425 system_name
-aussendienst_verkauf_bp Q0  95 0.010526315789473684 system_name
+aussendienst_verkauf_bp Q0 5104 94 0.010638297872340425 system_name
+aussendienst_verkauf_bp Q0 1014120 95 0.010526315789473684 system_name
 aussendienst_verkauf_bp Q0  96 0.010416666666666666 system_name
 aussendienst_verkauf_bp Q0  97 0.010309278350515464 system_name
 aussendienst_verkauf_bp Q0  98 0.01020408163265306 system_name
@@ -1205,7 +1205,7 @@ aussendienst_gebietsleiter_bp Q0  4 0.25 system_name
 aussendienst_gebietsleiter_bp Q0  5 0.2 system_name
 aussendienst_gebietsleiter_bp Q0  6 0.16666666666666666 system_name
 aussendienst_gebietsleiter_bp Q0  7 0.14285714285714285 system_name
-aussendienst_gebietsleiter_bp Q0  8 0.125 system_name
+aussendienst_gebietsleiter_bp Q0 150096 8 0.125 system_name
 aussendienst_gebietsleiter_bp Q0  9 0.1111111111111111 system_name
 aussendienst_gebietsleiter_bp Q0  10 0.1 system_name
 aussendienst_gebietsleiter_bp Q0  11 0.09090909090909091 system_name
@@ -1223,7 +1223,7 @@ aussendienst_gebietsleiter_bp Q0  22 0.045454545454545456 system_name
 aussendienst_gebietsleiter_bp Q0  23 0.043478260869565216 system_name
 aussendienst_gebietsleiter_bp Q0  24 0.041666666666666664 system_name
 aussendienst_gebietsleiter_bp Q0  25 0.04 system_name
-aussendienst_gebietsleiter_bp Q0 563369 26 0.038461538461538464 system_name
+aussendienst_gebietsleiter_bp Q0  26 0.038461538461538464 system_name
 aussendienst_gebietsleiter_bp Q0  27 0.037037037037037035 system_name
 aussendienst_gebietsleiter_bp Q0  28 0.03571428571428571 system_name
 aussendienst_gebietsleiter_bp Q0  29 0.034482758620689655 system_name
@@ -1238,7 +1238,7 @@ aussendienst_gebietsleiter_bp Q0  37 0.02702702702702703 system_name
 aussendienst_gebietsleiter_bp Q0  38 0.02631578947368421 system_name
 aussendienst_gebietsleiter_bp Q0  39 0.02564102564102564 system_name
 aussendienst_gebietsleiter_bp Q0  40 0.025 system_name
-aussendienst_gebietsleiter_bp Q0 511226 41 0.024390243902439025 system_name
+aussendienst_gebietsleiter_bp Q0  41 0.024390243902439025 system_name
 aussendienst_gebietsleiter_bp Q0  42 0.023809523809523808 system_name
 aussendienst_gebietsleiter_bp Q0  43 0.023255813953488372 system_name
 aussendienst_gebietsleiter_bp Q0  44 0.022727272727272728 system_name
@@ -1284,15 +1284,15 @@ aussendienst_gebietsleiter_bp Q0  83 0.012048192771084338 system_name
 aussendienst_gebietsleiter_bp Q0  84 0.011904761904761904 system_name
 aussendienst_gebietsleiter_bp Q0  85 0.011764705882352941 system_name
 aussendienst_gebietsleiter_bp Q0  86 0.011627906976744186 system_name
-aussendienst_gebietsleiter_bp Q0  87 0.011494252873563218 system_name
+aussendienst_gebietsleiter_bp Q0 106454 87 0.011494252873563218 system_name
 aussendienst_gebietsleiter_bp Q0  88 0.011363636363636364 system_name
 aussendienst_gebietsleiter_bp Q0  89 0.011235955056179775 system_name
 aussendienst_gebietsleiter_bp Q0  90 0.011111111111111112 system_name
-aussendienst_gebietsleiter_bp Q0  91 0.01098901098901099 system_name
+aussendienst_gebietsleiter_bp Q0 377167 91 0.01098901098901099 system_name
 aussendienst_gebietsleiter_bp Q0  92 0.010869565217391304 system_name
 aussendienst_gebietsleiter_bp Q0  93 0.010752688172043012 system_name
-aussendienst_gebietsleiter_bp Q0  94 0.010638297872340425 system_name
-aussendienst_gebietsleiter_bp Q0  95 0.010526315789473684 system_name
+aussendienst_gebietsleiter_bp Q0 5104 94 0.010638297872340425 system_name
+aussendienst_gebietsleiter_bp Q0 1014120 95 0.010526315789473684 system_name
 aussendienst_gebietsleiter_bp Q0  96 0.010416666666666666 system_name
 aussendienst_gebietsleiter_bp Q0  97 0.010309278350515464 system_name
 aussendienst_gebietsleiter_bp Q0  98 0.01020408163265306 system_name
@@ -1305,7 +1305,7 @@ salesmanager_bp_best_labels Q0  4 0.25 system_name
 salesmanager_bp_best_labels Q0  5 0.2 system_name
 salesmanager_bp_best_labels Q0  6 0.16666666666666666 system_name
 salesmanager_bp_best_labels Q0  7 0.14285714285714285 system_name
-salesmanager_bp_best_labels Q0  8 0.125 system_name
+salesmanager_bp_best_labels Q0 150096 8 0.125 system_name
 salesmanager_bp_best_labels Q0  9 0.1111111111111111 system_name
 salesmanager_bp_best_labels Q0  10 0.1 system_name
 salesmanager_bp_best_labels Q0  11 0.09090909090909091 system_name
@@ -1323,7 +1323,7 @@ salesmanager_bp_best_labels Q0  22 0.045454545454545456 system_name
 salesmanager_bp_best_labels Q0  23 0.043478260869565216 system_name
 salesmanager_bp_best_labels Q0  24 0.041666666666666664 system_name
 salesmanager_bp_best_labels Q0  25 0.04 system_name
-salesmanager_bp_best_labels Q0 563369 26 0.038461538461538464 system_name
+salesmanager_bp_best_labels Q0  26 0.038461538461538464 system_name
 salesmanager_bp_best_labels Q0  27 0.037037037037037035 system_name
 salesmanager_bp_best_labels Q0  28 0.03571428571428571 system_name
 salesmanager_bp_best_labels Q0  29 0.034482758620689655 system_name
@@ -1338,7 +1338,7 @@ salesmanager_bp_best_labels Q0  37 0.02702702702702703 system_name
 salesmanager_bp_best_labels Q0  38 0.02631578947368421 system_name
 salesmanager_bp_best_labels Q0  39 0.02564102564102564 system_name
 salesmanager_bp_best_labels Q0  40 0.025 system_name
-salesmanager_bp_best_labels Q0 511226 41 0.024390243902439025 system_name
+salesmanager_bp_best_labels Q0  41 0.024390243902439025 system_name
 salesmanager_bp_best_labels Q0  42 0.023809523809523808 system_name
 salesmanager_bp_best_labels Q0  43 0.023255813953488372 system_name
 salesmanager_bp_best_labels Q0  44 0.022727272727272728 system_name
@@ -1384,15 +1384,15 @@ salesmanager_bp_best_labels Q0  83 0.012048192771084338 system_name
 salesmanager_bp_best_labels Q0  84 0.011904761904761904 system_name
 salesmanager_bp_best_labels Q0  85 0.011764705882352941 system_name
 salesmanager_bp_best_labels Q0  86 0.011627906976744186 system_name
-salesmanager_bp_best_labels Q0  87 0.011494252873563218 system_name
+salesmanager_bp_best_labels Q0 106454 87 0.011494252873563218 system_name
 salesmanager_bp_best_labels Q0  88 0.011363636363636364 system_name
 salesmanager_bp_best_labels Q0  89 0.011235955056179775 system_name
 salesmanager_bp_best_labels Q0  90 0.011111111111111112 system_name
-salesmanager_bp_best_labels Q0  91 0.01098901098901099 system_name
+salesmanager_bp_best_labels Q0 377167 91 0.01098901098901099 system_name
 salesmanager_bp_best_labels Q0  92 0.010869565217391304 system_name
 salesmanager_bp_best_labels Q0  93 0.010752688172043012 system_name
-salesmanager_bp_best_labels Q0  94 0.010638297872340425 system_name
-salesmanager_bp_best_labels Q0  95 0.010526315789473684 system_name
+salesmanager_bp_best_labels Q0 5104 94 0.010638297872340425 system_name
+salesmanager_bp_best_labels Q0 1014120 95 0.010526315789473684 system_name
 salesmanager_bp_best_labels Q0  96 0.010416666666666666 system_name
 salesmanager_bp_best_labels Q0  97 0.010309278350515464 system_name
 salesmanager_bp_best_labels Q0  98 0.01020408163265306 system_name
@@ -1402,7 +1402,7 @@ sozialarbeiter_bp_best Q0  1 1.0 system_name
 sozialarbeiter_bp_best Q0  2 0.5 system_name
 sozialarbeiter_bp_best Q0  3 0.3333333333333333 system_name
 sozialarbeiter_bp_best Q0  4 0.25 system_name
-sozialarbeiter_bp_best Q0 441 5 0.2 system_name
+sozialarbeiter_bp_best Q0  5 0.2 system_name
 sozialarbeiter_bp_best Q0  6 0.16666666666666666 system_name
 sozialarbeiter_bp_best Q0  7 0.14285714285714285 system_name
 sozialarbeiter_bp_best Q0  8 0.125 system_name
@@ -1411,8 +1411,8 @@ sozialarbeiter_bp_best Q0  10 0.1 system_name
 sozialarbeiter_bp_best Q0  11 0.09090909090909091 system_name
 sozialarbeiter_bp_best Q0  12 0.08333333333333333 system_name
 sozialarbeiter_bp_best Q0  13 0.07692307692307693 system_name
-sozialarbeiter_bp_best Q0  14 0.07142857142857142 system_name
-sozialarbeiter_bp_best Q0  15 0.06666666666666667 system_name
+sozialarbeiter_bp_best Q0 804734 14 0.07142857142857142 system_name
+sozialarbeiter_bp_best Q0 804734 15 0.06666666666666667 system_name
 sozialarbeiter_bp_best Q0  16 0.0625 system_name
 sozialarbeiter_bp_best Q0  17 0.058823529411764705 system_name
 sozialarbeiter_bp_best Q0  18 0.05555555555555555 system_name
@@ -1421,7 +1421,7 @@ sozialarbeiter_bp_best Q0  20 0.05 system_name
 sozialarbeiter_bp_best Q0  21 0.047619047619047616 system_name
 sozialarbeiter_bp_best Q0  22 0.045454545454545456 system_name
 sozialarbeiter_bp_best Q0  23 0.043478260869565216 system_name
-sozialarbeiter_bp_best Q0  24 0.041666666666666664 system_name
+sozialarbeiter_bp_best Q0 255197 24 0.041666666666666664 system_name
 sozialarbeiter_bp_best Q0  25 0.04 system_name
 sozialarbeiter_bp_best Q0  26 0.038461538461538464 system_name
 sozialarbeiter_bp_best Q0  27 0.037037037037037035 system_name
@@ -1462,7 +1462,7 @@ sozialarbeiter_bp_best Q0  61 0.01639344262295082 system_name
 sozialarbeiter_bp_best Q0  62 0.016129032258064516 system_name
 sozialarbeiter_bp_best Q0  63 0.015873015873015872 system_name
 sozialarbeiter_bp_best Q0  64 0.015625 system_name
-sozialarbeiter_bp_best Q0 24694 65 0.015384615384615385 system_name
+sozialarbeiter_bp_best Q0  65 0.015384615384615385 system_name
 sozialarbeiter_bp_best Q0  66 0.015151515151515152 system_name
 sozialarbeiter_bp_best Q0  67 0.014925373134328358 system_name
 sozialarbeiter_bp_best Q0  68 0.014705882352941176 system_name
@@ -1477,7 +1477,7 @@ sozialarbeiter_bp_best Q0  76 0.013157894736842105 system_name
 sozialarbeiter_bp_best Q0  77 0.012987012987012988 system_name
 sozialarbeiter_bp_best Q0  78 0.01282051282051282 system_name
 sozialarbeiter_bp_best Q0  79 0.012658227848101266 system_name
-sozialarbeiter_bp_best Q0 53419 80 0.0125 system_name
+sozialarbeiter_bp_best Q0  80 0.0125 system_name
 sozialarbeiter_bp_best Q0  81 0.012345679012345678 system_name
 sozialarbeiter_bp_best Q0  82 0.012195121951219513 system_name
 sozialarbeiter_bp_best Q0  83 0.012048192771084338 system_name
@@ -1517,7 +1517,7 @@ lagerhelfer_bp_best Q0  16 0.0625 system_name
 lagerhelfer_bp_best Q0  17 0.058823529411764705 system_name
 lagerhelfer_bp_best Q0  18 0.05555555555555555 system_name
 lagerhelfer_bp_best Q0  19 0.05263157894736842 system_name
-lagerhelfer_bp_best Q0 37696 20 0.05 system_name
+lagerhelfer_bp_best Q0  20 0.05 system_name
 lagerhelfer_bp_best Q0  21 0.047619047619047616 system_name
 lagerhelfer_bp_best Q0  22 0.045454545454545456 system_name
 lagerhelfer_bp_best Q0  23 0.043478260869565216 system_name
@@ -1534,7 +1534,7 @@ lagerhelfer_bp_best Q0  33 0.030303030303030304 system_name
 lagerhelfer_bp_best Q0  34 0.029411764705882353 system_name
 lagerhelfer_bp_best Q0  35 0.02857142857142857 system_name
 lagerhelfer_bp_best Q0  36 0.027777777777777776 system_name
-lagerhelfer_bp_best Q0 63642 37 0.02702702702702703 system_name
+lagerhelfer_bp_best Q0  37 0.02702702702702703 system_name
 lagerhelfer_bp_best Q0  38 0.02631578947368421 system_name
 lagerhelfer_bp_best Q0  39 0.02564102564102564 system_name
 lagerhelfer_bp_best Q0  40 0.025 system_name
@@ -1612,7 +1612,7 @@ kunstff_bp_best Q0  11 0.09090909090909091 system_name
 kunstff_bp_best Q0  12 0.08333333333333333 system_name
 kunstff_bp_best Q0  13 0.07692307692307693 system_name
 kunstff_bp_best Q0  14 0.07142857142857142 system_name
-kunstff_bp_best Q0 57428 15 0.06666666666666667 system_name
+kunstff_bp_best Q0  15 0.06666666666666667 system_name
 kunstff_bp_best Q0  16 0.0625 system_name
 kunstff_bp_best Q0  17 0.058823529411764705 system_name
 kunstff_bp_best Q0  18 0.05555555555555555 system_name
@@ -1623,7 +1623,7 @@ kunstff_bp_best Q0  22 0.045454545454545456 system_name
 kunstff_bp_best Q0  23 0.043478260869565216 system_name
 kunstff_bp_best Q0  24 0.041666666666666664 system_name
 kunstff_bp_best Q0  25 0.04 system_name
-kunstff_bp_best Q0 34467 26 0.038461538461538464 system_name
+kunstff_bp_best Q0  26 0.038461538461538464 system_name
 kunstff_bp_best Q0  27 0.037037037037037035 system_name
 kunstff_bp_best Q0  28 0.03571428571428571 system_name
 kunstff_bp_best Q0  29 0.034482758620689655 system_name
@@ -1634,7 +1634,7 @@ kunstff_bp_best Q0  33 0.030303030303030304 system_name
 kunstff_bp_best Q0  34 0.029411764705882353 system_name
 kunstff_bp_best Q0  35 0.02857142857142857 system_name
 kunstff_bp_best Q0  36 0.027777777777777776 system_name
-kunstff_bp_best Q0  37 0.02702702702702703 system_name
+kunstff_bp_best Q0 40328 37 0.02702702702702703 system_name
 kunstff_bp_best Q0  38 0.02631578947368421 system_name
 kunstff_bp_best Q0  39 0.02564102564102564 system_name
 kunstff_bp_best Q0  40 0.025 system_name
@@ -1666,7 +1666,7 @@ kunstff_bp_best Q0  65 0.015384615384615385 system_name
 kunstff_bp_best Q0  66 0.015151515151515152 system_name
 kunstff_bp_best Q0  67 0.014925373134328358 system_name
 kunstff_bp_best Q0  68 0.014705882352941176 system_name
-kunstff_bp_best Q0 24694 69 0.014492753623188406 system_name
+kunstff_bp_best Q0  69 0.014492753623188406 system_name
 kunstff_bp_best Q0  70 0.014285714285714285 system_name
 kunstff_bp_best Q0  71 0.014084507042253521 system_name
 kunstff_bp_best Q0  72 0.013888888888888888 system_name
@@ -1685,7 +1685,7 @@ kunstff_bp_best Q0  84 0.011904761904761904 system_name
 kunstff_bp_best Q0  85 0.011764705882352941 system_name
 kunstff_bp_best Q0  86 0.011627906976744186 system_name
 kunstff_bp_best Q0  87 0.011494252873563218 system_name
-kunstff_bp_best Q0  88 0.011363636363636364 system_name
+kunstff_bp_best Q0 715248 88 0.011363636363636364 system_name
 kunstff_bp_best Q0  89 0.011235955056179775 system_name
 kunstff_bp_best Q0  90 0.011111111111111112 system_name
 kunstff_bp_best Q0  91 0.01098901098901099 system_name
@@ -1712,7 +1712,7 @@ kunststofftechnik_verfahrensmechaniker_bp_best Q0  11 0.09090909090909091 system
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  12 0.08333333333333333 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  13 0.07692307692307693 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  14 0.07142857142857142 system_name
-kunststofftechnik_verfahrensmechaniker_bp_best Q0 57428 15 0.06666666666666667 system_name
+kunststofftechnik_verfahrensmechaniker_bp_best Q0  15 0.06666666666666667 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  16 0.0625 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  17 0.058823529411764705 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  18 0.05555555555555555 system_name
@@ -1723,7 +1723,7 @@ kunststofftechnik_verfahrensmechaniker_bp_best Q0  22 0.045454545454545456 syste
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  23 0.043478260869565216 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  24 0.041666666666666664 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  25 0.04 system_name
-kunststofftechnik_verfahrensmechaniker_bp_best Q0 34467 26 0.038461538461538464 system_name
+kunststofftechnik_verfahrensmechaniker_bp_best Q0  26 0.038461538461538464 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  27 0.037037037037037035 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  28 0.03571428571428571 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  29 0.034482758620689655 system_name
@@ -1734,7 +1734,7 @@ kunststofftechnik_verfahrensmechaniker_bp_best Q0  33 0.030303030303030304 syste
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  34 0.029411764705882353 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  35 0.02857142857142857 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  36 0.027777777777777776 system_name
-kunststofftechnik_verfahrensmechaniker_bp_best Q0  37 0.02702702702702703 system_name
+kunststofftechnik_verfahrensmechaniker_bp_best Q0 40328 37 0.02702702702702703 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  38 0.02631578947368421 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  39 0.02564102564102564 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  40 0.025 system_name
@@ -1766,7 +1766,7 @@ kunststofftechnik_verfahrensmechaniker_bp_best Q0  65 0.015384615384615385 syste
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  66 0.015151515151515152 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  67 0.014925373134328358 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  68 0.014705882352941176 system_name
-kunststofftechnik_verfahrensmechaniker_bp_best Q0 24694 69 0.014492753623188406 system_name
+kunststofftechnik_verfahrensmechaniker_bp_best Q0  69 0.014492753623188406 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  70 0.014285714285714285 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  71 0.014084507042253521 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  72 0.013888888888888888 system_name
@@ -1785,7 +1785,7 @@ kunststofftechnik_verfahrensmechaniker_bp_best Q0  84 0.011904761904761904 syste
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  85 0.011764705882352941 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  86 0.011627906976744186 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  87 0.011494252873563218 system_name
-kunststofftechnik_verfahrensmechaniker_bp_best Q0  88 0.011363636363636364 system_name
+kunststofftechnik_verfahrensmechaniker_bp_best Q0 715248 88 0.011363636363636364 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  89 0.011235955056179775 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  90 0.011111111111111112 system_name
 kunststofftechnik_verfahrensmechaniker_bp_best Q0  91 0.01098901098901099 system_name
@@ -1802,7 +1802,7 @@ messtechnik_bp_best Q0  1 1.0 system_name
 messtechnik_bp_best Q0  2 0.5 system_name
 messtechnik_bp_best Q0  3 0.3333333333333333 system_name
 messtechnik_bp_best Q0  4 0.25 system_name
-messtechnik_bp_best Q0 715248 5 0.2 system_name
+messtechnik_bp_best Q0  5 0.2 system_name
 messtechnik_bp_best Q0  6 0.16666666666666666 system_name
 messtechnik_bp_best Q0  7 0.14285714285714285 system_name
 messtechnik_bp_best Q0  8 0.125 system_name
@@ -1867,7 +1867,7 @@ messtechnik_bp_best Q0  66 0.015151515151515152 system_name
 messtechnik_bp_best Q0  67 0.014925373134328358 system_name
 messtechnik_bp_best Q0  68 0.014705882352941176 system_name
 messtechnik_bp_best Q0  69 0.014492753623188406 system_name
-messtechnik_bp_best Q0 24694 70 0.014285714285714285 system_name
+messtechnik_bp_best Q0  70 0.014285714285714285 system_name
 messtechnik_bp_best Q0  71 0.014084507042253521 system_name
 messtechnik_bp_best Q0  72 0.013888888888888888 system_name
 messtechnik_bp_best Q0  73 0.0136986301369863 system_name
@@ -1899,7 +1899,7 @@ messtechnik_bp_best Q0  98 0.01020408163265306 system_name
 messtechnik_bp_best Q0  99 0.010101010101010102 system_name
 messtechnik_bp_best Q0  100 0.01 system_name
 leiterquali_bp_best Q0  1 1.0 system_name
-leiterquali_bp_best Q0 211381 2 0.5 system_name
+leiterquali_bp_best Q0  2 0.5 system_name
 leiterquali_bp_best Q0  3 0.3333333333333333 system_name
 leiterquali_bp_best Q0  4 0.25 system_name
 leiterquali_bp_best Q0  5 0.2 system_name
@@ -1914,7 +1914,7 @@ leiterquali_bp_best Q0  13 0.07692307692307693 system_name
 leiterquali_bp_best Q0  14 0.07142857142857142 system_name
 leiterquali_bp_best Q0  15 0.06666666666666667 system_name
 leiterquali_bp_best Q0  16 0.0625 system_name
-leiterquali_bp_best Q0  17 0.058823529411764705 system_name
+leiterquali_bp_best Q0 351132 17 0.058823529411764705 system_name
 leiterquali_bp_best Q0  18 0.05555555555555555 system_name
 leiterquali_bp_best Q0  19 0.05263157894736842 system_name
 leiterquali_bp_best Q0  20 0.05 system_name
@@ -1922,22 +1922,22 @@ leiterquali_bp_best Q0 169907 21 0.047619047619047616 system_name
 leiterquali_bp_best Q0  22 0.045454545454545456 system_name
 leiterquali_bp_best Q0  23 0.043478260869565216 system_name
 leiterquali_bp_best Q0 33541 24 0.041666666666666664 system_name
-leiterquali_bp_best Q0 45448 25 0.04 system_name
+leiterquali_bp_best Q0  25 0.04 system_name
 leiterquali_bp_best Q0  26 0.038461538461538464 system_name
 leiterquali_bp_best Q0  27 0.037037037037037035 system_name
 leiterquali_bp_best Q0  28 0.03571428571428571 system_name
 leiterquali_bp_best Q0  29 0.034482758620689655 system_name
-leiterquali_bp_best Q0 24694 30 0.03333333333333333 system_name
+leiterquali_bp_best Q0  30 0.03333333333333333 system_name
 leiterquali_bp_best Q0  31 0.03225806451612903 system_name
 leiterquali_bp_best Q0  32 0.03125 system_name
-leiterquali_bp_best Q0  33 0.030303030303030304 system_name
-leiterquali_bp_best Q0  34 0.029411764705882353 system_name
-leiterquali_bp_best Q0  35 0.02857142857142857 system_name
-leiterquali_bp_best Q0  36 0.027777777777777776 system_name
+leiterquali_bp_best Q0 40328 33 0.030303030303030304 system_name
+leiterquali_bp_best Q0 40328 34 0.029411764705882353 system_name
+leiterquali_bp_best Q0 24694 35 0.02857142857142857 system_name
+leiterquali_bp_best Q0 33541 36 0.027777777777777776 system_name
 leiterquali_bp_best Q0 33541 37 0.02702702702702703 system_name
-leiterquali_bp_best Q0  38 0.02631578947368421 system_name
-leiterquali_bp_best Q0  39 0.02564102564102564 system_name
-leiterquali_bp_best Q0  40 0.025 system_name
+leiterquali_bp_best Q0 33541 38 0.02631578947368421 system_name
+leiterquali_bp_best Q0 33541 39 0.02564102564102564 system_name
+leiterquali_bp_best Q0 34044 40 0.025 system_name
 leiterquali_bp_best Q0  41 0.024390243902439025 system_name
 leiterquali_bp_best Q0  42 0.023809523809523808 system_name
 leiterquali_bp_best Q0  43 0.023255813953488372 system_name
@@ -1965,22 +1965,22 @@ leiterquali_bp_best Q0  64 0.015625 system_name
 leiterquali_bp_best Q0  65 0.015384615384615385 system_name
 leiterquali_bp_best Q0  66 0.015151515151515152 system_name
 leiterquali_bp_best Q0  67 0.014925373134328358 system_name
-leiterquali_bp_best Q0  68 0.014705882352941176 system_name
+leiterquali_bp_best Q0 15487 68 0.014705882352941176 system_name
 leiterquali_bp_best Q0  69 0.014492753623188406 system_name
 leiterquali_bp_best Q0  70 0.014285714285714285 system_name
-leiterquali_bp_best Q0 956 71 0.014084507042253521 system_name
+leiterquali_bp_best Q0  71 0.014084507042253521 system_name
 leiterquali_bp_best Q0  72 0.013888888888888888 system_name
 leiterquali_bp_best Q0  73 0.0136986301369863 system_name
 leiterquali_bp_best Q0  74 0.013513513513513514 system_name
 leiterquali_bp_best Q0  75 0.013333333333333334 system_name
-leiterquali_bp_best Q0 563369 76 0.013157894736842105 system_name
+leiterquali_bp_best Q0  76 0.013157894736842105 system_name
 leiterquali_bp_best Q0  77 0.012987012987012988 system_name
 leiterquali_bp_best Q0  78 0.01282051282051282 system_name
 leiterquali_bp_best Q0  79 0.012658227848101266 system_name
 leiterquali_bp_best Q0  80 0.0125 system_name
 leiterquali_bp_best Q0 24694 81 0.012345679012345678 system_name
-leiterquali_bp_best Q0  82 0.012195121951219513 system_name
-leiterquali_bp_best Q0 24694 83 0.012048192771084338 system_name
+leiterquali_bp_best Q0 33541 82 0.012195121951219513 system_name
+leiterquali_bp_best Q0  83 0.012048192771084338 system_name
 leiterquali_bp_best Q0  84 0.011904761904761904 system_name
 leiterquali_bp_best Q0  85 0.011764705882352941 system_name
 leiterquali_bp_best Q0  86 0.011627906976744186 system_name
@@ -2063,13 +2063,13 @@ ingenieursicherheitstechnik_bp_best Q0  62 0.016129032258064516 system_name
 ingenieursicherheitstechnik_bp_best Q0  63 0.015873015873015872 system_name
 ingenieursicherheitstechnik_bp_best Q0  64 0.015625 system_name
 ingenieursicherheitstechnik_bp_best Q0  65 0.015384615384615385 system_name
-ingenieursicherheitstechnik_bp_best Q0  66 0.015151515151515152 system_name
+ingenieursicherheitstechnik_bp_best Q0 24694 66 0.015151515151515152 system_name
 ingenieursicherheitstechnik_bp_best Q0  67 0.014925373134328358 system_name
 ingenieursicherheitstechnik_bp_best Q0  68 0.014705882352941176 system_name
 ingenieursicherheitstechnik_bp_best Q0  69 0.014492753623188406 system_name
 ingenieursicherheitstechnik_bp_best Q0  70 0.014285714285714285 system_name
 ingenieursicherheitstechnik_bp_best Q0  71 0.014084507042253521 system_name
-ingenieursicherheitstechnik_bp_best Q0  72 0.013888888888888888 system_name
+ingenieursicherheitstechnik_bp_best Q0 337401 72 0.013888888888888888 system_name
 ingenieursicherheitstechnik_bp_best Q0  73 0.0136986301369863 system_name
 ingenieursicherheitstechnik_bp_best Q0  74 0.013513513513513514 system_name
 ingenieursicherheitstechnik_bp_best Q0  75 0.013333333333333334 system_name
@@ -2077,7 +2077,7 @@ ingenieursicherheitstechnik_bp_best Q0  76 0.013157894736842105 system_name
 ingenieursicherheitstechnik_bp_best Q0  77 0.012987012987012988 system_name
 ingenieursicherheitstechnik_bp_best Q0  78 0.01282051282051282 system_name
 ingenieursicherheitstechnik_bp_best Q0  79 0.012658227848101266 system_name
-ingenieursicherheitstechnik_bp_best Q0 425508 80 0.0125 system_name
+ingenieursicherheitstechnik_bp_best Q0  80 0.0125 system_name
 ingenieursicherheitstechnik_bp_best Q0  81 0.012345679012345678 system_name
 ingenieursicherheitstechnik_bp_best Q0  82 0.012195121951219513 system_name
 ingenieursicherheitstechnik_bp_best Q0  83 0.012048192771084338 system_name
@@ -2085,15 +2085,15 @@ ingenieursicherheitstechnik_bp_best Q0  84 0.011904761904761904 system_name
 ingenieursicherheitstechnik_bp_best Q0  85 0.011764705882352941 system_name
 ingenieursicherheitstechnik_bp_best Q0  86 0.011627906976744186 system_name
 ingenieursicherheitstechnik_bp_best Q0  87 0.011494252873563218 system_name
-ingenieursicherheitstechnik_bp_best Q0  88 0.011363636363636364 system_name
+ingenieursicherheitstechnik_bp_best Q0 24694 88 0.011363636363636364 system_name
 ingenieursicherheitstechnik_bp_best Q0  89 0.011235955056179775 system_name
-ingenieursicherheitstechnik_bp_best Q0 24694 90 0.011111111111111112 system_name
+ingenieursicherheitstechnik_bp_best Q0  90 0.011111111111111112 system_name
 ingenieursicherheitstechnik_bp_best Q0  91 0.01098901098901099 system_name
 ingenieursicherheitstechnik_bp_best Q0  92 0.010869565217391304 system_name
 ingenieursicherheitstechnik_bp_best Q0  93 0.010752688172043012 system_name
 ingenieursicherheitstechnik_bp_best Q0  94 0.010638297872340425 system_name
 ingenieursicherheitstechnik_bp_best Q0  95 0.010526315789473684 system_name
-ingenieursicherheitstechnik_bp_best Q0 573 96 0.010416666666666666 system_name
+ingenieursicherheitstechnik_bp_best Q0  96 0.010416666666666666 system_name
 ingenieursicherheitstechnik_bp_best Q0  97 0.010309278350515464 system_name
 ingenieursicherheitstechnik_bp_best Q0  98 0.01020408163265306 system_name
 ingenieursicherheitstechnik_bp_best Q0  99 0.010101010101010102 system_name
@@ -2127,7 +2127,7 @@ servicekraft_bp_best Q0  26 0.038461538461538464 system_name
 servicekraft_bp_best Q0  27 0.037037037037037035 system_name
 servicekraft_bp_best Q0  28 0.03571428571428571 system_name
 servicekraft_bp_best Q0  29 0.034482758620689655 system_name
-servicekraft_bp_best Q0  30 0.03333333333333333 system_name
+servicekraft_bp_best Q0 74732 30 0.03333333333333333 system_name
 servicekraft_bp_best Q0  31 0.03225806451612903 system_name
 servicekraft_bp_best Q0  32 0.03125 system_name
 servicekraft_bp_best Q0  33 0.030303030303030304 system_name
@@ -2148,7 +2148,7 @@ servicekraft_bp_best Q0  47 0.02127659574468085 system_name
 servicekraft_bp_best Q0  48 0.020833333333333332 system_name
 servicekraft_bp_best Q0  49 0.02040816326530612 system_name
 servicekraft_bp_best Q0  50 0.02 system_name
-servicekraft_bp_best Q0 33825 51 0.0196078431372549 system_name
+servicekraft_bp_best Q0  51 0.0196078431372549 system_name
 servicekraft_bp_best Q0  52 0.019230769230769232 system_name
 servicekraft_bp_best Q0  53 0.018867924528301886 system_name
 servicekraft_bp_best Q0  54 0.018518518518518517 system_name
@@ -2227,7 +2227,7 @@ kellner_bp_best Q0  26 0.038461538461538464 system_name
 kellner_bp_best Q0  27 0.037037037037037035 system_name
 kellner_bp_best Q0  28 0.03571428571428571 system_name
 kellner_bp_best Q0  29 0.034482758620689655 system_name
-kellner_bp_best Q0  30 0.03333333333333333 system_name
+kellner_bp_best Q0 74732 30 0.03333333333333333 system_name
 kellner_bp_best Q0  31 0.03225806451612903 system_name
 kellner_bp_best Q0  32 0.03125 system_name
 kellner_bp_best Q0  33 0.030303030303030304 system_name
@@ -2248,7 +2248,7 @@ kellner_bp_best Q0  47 0.02127659574468085 system_name
 kellner_bp_best Q0  48 0.020833333333333332 system_name
 kellner_bp_best Q0  49 0.02040816326530612 system_name
 kellner_bp_best Q0  50 0.02 system_name
-kellner_bp_best Q0 33825 51 0.0196078431372549 system_name
+kellner_bp_best Q0  51 0.0196078431372549 system_name
 kellner_bp_best Q0  52 0.019230769230769232 system_name
 kellner_bp_best Q0  53 0.018867924528301886 system_name
 kellner_bp_best Q0  54 0.018518518518518517 system_name
@@ -2327,7 +2327,7 @@ kuechenkraft_bp_best Q0  26 0.038461538461538464 system_name
 kuechenkraft_bp_best Q0  27 0.037037037037037035 system_name
 kuechenkraft_bp_best Q0  28 0.03571428571428571 system_name
 kuechenkraft_bp_best Q0  29 0.034482758620689655 system_name
-kuechenkraft_bp_best Q0  30 0.03333333333333333 system_name
+kuechenkraft_bp_best Q0 74732 30 0.03333333333333333 system_name
 kuechenkraft_bp_best Q0  31 0.03225806451612903 system_name
 kuechenkraft_bp_best Q0  32 0.03125 system_name
 kuechenkraft_bp_best Q0  33 0.030303030303030304 system_name
@@ -2348,7 +2348,7 @@ kuechenkraft_bp_best Q0  47 0.02127659574468085 system_name
 kuechenkraft_bp_best Q0  48 0.020833333333333332 system_name
 kuechenkraft_bp_best Q0  49 0.02040816326530612 system_name
 kuechenkraft_bp_best Q0  50 0.02 system_name
-kuechenkraft_bp_best Q0 33825 51 0.0196078431372549 system_name
+kuechenkraft_bp_best Q0  51 0.0196078431372549 system_name
 kuechenkraft_bp_best Q0  52 0.019230769230769232 system_name
 kuechenkraft_bp_best Q0  53 0.018867924528301886 system_name
 kuechenkraft_bp_best Q0  54 0.018518518518518517 system_name
@@ -2404,7 +2404,7 @@ verkaeufer_bp_best Q0  3 0.3333333333333333 system_name
 verkaeufer_bp_best Q0  4 0.25 system_name
 verkaeufer_bp_best Q0  5 0.2 system_name
 verkaeufer_bp_best Q0  6 0.16666666666666666 system_name
-verkaeufer_bp_best Q0  7 0.14285714285714285 system_name
+verkaeufer_bp_best Q0 921439 7 0.14285714285714285 system_name
 verkaeufer_bp_best Q0  8 0.125 system_name
 verkaeufer_bp_best Q0  9 0.1111111111111111 system_name
 verkaeufer_bp_best Q0  10 0.1 system_name
@@ -2443,7 +2443,7 @@ verkaeufer_bp_best Q0  42 0.023809523809523808 system_name
 verkaeufer_bp_best Q0  43 0.023255813953488372 system_name
 verkaeufer_bp_best Q0  44 0.022727272727272728 system_name
 verkaeufer_bp_best Q0  45 0.022222222222222223 system_name
-verkaeufer_bp_best Q0 24694 46 0.021739130434782608 system_name
+verkaeufer_bp_best Q0  46 0.021739130434782608 system_name
 verkaeufer_bp_best Q0  47 0.02127659574468085 system_name
 verkaeufer_bp_best Q0  48 0.020833333333333332 system_name
 verkaeufer_bp_best Q0  49 0.02040816326530612 system_name
@@ -2456,12 +2456,12 @@ verkaeufer_bp_best Q0  55 0.01818181818181818 system_name
 verkaeufer_bp_best Q0  56 0.017857142857142856 system_name
 verkaeufer_bp_best Q0  57 0.017543859649122806 system_name
 verkaeufer_bp_best Q0  58 0.017241379310344827 system_name
-verkaeufer_bp_best Q0 93907 59 0.01694915254237288 system_name
+verkaeufer_bp_best Q0  59 0.01694915254237288 system_name
 verkaeufer_bp_best Q0  60 0.016666666666666666 system_name
 verkaeufer_bp_best Q0  61 0.01639344262295082 system_name
 verkaeufer_bp_best Q0  62 0.016129032258064516 system_name
 verkaeufer_bp_best Q0  63 0.015873015873015872 system_name
-verkaeufer_bp_best Q0 40328 64 0.015625 system_name
+verkaeufer_bp_best Q0  64 0.015625 system_name
 verkaeufer_bp_best Q0  65 0.015384615384615385 system_name
 verkaeufer_bp_best Q0  66 0.015151515151515152 system_name
 verkaeufer_bp_best Q0  67 0.014925373134328358 system_name
@@ -2493,7 +2493,7 @@ verkaeufer_bp_best Q0  92 0.010869565217391304 system_name
 verkaeufer_bp_best Q0  93 0.010752688172043012 system_name
 verkaeufer_bp_best Q0  94 0.010638297872340425 system_name
 verkaeufer_bp_best Q0  95 0.010526315789473684 system_name
-verkaeufer_bp_best Q0 63642 96 0.010416666666666666 system_name
+verkaeufer_bp_best Q0  96 0.010416666666666666 system_name
 verkaeufer_bp_best Q0  97 0.010309278350515464 system_name
 verkaeufer_bp_best Q0  98 0.01020408163265306 system_name
 verkaeufer_bp_best Q0  99 0.010101010101010102 system_name
@@ -2504,7 +2504,7 @@ fahrer_bp_best Q0  3 0.3333333333333333 system_name
 fahrer_bp_best Q0  4 0.25 system_name
 fahrer_bp_best Q0  5 0.2 system_name
 fahrer_bp_best Q0  6 0.16666666666666666 system_name
-fahrer_bp_best Q0  7 0.14285714285714285 system_name
+fahrer_bp_best Q0 921439 7 0.14285714285714285 system_name
 fahrer_bp_best Q0  8 0.125 system_name
 fahrer_bp_best Q0  9 0.1111111111111111 system_name
 fahrer_bp_best Q0  10 0.1 system_name
@@ -2543,7 +2543,7 @@ fahrer_bp_best Q0  42 0.023809523809523808 system_name
 fahrer_bp_best Q0  43 0.023255813953488372 system_name
 fahrer_bp_best Q0  44 0.022727272727272728 system_name
 fahrer_bp_best Q0  45 0.022222222222222223 system_name
-fahrer_bp_best Q0 24694 46 0.021739130434782608 system_name
+fahrer_bp_best Q0  46 0.021739130434782608 system_name
 fahrer_bp_best Q0  47 0.02127659574468085 system_name
 fahrer_bp_best Q0  48 0.020833333333333332 system_name
 fahrer_bp_best Q0  49 0.02040816326530612 system_name
@@ -2556,12 +2556,12 @@ fahrer_bp_best Q0  55 0.01818181818181818 system_name
 fahrer_bp_best Q0  56 0.017857142857142856 system_name
 fahrer_bp_best Q0  57 0.017543859649122806 system_name
 fahrer_bp_best Q0  58 0.017241379310344827 system_name
-fahrer_bp_best Q0 93907 59 0.01694915254237288 system_name
+fahrer_bp_best Q0  59 0.01694915254237288 system_name
 fahrer_bp_best Q0  60 0.016666666666666666 system_name
 fahrer_bp_best Q0  61 0.01639344262295082 system_name
 fahrer_bp_best Q0  62 0.016129032258064516 system_name
 fahrer_bp_best Q0  63 0.015873015873015872 system_name
-fahrer_bp_best Q0 40328 64 0.015625 system_name
+fahrer_bp_best Q0  64 0.015625 system_name
 fahrer_bp_best Q0  65 0.015384615384615385 system_name
 fahrer_bp_best Q0  66 0.015151515151515152 system_name
 fahrer_bp_best Q0  67 0.014925373134328358 system_name
@@ -2593,7 +2593,7 @@ fahrer_bp_best Q0  92 0.010869565217391304 system_name
 fahrer_bp_best Q0  93 0.010752688172043012 system_name
 fahrer_bp_best Q0  94 0.010638297872340425 system_name
 fahrer_bp_best Q0  95 0.010526315789473684 system_name
-fahrer_bp_best Q0 63642 96 0.010416666666666666 system_name
+fahrer_bp_best Q0  96 0.010416666666666666 system_name
 fahrer_bp_best Q0  97 0.010309278350515464 system_name
 fahrer_bp_best Q0  98 0.01020408163265306 system_name
 fahrer_bp_best Q0  99 0.010101010101010102 system_name
@@ -2604,7 +2604,7 @@ reingungskraft_bp_best Q0  3 0.3333333333333333 system_name
 reingungskraft_bp_best Q0  4 0.25 system_name
 reingungskraft_bp_best Q0  5 0.2 system_name
 reingungskraft_bp_best Q0  6 0.16666666666666666 system_name
-reingungskraft_bp_best Q0  7 0.14285714285714285 system_name
+reingungskraft_bp_best Q0 921439 7 0.14285714285714285 system_name
 reingungskraft_bp_best Q0  8 0.125 system_name
 reingungskraft_bp_best Q0  9 0.1111111111111111 system_name
 reingungskraft_bp_best Q0  10 0.1 system_name
@@ -2643,7 +2643,7 @@ reingungskraft_bp_best Q0  42 0.023809523809523808 system_name
 reingungskraft_bp_best Q0  43 0.023255813953488372 system_name
 reingungskraft_bp_best Q0  44 0.022727272727272728 system_name
 reingungskraft_bp_best Q0  45 0.022222222222222223 system_name
-reingungskraft_bp_best Q0 24694 46 0.021739130434782608 system_name
+reingungskraft_bp_best Q0  46 0.021739130434782608 system_name
 reingungskraft_bp_best Q0  47 0.02127659574468085 system_name
 reingungskraft_bp_best Q0  48 0.020833333333333332 system_name
 reingungskraft_bp_best Q0  49 0.02040816326530612 system_name
@@ -2656,12 +2656,12 @@ reingungskraft_bp_best Q0  55 0.01818181818181818 system_name
 reingungskraft_bp_best Q0  56 0.017857142857142856 system_name
 reingungskraft_bp_best Q0  57 0.017543859649122806 system_name
 reingungskraft_bp_best Q0  58 0.017241379310344827 system_name
-reingungskraft_bp_best Q0 93907 59 0.01694915254237288 system_name
+reingungskraft_bp_best Q0  59 0.01694915254237288 system_name
 reingungskraft_bp_best Q0  60 0.016666666666666666 system_name
 reingungskraft_bp_best Q0  61 0.01639344262295082 system_name
 reingungskraft_bp_best Q0  62 0.016129032258064516 system_name
 reingungskraft_bp_best Q0  63 0.015873015873015872 system_name
-reingungskraft_bp_best Q0 40328 64 0.015625 system_name
+reingungskraft_bp_best Q0  64 0.015625 system_name
 reingungskraft_bp_best Q0  65 0.015384615384615385 system_name
 reingungskraft_bp_best Q0  66 0.015151515151515152 system_name
 reingungskraft_bp_best Q0  67 0.014925373134328358 system_name
@@ -2693,7 +2693,7 @@ reingungskraft_bp_best Q0  92 0.010869565217391304 system_name
 reingungskraft_bp_best Q0  93 0.010752688172043012 system_name
 reingungskraft_bp_best Q0  94 0.010638297872340425 system_name
 reingungskraft_bp_best Q0  95 0.010526315789473684 system_name
-reingungskraft_bp_best Q0 63642 96 0.010416666666666666 system_name
+reingungskraft_bp_best Q0  96 0.010416666666666666 system_name
 reingungskraft_bp_best Q0  97 0.010309278350515464 system_name
 reingungskraft_bp_best Q0  98 0.01020408163265306 system_name
 reingungskraft_bp_best Q0  99 0.010101010101010102 system_name
@@ -2763,13 +2763,13 @@ ingenieursicherheitstechnik_bp_best Q0  62 0.016129032258064516 system_name
 ingenieursicherheitstechnik_bp_best Q0  63 0.015873015873015872 system_name
 ingenieursicherheitstechnik_bp_best Q0  64 0.015625 system_name
 ingenieursicherheitstechnik_bp_best Q0  65 0.015384615384615385 system_name
-ingenieursicherheitstechnik_bp_best Q0  66 0.015151515151515152 system_name
+ingenieursicherheitstechnik_bp_best Q0 24694 66 0.015151515151515152 system_name
 ingenieursicherheitstechnik_bp_best Q0  67 0.014925373134328358 system_name
 ingenieursicherheitstechnik_bp_best Q0  68 0.014705882352941176 system_name
 ingenieursicherheitstechnik_bp_best Q0  69 0.014492753623188406 system_name
 ingenieursicherheitstechnik_bp_best Q0  70 0.014285714285714285 system_name
 ingenieursicherheitstechnik_bp_best Q0  71 0.014084507042253521 system_name
-ingenieursicherheitstechnik_bp_best Q0  72 0.013888888888888888 system_name
+ingenieursicherheitstechnik_bp_best Q0 337401 72 0.013888888888888888 system_name
 ingenieursicherheitstechnik_bp_best Q0  73 0.0136986301369863 system_name
 ingenieursicherheitstechnik_bp_best Q0  74 0.013513513513513514 system_name
 ingenieursicherheitstechnik_bp_best Q0  75 0.013333333333333334 system_name
@@ -2777,7 +2777,7 @@ ingenieursicherheitstechnik_bp_best Q0  76 0.013157894736842105 system_name
 ingenieursicherheitstechnik_bp_best Q0  77 0.012987012987012988 system_name
 ingenieursicherheitstechnik_bp_best Q0  78 0.01282051282051282 system_name
 ingenieursicherheitstechnik_bp_best Q0  79 0.012658227848101266 system_name
-ingenieursicherheitstechnik_bp_best Q0 425508 80 0.0125 system_name
+ingenieursicherheitstechnik_bp_best Q0  80 0.0125 system_name
 ingenieursicherheitstechnik_bp_best Q0  81 0.012345679012345678 system_name
 ingenieursicherheitstechnik_bp_best Q0  82 0.012195121951219513 system_name
 ingenieursicherheitstechnik_bp_best Q0  83 0.012048192771084338 system_name
@@ -2785,15 +2785,15 @@ ingenieursicherheitstechnik_bp_best Q0  84 0.011904761904761904 system_name
 ingenieursicherheitstechnik_bp_best Q0  85 0.011764705882352941 system_name
 ingenieursicherheitstechnik_bp_best Q0  86 0.011627906976744186 system_name
 ingenieursicherheitstechnik_bp_best Q0  87 0.011494252873563218 system_name
-ingenieursicherheitstechnik_bp_best Q0  88 0.011363636363636364 system_name
+ingenieursicherheitstechnik_bp_best Q0 24694 88 0.011363636363636364 system_name
 ingenieursicherheitstechnik_bp_best Q0  89 0.011235955056179775 system_name
-ingenieursicherheitstechnik_bp_best Q0 24694 90 0.011111111111111112 system_name
+ingenieursicherheitstechnik_bp_best Q0  90 0.011111111111111112 system_name
 ingenieursicherheitstechnik_bp_best Q0  91 0.01098901098901099 system_name
 ingenieursicherheitstechnik_bp_best Q0  92 0.010869565217391304 system_name
 ingenieursicherheitstechnik_bp_best Q0  93 0.010752688172043012 system_name
 ingenieursicherheitstechnik_bp_best Q0  94 0.010638297872340425 system_name
 ingenieursicherheitstechnik_bp_best Q0  95 0.010526315789473684 system_name
-ingenieursicherheitstechnik_bp_best Q0 573 96 0.010416666666666666 system_name
+ingenieursicherheitstechnik_bp_best Q0  96 0.010416666666666666 system_name
 ingenieursicherheitstechnik_bp_best Q0  97 0.010309278350515464 system_name
 ingenieursicherheitstechnik_bp_best Q0  98 0.01020408163265306 system_name
 ingenieursicherheitstechnik_bp_best Q0  99 0.010101010101010102 system_name
@@ -2804,7 +2804,7 @@ immo_bp_best Q0  3 0.3333333333333333 system_name
 immo_bp_best Q0  4 0.25 system_name
 immo_bp_best Q0  5 0.2 system_name
 immo_bp_best Q0  6 0.16666666666666666 system_name
-immo_bp_best Q0 34467 7 0.14285714285714285 system_name
+immo_bp_best Q0  7 0.14285714285714285 system_name
 immo_bp_best Q0  8 0.125 system_name
 immo_bp_best Q0  9 0.1111111111111111 system_name
 immo_bp_best Q0  10 0.1 system_name
@@ -2818,21 +2818,21 @@ immo_bp_best Q0  17 0.058823529411764705 system_name
 immo_bp_best Q0  18 0.05555555555555555 system_name
 immo_bp_best Q0  19 0.05263157894736842 system_name
 immo_bp_best Q0  20 0.05 system_name
-immo_bp_best Q0 34385 21 0.047619047619047616 system_name
-immo_bp_best Q0 24694 22 0.045454545454545456 system_name
+immo_bp_best Q0  21 0.047619047619047616 system_name
+immo_bp_best Q0  22 0.045454545454545456 system_name
 immo_bp_best Q0  23 0.043478260869565216 system_name
 immo_bp_best Q0  24 0.041666666666666664 system_name
 immo_bp_best Q0  25 0.04 system_name
 immo_bp_best Q0  26 0.038461538461538464 system_name
 immo_bp_best Q0  27 0.037037037037037035 system_name
 immo_bp_best Q0  28 0.03571428571428571 system_name
-immo_bp_best Q0 554381 29 0.034482758620689655 system_name
+immo_bp_best Q0  29 0.034482758620689655 system_name
 immo_bp_best Q0  30 0.03333333333333333 system_name
 immo_bp_best Q0  31 0.03225806451612903 system_name
 immo_bp_best Q0  32 0.03125 system_name
 immo_bp_best Q0  33 0.030303030303030304 system_name
 immo_bp_best Q0  34 0.029411764705882353 system_name
-immo_bp_best Q0  35 0.02857142857142857 system_name
+immo_bp_best Q0 513409 35 0.02857142857142857 system_name
 immo_bp_best Q0  36 0.027777777777777776 system_name
 immo_bp_best Q0  37 0.02702702702702703 system_name
 immo_bp_best Q0  38 0.02631578947368421 system_name
@@ -2841,15 +2841,15 @@ immo_bp_best Q0  40 0.025 system_name
 immo_bp_best Q0  41 0.024390243902439025 system_name
 immo_bp_best Q0  42 0.023809523809523808 system_name
 immo_bp_best Q0  43 0.023255813953488372 system_name
-immo_bp_best Q0 50180 44 0.022727272727272728 system_name
+immo_bp_best Q0  44 0.022727272727272728 system_name
 immo_bp_best Q0  45 0.022222222222222223 system_name
 immo_bp_best Q0  46 0.021739130434782608 system_name
 immo_bp_best Q0  47 0.02127659574468085 system_name
 immo_bp_best Q0  48 0.020833333333333332 system_name
-immo_bp_best Q0 24694 49 0.02040816326530612 system_name
+immo_bp_best Q0  49 0.02040816326530612 system_name
 immo_bp_best Q0  50 0.02 system_name
-immo_bp_best Q0 40328 51 0.0196078431372549 system_name
-immo_bp_best Q0 495509 52 0.019230769230769232 system_name
+immo_bp_best Q0  51 0.0196078431372549 system_name
+immo_bp_best Q0  52 0.019230769230769232 system_name
 immo_bp_best Q0  53 0.018867924528301886 system_name
 immo_bp_best Q0  54 0.018518518518518517 system_name
 immo_bp_best Q0  55 0.01818181818181818 system_name
@@ -2870,7 +2870,7 @@ immo_bp_best Q0  69 0.014492753623188406 system_name
 immo_bp_best Q0  70 0.014285714285714285 system_name
 immo_bp_best Q0  71 0.014084507042253521 system_name
 immo_bp_best Q0  72 0.013888888888888888 system_name
-immo_bp_best Q0 393441 73 0.0136986301369863 system_name
+immo_bp_best Q0  73 0.0136986301369863 system_name
 immo_bp_best Q0  74 0.013513513513513514 system_name
 immo_bp_best Q0  75 0.013333333333333334 system_name
 immo_bp_best Q0  76 0.013157894736842105 system_name
@@ -2904,7 +2904,7 @@ immo_immobilienmarkler_bp Q0  3 0.3333333333333333 system_name
 immo_immobilienmarkler_bp Q0  4 0.25 system_name
 immo_immobilienmarkler_bp Q0  5 0.2 system_name
 immo_immobilienmarkler_bp Q0  6 0.16666666666666666 system_name
-immo_immobilienmarkler_bp Q0 34467 7 0.14285714285714285 system_name
+immo_immobilienmarkler_bp Q0  7 0.14285714285714285 system_name
 immo_immobilienmarkler_bp Q0  8 0.125 system_name
 immo_immobilienmarkler_bp Q0  9 0.1111111111111111 system_name
 immo_immobilienmarkler_bp Q0  10 0.1 system_name
@@ -2918,21 +2918,21 @@ immo_immobilienmarkler_bp Q0  17 0.058823529411764705 system_name
 immo_immobilienmarkler_bp Q0  18 0.05555555555555555 system_name
 immo_immobilienmarkler_bp Q0  19 0.05263157894736842 system_name
 immo_immobilienmarkler_bp Q0  20 0.05 system_name
-immo_immobilienmarkler_bp Q0 34385 21 0.047619047619047616 system_name
-immo_immobilienmarkler_bp Q0 24694 22 0.045454545454545456 system_name
+immo_immobilienmarkler_bp Q0  21 0.047619047619047616 system_name
+immo_immobilienmarkler_bp Q0  22 0.045454545454545456 system_name
 immo_immobilienmarkler_bp Q0  23 0.043478260869565216 system_name
 immo_immobilienmarkler_bp Q0  24 0.041666666666666664 system_name
 immo_immobilienmarkler_bp Q0  25 0.04 system_name
 immo_immobilienmarkler_bp Q0  26 0.038461538461538464 system_name
 immo_immobilienmarkler_bp Q0  27 0.037037037037037035 system_name
 immo_immobilienmarkler_bp Q0  28 0.03571428571428571 system_name
-immo_immobilienmarkler_bp Q0 554381 29 0.034482758620689655 system_name
+immo_immobilienmarkler_bp Q0  29 0.034482758620689655 system_name
 immo_immobilienmarkler_bp Q0  30 0.03333333333333333 system_name
 immo_immobilienmarkler_bp Q0  31 0.03225806451612903 system_name
 immo_immobilienmarkler_bp Q0  32 0.03125 system_name
 immo_immobilienmarkler_bp Q0  33 0.030303030303030304 system_name
 immo_immobilienmarkler_bp Q0  34 0.029411764705882353 system_name
-immo_immobilienmarkler_bp Q0  35 0.02857142857142857 system_name
+immo_immobilienmarkler_bp Q0 513409 35 0.02857142857142857 system_name
 immo_immobilienmarkler_bp Q0  36 0.027777777777777776 system_name
 immo_immobilienmarkler_bp Q0  37 0.02702702702702703 system_name
 immo_immobilienmarkler_bp Q0  38 0.02631578947368421 system_name
@@ -2941,15 +2941,15 @@ immo_immobilienmarkler_bp Q0  40 0.025 system_name
 immo_immobilienmarkler_bp Q0  41 0.024390243902439025 system_name
 immo_immobilienmarkler_bp Q0  42 0.023809523809523808 system_name
 immo_immobilienmarkler_bp Q0  43 0.023255813953488372 system_name
-immo_immobilienmarkler_bp Q0 50180 44 0.022727272727272728 system_name
+immo_immobilienmarkler_bp Q0  44 0.022727272727272728 system_name
 immo_immobilienmarkler_bp Q0  45 0.022222222222222223 system_name
 immo_immobilienmarkler_bp Q0  46 0.021739130434782608 system_name
 immo_immobilienmarkler_bp Q0  47 0.02127659574468085 system_name
 immo_immobilienmarkler_bp Q0  48 0.020833333333333332 system_name
-immo_immobilienmarkler_bp Q0 24694 49 0.02040816326530612 system_name
+immo_immobilienmarkler_bp Q0  49 0.02040816326530612 system_name
 immo_immobilienmarkler_bp Q0  50 0.02 system_name
-immo_immobilienmarkler_bp Q0 40328 51 0.0196078431372549 system_name
-immo_immobilienmarkler_bp Q0 495509 52 0.019230769230769232 system_name
+immo_immobilienmarkler_bp Q0  51 0.0196078431372549 system_name
+immo_immobilienmarkler_bp Q0  52 0.019230769230769232 system_name
 immo_immobilienmarkler_bp Q0  53 0.018867924528301886 system_name
 immo_immobilienmarkler_bp Q0  54 0.018518518518518517 system_name
 immo_immobilienmarkler_bp Q0  55 0.01818181818181818 system_name
@@ -2970,7 +2970,7 @@ immo_immobilienmarkler_bp Q0  69 0.014492753623188406 system_name
 immo_immobilienmarkler_bp Q0  70 0.014285714285714285 system_name
 immo_immobilienmarkler_bp Q0  71 0.014084507042253521 system_name
 immo_immobilienmarkler_bp Q0  72 0.013888888888888888 system_name
-immo_immobilienmarkler_bp Q0 393441 73 0.0136986301369863 system_name
+immo_immobilienmarkler_bp Q0  73 0.0136986301369863 system_name
 immo_immobilienmarkler_bp Q0  74 0.013513513513513514 system_name
 immo_immobilienmarkler_bp Q0  75 0.013333333333333334 system_name
 immo_immobilienmarkler_bp Q0  76 0.013157894736842105 system_name
@@ -2998,7 +2998,7 @@ immo_immobilienmarkler_bp Q0  97 0.010309278350515464 system_name
 immo_immobilienmarkler_bp Q0  98 0.01020408163265306 system_name
 immo_immobilienmarkler_bp Q0  99 0.010101010101010102 system_name
 immo_immobilienmarkler_bp Q0  100 0.01 system_name
-facility_manager_bp_best Q0 211381 1 1.0 system_name
+facility_manager_bp_best Q0  1 1.0 system_name
 facility_manager_bp_best Q0  2 0.5 system_name
 facility_manager_bp_best Q0  3 0.3333333333333333 system_name
 facility_manager_bp_best Q0  4 0.25 system_name
@@ -3036,7 +3036,7 @@ facility_manager_bp_best Q0  35 0.02857142857142857 system_name
 facility_manager_bp_best Q0  36 0.027777777777777776 system_name
 facility_manager_bp_best Q0  37 0.02702702702702703 system_name
 facility_manager_bp_best Q0  38 0.02631578947368421 system_name
-facility_manager_bp_best Q0 1196 39 0.02564102564102564 system_name
+facility_manager_bp_best Q0  39 0.02564102564102564 system_name
 facility_manager_bp_best Q0  40 0.025 system_name
 facility_manager_bp_best Q0  41 0.024390243902439025 system_name
 facility_manager_bp_best Q0  42 0.023809523809523808 system_name
@@ -3044,7 +3044,7 @@ facility_manager_bp_best Q0  43 0.023255813953488372 system_name
 facility_manager_bp_best Q0  44 0.022727272727272728 system_name
 facility_manager_bp_best Q0  45 0.022222222222222223 system_name
 facility_manager_bp_best Q0  46 0.021739130434782608 system_name
-facility_manager_bp_best Q0 24694 47 0.02127659574468085 system_name
+facility_manager_bp_best Q0  47 0.02127659574468085 system_name
 facility_manager_bp_best Q0  48 0.020833333333333332 system_name
 facility_manager_bp_best Q0  49 0.02040816326530612 system_name
 facility_manager_bp_best Q0  50 0.02 system_name
@@ -3073,7 +3073,7 @@ facility_manager_bp_best Q0  72 0.013888888888888888 system_name
 facility_manager_bp_best Q0  73 0.0136986301369863 system_name
 facility_manager_bp_best Q0  74 0.013513513513513514 system_name
 facility_manager_bp_best Q0  75 0.013333333333333334 system_name
-facility_manager_bp_best Q0 4747 76 0.013157894736842105 system_name
+facility_manager_bp_best Q0  76 0.013157894736842105 system_name
 facility_manager_bp_best Q0  77 0.012987012987012988 system_name
 facility_manager_bp_best Q0  78 0.01282051282051282 system_name
 facility_manager_bp_best Q0  79 0.012658227848101266 system_name
@@ -3084,7 +3084,7 @@ facility_manager_bp_best Q0  83 0.012048192771084338 system_name
 facility_manager_bp_best Q0  84 0.011904761904761904 system_name
 facility_manager_bp_best Q0  85 0.011764705882352941 system_name
 facility_manager_bp_best Q0  86 0.011627906976744186 system_name
-facility_manager_bp_best Q0 70093 87 0.011494252873563218 system_name
+facility_manager_bp_best Q0  87 0.011494252873563218 system_name
 facility_manager_bp_best Q0  88 0.011363636363636364 system_name
 facility_manager_bp_best Q0  89 0.011235955056179775 system_name
 facility_manager_bp_best Q0  90 0.011111111111111112 system_name
@@ -3114,7 +3114,7 @@ informatik_softwareentwickler_bp_best Q0  13 0.07692307692307693 system_name
 informatik_softwareentwickler_bp_best Q0  14 0.07142857142857142 system_name
 informatik_softwareentwickler_bp_best Q0  15 0.06666666666666667 system_name
 informatik_softwareentwickler_bp_best Q0  16 0.0625 system_name
-informatik_softwareentwickler_bp_best Q0 469384 17 0.058823529411764705 system_name
+informatik_softwareentwickler_bp_best Q0  17 0.058823529411764705 system_name
 informatik_softwareentwickler_bp_best Q0  18 0.05555555555555555 system_name
 informatik_softwareentwickler_bp_best Q0  19 0.05263157894736842 system_name
 informatik_softwareentwickler_bp_best Q0  20 0.05 system_name
@@ -3171,7 +3171,7 @@ informatik_softwareentwickler_bp_best Q0  70 0.014285714285714285 system_name
 informatik_softwareentwickler_bp_best Q0  71 0.014084507042253521 system_name
 informatik_softwareentwickler_bp_best Q0  72 0.013888888888888888 system_name
 informatik_softwareentwickler_bp_best Q0  73 0.0136986301369863 system_name
-informatik_softwareentwickler_bp_best Q0 130738 74 0.013513513513513514 system_name
+informatik_softwareentwickler_bp_best Q0 715248 74 0.013513513513513514 system_name
 informatik_softwareentwickler_bp_best Q0  75 0.013333333333333334 system_name
 informatik_softwareentwickler_bp_best Q0  76 0.013157894736842105 system_name
 informatik_softwareentwickler_bp_best Q0  77 0.012987012987012988 system_name
@@ -3184,7 +3184,7 @@ informatik_softwareentwickler_bp_best Q0  83 0.012048192771084338 system_name
 informatik_softwareentwickler_bp_best Q0  84 0.011904761904761904 system_name
 informatik_softwareentwickler_bp_best Q0  85 0.011764705882352941 system_name
 informatik_softwareentwickler_bp_best Q0  86 0.011627906976744186 system_name
-informatik_softwareentwickler_bp_best Q0  87 0.011494252873563218 system_name
+informatik_softwareentwickler_bp_best Q0 24694 87 0.011494252873563218 system_name
 informatik_softwareentwickler_bp_best Q0  88 0.011363636363636364 system_name
 informatik_softwareentwickler_bp_best Q0  89 0.011235955056179775 system_name
 informatik_softwareentwickler_bp_best Q0  90 0.011111111111111112 system_name
@@ -3214,7 +3214,7 @@ anwendungsentwickler_bp Q0  13 0.07692307692307693 system_name
 anwendungsentwickler_bp Q0  14 0.07142857142857142 system_name
 anwendungsentwickler_bp Q0  15 0.06666666666666667 system_name
 anwendungsentwickler_bp Q0  16 0.0625 system_name
-anwendungsentwickler_bp Q0 469384 17 0.058823529411764705 system_name
+anwendungsentwickler_bp Q0  17 0.058823529411764705 system_name
 anwendungsentwickler_bp Q0  18 0.05555555555555555 system_name
 anwendungsentwickler_bp Q0  19 0.05263157894736842 system_name
 anwendungsentwickler_bp Q0  20 0.05 system_name
@@ -3271,7 +3271,7 @@ anwendungsentwickler_bp Q0  70 0.014285714285714285 system_name
 anwendungsentwickler_bp Q0  71 0.014084507042253521 system_name
 anwendungsentwickler_bp Q0  72 0.013888888888888888 system_name
 anwendungsentwickler_bp Q0  73 0.0136986301369863 system_name
-anwendungsentwickler_bp Q0 130738 74 0.013513513513513514 system_name
+anwendungsentwickler_bp Q0 715248 74 0.013513513513513514 system_name
 anwendungsentwickler_bp Q0  75 0.013333333333333334 system_name
 anwendungsentwickler_bp Q0  76 0.013157894736842105 system_name
 anwendungsentwickler_bp Q0  77 0.012987012987012988 system_name
@@ -3284,7 +3284,7 @@ anwendungsentwickler_bp Q0  83 0.012048192771084338 system_name
 anwendungsentwickler_bp Q0  84 0.011904761904761904 system_name
 anwendungsentwickler_bp Q0  85 0.011764705882352941 system_name
 anwendungsentwickler_bp Q0  86 0.011627906976744186 system_name
-anwendungsentwickler_bp Q0  87 0.011494252873563218 system_name
+anwendungsentwickler_bp Q0 24694 87 0.011494252873563218 system_name
 anwendungsentwickler_bp Q0  88 0.011363636363636364 system_name
 anwendungsentwickler_bp Q0  89 0.011235955056179775 system_name
 anwendungsentwickler_bp Q0  90 0.011111111111111112 system_name
@@ -3300,7 +3300,7 @@ anwendungsentwickler_bp Q0  99 0.010101010101010102 system_name
 anwendungsentwickler_bp Q0  100 0.01 system_name
 sozialassistent_bp_best Q0  1 1.0 system_name
 sozialassistent_bp_best Q0  2 0.5 system_name
-sozialassistent_bp_best Q0  3 0.3333333333333333 system_name
+sozialassistent_bp_best Q0 255197 3 0.3333333333333333 system_name
 sozialassistent_bp_best Q0  4 0.25 system_name
 sozialassistent_bp_best Q0  5 0.2 system_name
 sozialassistent_bp_best Q0  6 0.16666666666666666 system_name
@@ -3318,13 +3318,13 @@ sozialassistent_bp_best Q0  17 0.058823529411764705 system_name
 sozialassistent_bp_best Q0  18 0.05555555555555555 system_name
 sozialassistent_bp_best Q0  19 0.05263157894736842 system_name
 sozialassistent_bp_best Q0  20 0.05 system_name
-sozialassistent_bp_best Q0 441 21 0.047619047619047616 system_name
+sozialassistent_bp_best Q0  21 0.047619047619047616 system_name
 sozialassistent_bp_best Q0  22 0.045454545454545456 system_name
-sozialassistent_bp_best Q0  23 0.043478260869565216 system_name
-sozialassistent_bp_best Q0  24 0.041666666666666664 system_name
+sozialassistent_bp_best Q0 804734 23 0.043478260869565216 system_name
+sozialassistent_bp_best Q0 804734 24 0.041666666666666664 system_name
 sozialassistent_bp_best Q0  25 0.04 system_name
 sozialassistent_bp_best Q0  26 0.038461538461538464 system_name
-sozialassistent_bp_best Q0 60451 27 0.037037037037037035 system_name
+sozialassistent_bp_best Q0  27 0.037037037037037035 system_name
 sozialassistent_bp_best Q0  28 0.03571428571428571 system_name
 sozialassistent_bp_best Q0  29 0.034482758620689655 system_name
 sozialassistent_bp_best Q0  30 0.03333333333333333 system_name
@@ -3389,7 +3389,7 @@ sozialassistent_bp_best Q0  88 0.011363636363636364 system_name
 sozialassistent_bp_best Q0  89 0.011235955056179775 system_name
 sozialassistent_bp_best Q0 50180 90 0.011111111111111112 system_name
 sozialassistent_bp_best Q0 50180 91 0.01098901098901099 system_name
-sozialassistent_bp_best Q0 38240 92 0.010869565217391304 system_name
+sozialassistent_bp_best Q0 50180 92 0.010869565217391304 system_name
 sozialassistent_bp_best Q0  93 0.010752688172043012 system_name
 sozialassistent_bp_best Q0  94 0.010638297872340425 system_name
 sozialassistent_bp_best Q0  95 0.010526315789473684 system_name
@@ -3398,51 +3398,51 @@ sozialassistent_bp_best Q0  97 0.010309278350515464 system_name
 sozialassistent_bp_best Q0  98 0.01020408163265306 system_name
 sozialassistent_bp_best Q0  99 0.010101010101010102 system_name
 sozialassistent_bp_best Q0  100 0.01 system_name
-innovationsmanagement_basic_prompt_best Q0  1 1.0 system_name
-innovationsmanagement_basic_prompt_best Q0  2 0.5 system_name
-innovationsmanagement_basic_prompt_best Q0  3 0.3333333333333333 system_name
-innovationsmanagement_basic_prompt_best Q0  4 0.25 system_name
-innovationsmanagement_basic_prompt_best Q0  5 0.2 system_name
-innovationsmanagement_basic_prompt_best Q0  6 0.16666666666666666 system_name
-innovationsmanagement_basic_prompt_best Q0  7 0.14285714285714285 system_name
-innovationsmanagement_basic_prompt_best Q0  8 0.125 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 1 1.0 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 2 0.5 system_name
+innovationsmanagement_basic_prompt_best Q0 24694 3 0.3333333333333333 system_name
+innovationsmanagement_basic_prompt_best Q0 37538 4 0.25 system_name
+innovationsmanagement_basic_prompt_best Q0 24694 5 0.2 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 6 0.16666666666666666 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 7 0.14285714285714285 system_name
+innovationsmanagement_basic_prompt_best Q0 60451 8 0.125 system_name
 innovationsmanagement_basic_prompt_best Q0 47947 9 0.1111111111111111 system_name
-innovationsmanagement_basic_prompt_best Q0  10 0.1 system_name
-innovationsmanagement_basic_prompt_best Q0  11 0.09090909090909091 system_name
-innovationsmanagement_basic_prompt_best Q0  12 0.08333333333333333 system_name
+innovationsmanagement_basic_prompt_best Q0 60451 10 0.1 system_name
+innovationsmanagement_basic_prompt_best Q0 24694 11 0.09090909090909091 system_name
+innovationsmanagement_basic_prompt_best Q0 76087 12 0.08333333333333333 system_name
 innovationsmanagement_basic_prompt_best Q0  13 0.07692307692307693 system_name
-innovationsmanagement_basic_prompt_best Q0  14 0.07142857142857142 system_name
-innovationsmanagement_basic_prompt_best Q0  15 0.06666666666666667 system_name
+innovationsmanagement_basic_prompt_best Q0 625659 14 0.07142857142857142 system_name
+innovationsmanagement_basic_prompt_best Q0 580439 15 0.06666666666666667 system_name
 innovationsmanagement_basic_prompt_best Q0  16 0.0625 system_name
 innovationsmanagement_basic_prompt_best Q0  17 0.058823529411764705 system_name
 innovationsmanagement_basic_prompt_best Q0  18 0.05555555555555555 system_name
 innovationsmanagement_basic_prompt_best Q0  19 0.05263157894736842 system_name
 innovationsmanagement_basic_prompt_best Q0  20 0.05 system_name
-innovationsmanagement_basic_prompt_best Q0  21 0.047619047619047616 system_name
-innovationsmanagement_basic_prompt_best Q0  22 0.045454545454545456 system_name
-innovationsmanagement_basic_prompt_best Q0  23 0.043478260869565216 system_name
-innovationsmanagement_basic_prompt_best Q0 211381 24 0.041666666666666664 system_name
-innovationsmanagement_basic_prompt_best Q0 45448 25 0.04 system_name
+innovationsmanagement_basic_prompt_best Q0 36771 21 0.047619047619047616 system_name
+innovationsmanagement_basic_prompt_best Q0 38240 22 0.045454545454545456 system_name
+innovationsmanagement_basic_prompt_best Q0 50823 23 0.043478260869565216 system_name
+innovationsmanagement_basic_prompt_best Q0  24 0.041666666666666664 system_name
+innovationsmanagement_basic_prompt_best Q0  25 0.04 system_name
 innovationsmanagement_basic_prompt_best Q0 169907 26 0.038461538461538464 system_name
-innovationsmanagement_basic_prompt_best Q0  27 0.037037037037037035 system_name
-innovationsmanagement_basic_prompt_best Q0  28 0.03571428571428571 system_name
-innovationsmanagement_basic_prompt_best Q0  29 0.034482758620689655 system_name
-innovationsmanagement_basic_prompt_best Q0  30 0.03333333333333333 system_name
+innovationsmanagement_basic_prompt_best Q0 60451 27 0.037037037037037035 system_name
+innovationsmanagement_basic_prompt_best Q0 37538 28 0.03571428571428571 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 29 0.034482758620689655 system_name
+innovationsmanagement_basic_prompt_best Q0 54850 30 0.03333333333333333 system_name
 innovationsmanagement_basic_prompt_best Q0  31 0.03225806451612903 system_name
 innovationsmanagement_basic_prompt_best Q0  32 0.03125 system_name
 innovationsmanagement_basic_prompt_best Q0  33 0.030303030303030304 system_name
 innovationsmanagement_basic_prompt_best Q0  34 0.029411764705882353 system_name
-innovationsmanagement_basic_prompt_best Q0  35 0.02857142857142857 system_name
-innovationsmanagement_basic_prompt_best Q0  36 0.027777777777777776 system_name
+innovationsmanagement_basic_prompt_best Q0 33541 35 0.02857142857142857 system_name
+innovationsmanagement_basic_prompt_best Q0 33541 36 0.027777777777777776 system_name
 innovationsmanagement_basic_prompt_best Q0 33541 37 0.02702702702702703 system_name
-innovationsmanagement_basic_prompt_best Q0  38 0.02631578947368421 system_name
-innovationsmanagement_basic_prompt_best Q0  39 0.02564102564102564 system_name
+innovationsmanagement_basic_prompt_best Q0 33541 38 0.02631578947368421 system_name
+innovationsmanagement_basic_prompt_best Q0 170737 39 0.02564102564102564 system_name
 innovationsmanagement_basic_prompt_best Q0  40 0.025 system_name
 innovationsmanagement_basic_prompt_best Q0  41 0.024390243902439025 system_name
 innovationsmanagement_basic_prompt_best Q0  42 0.023809523809523808 system_name
-innovationsmanagement_basic_prompt_best Q0  43 0.023255813953488372 system_name
-innovationsmanagement_basic_prompt_best Q0  44 0.022727272727272728 system_name
-innovationsmanagement_basic_prompt_best Q0  45 0.022222222222222223 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 43 0.023255813953488372 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 44 0.022727272727272728 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 45 0.022222222222222223 system_name
 innovationsmanagement_basic_prompt_best Q0  46 0.021739130434782608 system_name
 innovationsmanagement_basic_prompt_best Q0  47 0.02127659574468085 system_name
 innovationsmanagement_basic_prompt_best Q0  48 0.020833333333333332 system_name
@@ -3456,31 +3456,31 @@ innovationsmanagement_basic_prompt_best Q0  55 0.01818181818181818 system_name
 innovationsmanagement_basic_prompt_best Q0  56 0.017857142857142856 system_name
 innovationsmanagement_basic_prompt_best Q0  57 0.017543859649122806 system_name
 innovationsmanagement_basic_prompt_best Q0  58 0.017241379310344827 system_name
-innovationsmanagement_basic_prompt_best Q0  59 0.01694915254237288 system_name
-innovationsmanagement_basic_prompt_best Q0  60 0.016666666666666666 system_name
+innovationsmanagement_basic_prompt_best Q0 36841 59 0.01694915254237288 system_name
+innovationsmanagement_basic_prompt_best Q0 351132 60 0.016666666666666666 system_name
 innovationsmanagement_basic_prompt_best Q0  61 0.01639344262295082 system_name
 innovationsmanagement_basic_prompt_best Q0  62 0.016129032258064516 system_name
-innovationsmanagement_basic_prompt_best Q0  63 0.015873015873015872 system_name
-innovationsmanagement_basic_prompt_best Q0  64 0.015625 system_name
-innovationsmanagement_basic_prompt_best Q0  65 0.015384615384615385 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 63 0.015873015873015872 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 64 0.015625 system_name
+innovationsmanagement_basic_prompt_best Q0 60451 65 0.015384615384615385 system_name
 innovationsmanagement_basic_prompt_best Q0  66 0.015151515151515152 system_name
-innovationsmanagement_basic_prompt_best Q0  67 0.014925373134328358 system_name
+innovationsmanagement_basic_prompt_best Q0 34161 67 0.014925373134328358 system_name
 innovationsmanagement_basic_prompt_best Q0  68 0.014705882352941176 system_name
 innovationsmanagement_basic_prompt_best Q0 35584 69 0.014492753623188406 system_name
 innovationsmanagement_basic_prompt_best Q0  70 0.014285714285714285 system_name
 innovationsmanagement_basic_prompt_best Q0  71 0.014084507042253521 system_name
 innovationsmanagement_basic_prompt_best Q0  72 0.013888888888888888 system_name
 innovationsmanagement_basic_prompt_best Q0  73 0.0136986301369863 system_name
-innovationsmanagement_basic_prompt_best Q0  74 0.013513513513513514 system_name
-innovationsmanagement_basic_prompt_best Q0 33915 75 0.013333333333333334 system_name
+innovationsmanagement_basic_prompt_best Q0 15487 74 0.013513513513513514 system_name
+innovationsmanagement_basic_prompt_best Q0 40328 75 0.013333333333333334 system_name
 innovationsmanagement_basic_prompt_best Q0  76 0.013157894736842105 system_name
 innovationsmanagement_basic_prompt_best Q0  77 0.012987012987012988 system_name
 innovationsmanagement_basic_prompt_best Q0  78 0.01282051282051282 system_name
 innovationsmanagement_basic_prompt_best Q0  79 0.012658227848101266 system_name
-innovationsmanagement_basic_prompt_best Q0  80 0.0125 system_name
+innovationsmanagement_basic_prompt_best Q0 34044 80 0.0125 system_name
 innovationsmanagement_basic_prompt_best Q0 24694 81 0.012345679012345678 system_name
-innovationsmanagement_basic_prompt_best Q0 24694 82 0.012195121951219513 system_name
-innovationsmanagement_basic_prompt_best Q0 57245 83 0.012048192771084338 system_name
+innovationsmanagement_basic_prompt_best Q0  82 0.012195121951219513 system_name
+innovationsmanagement_basic_prompt_best Q0 59927 83 0.012048192771084338 system_name
 innovationsmanagement_basic_prompt_best Q0  84 0.011904761904761904 system_name
 innovationsmanagement_basic_prompt_best Q0  85 0.011764705882352941 system_name
 innovationsmanagement_basic_prompt_best Q0  86 0.011627906976744186 system_name
@@ -3489,17 +3489,17 @@ innovationsmanagement_basic_prompt_best Q0  88 0.011363636363636364 system_name
 innovationsmanagement_basic_prompt_best Q0  89 0.011235955056179775 system_name
 innovationsmanagement_basic_prompt_best Q0  90 0.011111111111111112 system_name
 innovationsmanagement_basic_prompt_best Q0  91 0.01098901098901099 system_name
-innovationsmanagement_basic_prompt_best Q0  92 0.010869565217391304 system_name
-innovationsmanagement_basic_prompt_best Q0  93 0.010752688172043012 system_name
+innovationsmanagement_basic_prompt_best Q0 60451 92 0.010869565217391304 system_name
+innovationsmanagement_basic_prompt_best Q0 34467 93 0.010752688172043012 system_name
 innovationsmanagement_basic_prompt_best Q0  94 0.010638297872340425 system_name
-innovationsmanagement_basic_prompt_best Q0 563369 95 0.010526315789473684 system_name
+innovationsmanagement_basic_prompt_best Q0  95 0.010526315789473684 system_name
 innovationsmanagement_basic_prompt_best Q0  96 0.010416666666666666 system_name
 innovationsmanagement_basic_prompt_best Q0  97 0.010309278350515464 system_name
 innovationsmanagement_basic_prompt_best Q0  98 0.01020408163265306 system_name
 innovationsmanagement_basic_prompt_best Q0  99 0.010101010101010102 system_name
 innovationsmanagement_basic_prompt_best Q0  100 0.01 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  1 1.0 system_name
-konstrukteur_sondermaschinenbau_bp_best Q0 24694 2 0.5 system_name
+konstrukteur_sondermaschinenbau_bp_best Q0  2 0.5 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  3 0.3333333333333333 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  4 0.25 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  5 0.2 system_name
@@ -3528,9 +3528,9 @@ konstrukteur_sondermaschinenbau_bp_best Q0  27 0.037037037037037035 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  28 0.03571428571428571 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  29 0.034482758620689655 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  30 0.03333333333333333 system_name
-konstrukteur_sondermaschinenbau_bp_best Q0 33054 31 0.03225806451612903 system_name
+konstrukteur_sondermaschinenbau_bp_best Q0  31 0.03225806451612903 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  32 0.03125 system_name
-konstrukteur_sondermaschinenbau_bp_best Q0 9169 33 0.030303030303030304 system_name
+konstrukteur_sondermaschinenbau_bp_best Q0  33 0.030303030303030304 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  34 0.029411764705882353 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  35 0.02857142857142857 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  36 0.027777777777777776 system_name
@@ -3553,7 +3553,7 @@ konstrukteur_sondermaschinenbau_bp_best Q0  52 0.019230769230769232 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  53 0.018867924528301886 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  54 0.018518518518518517 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  55 0.01818181818181818 system_name
-konstrukteur_sondermaschinenbau_bp_best Q0 57203 56 0.017857142857142856 system_name
+konstrukteur_sondermaschinenbau_bp_best Q0  56 0.017857142857142856 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  57 0.017543859649122806 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  58 0.017241379310344827 system_name
 konstrukteur_sondermaschinenbau_bp_best Q0  59 0.01694915254237288 system_name
@@ -3606,12 +3606,12 @@ pka_best_basic_prompt Q0  5 0.2 system_name
 pka_best_basic_prompt Q0  6 0.16666666666666666 system_name
 pka_best_basic_prompt Q0  7 0.14285714285714285 system_name
 pka_best_basic_prompt Q0  8 0.125 system_name
-pka_best_basic_prompt Q0 24694 9 0.1111111111111111 system_name
+pka_best_basic_prompt Q0  9 0.1111111111111111 system_name
 pka_best_basic_prompt Q0  10 0.1 system_name
 pka_best_basic_prompt Q0  11 0.09090909090909091 system_name
 pka_best_basic_prompt Q0  12 0.08333333333333333 system_name
 pka_best_basic_prompt Q0  13 0.07692307692307693 system_name
-pka_best_basic_prompt Q0 99232 14 0.07142857142857142 system_name
+pka_best_basic_prompt Q0  14 0.07142857142857142 system_name
 pka_best_basic_prompt Q0  15 0.06666666666666667 system_name
 pka_best_basic_prompt Q0  16 0.0625 system_name
 pka_best_basic_prompt Q0  17 0.058823529411764705 system_name
@@ -3698,7 +3698,7 @@ pka_best_basic_prompt Q0  97 0.010309278350515464 system_name
 pka_best_basic_prompt Q0  98 0.01020408163265306 system_name
 pka_best_basic_prompt Q0  99 0.010101010101010102 system_name
 pka_best_basic_prompt Q0  100 0.01 system_name
-vertrieb_food_bp_best Q0 38583 1 1.0 system_name
+vertrieb_food_bp_best Q0  1 1.0 system_name
 vertrieb_food_bp_best Q0  2 0.5 system_name
 vertrieb_food_bp_best Q0  3 0.3333333333333333 system_name
 vertrieb_food_bp_best Q0  4 0.25 system_name
@@ -3772,7 +3772,7 @@ vertrieb_food_bp_best Q0  71 0.014084507042253521 system_name
 vertrieb_food_bp_best Q0  72 0.013888888888888888 system_name
 vertrieb_food_bp_best Q0  73 0.0136986301369863 system_name
 vertrieb_food_bp_best Q0  74 0.013513513513513514 system_name
-vertrieb_food_bp_best Q0 33825 75 0.013333333333333334 system_name
+vertrieb_food_bp_best Q0  75 0.013333333333333334 system_name
 vertrieb_food_bp_best Q0  76 0.013157894736842105 system_name
 vertrieb_food_bp_best Q0  77 0.012987012987012988 system_name
 vertrieb_food_bp_best Q0  78 0.01282051282051282 system_name
@@ -3784,7 +3784,7 @@ vertrieb_food_bp_best Q0  83 0.012048192771084338 system_name
 vertrieb_food_bp_best Q0  84 0.011904761904761904 system_name
 vertrieb_food_bp_best Q0  85 0.011764705882352941 system_name
 vertrieb_food_bp_best Q0  86 0.011627906976744186 system_name
-vertrieb_food_bp_best Q0 465077 87 0.011494252873563218 system_name
+vertrieb_food_bp_best Q0  87 0.011494252873563218 system_name
 vertrieb_food_bp_best Q0  88 0.011363636363636364 system_name
 vertrieb_food_bp_best Q0  89 0.011235955056179775 system_name
 vertrieb_food_bp_best Q0  90 0.011111111111111112 system_name
@@ -3793,16 +3793,16 @@ vertrieb_food_bp_best Q0  92 0.010869565217391304 system_name
 vertrieb_food_bp_best Q0  93 0.010752688172043012 system_name
 vertrieb_food_bp_best Q0  94 0.010638297872340425 system_name
 vertrieb_food_bp_best Q0  95 0.010526315789473684 system_name
-vertrieb_food_bp_best Q0  96 0.010416666666666666 system_name
+vertrieb_food_bp_best Q0 74732 96 0.010416666666666666 system_name
 vertrieb_food_bp_best Q0  97 0.010309278350515464 system_name
 vertrieb_food_bp_best Q0  98 0.01020408163265306 system_name
 vertrieb_food_bp_best Q0  99 0.010101010101010102 system_name
 vertrieb_food_bp_best Q0  100 0.01 system_name
-marketing_mitarbeiter_bp_best Q0 40328 1 1.0 system_name
-marketing_mitarbeiter_bp_best Q0  2 0.5 system_name
-marketing_mitarbeiter_bp_best Q0  3 0.3333333333333333 system_name
-marketing_mitarbeiter_bp_best Q0  4 0.25 system_name
-marketing_mitarbeiter_bp_best Q0 24694 5 0.2 system_name
+marketing_mitarbeiter_bp_best Q0 33541 1 1.0 system_name
+marketing_mitarbeiter_bp_best Q0 40328 2 0.5 system_name
+marketing_mitarbeiter_bp_best Q0 40328 3 0.3333333333333333 system_name
+marketing_mitarbeiter_bp_best Q0 24694 4 0.25 system_name
+marketing_mitarbeiter_bp_best Q0  5 0.2 system_name
 marketing_mitarbeiter_bp_best Q0  6 0.16666666666666666 system_name
 marketing_mitarbeiter_bp_best Q0  7 0.14285714285714285 system_name
 marketing_mitarbeiter_bp_best Q0  8 0.125 system_name
@@ -3816,11 +3816,11 @@ marketing_mitarbeiter_bp_best Q0  15 0.06666666666666667 system_name
 marketing_mitarbeiter_bp_best Q0  16 0.0625 system_name
 marketing_mitarbeiter_bp_best Q0  17 0.058823529411764705 system_name
 marketing_mitarbeiter_bp_best Q0 33541 18 0.05555555555555555 system_name
-marketing_mitarbeiter_bp_best Q0  19 0.05263157894736842 system_name
+marketing_mitarbeiter_bp_best Q0 33541 19 0.05263157894736842 system_name
 marketing_mitarbeiter_bp_best Q0 43083 20 0.05 system_name
-marketing_mitarbeiter_bp_best Q0  21 0.047619047619047616 system_name
-marketing_mitarbeiter_bp_best Q0  22 0.045454545454545456 system_name
-marketing_mitarbeiter_bp_best Q0  23 0.043478260869565216 system_name
+marketing_mitarbeiter_bp_best Q0 33541 21 0.047619047619047616 system_name
+marketing_mitarbeiter_bp_best Q0 40328 22 0.045454545454545456 system_name
+marketing_mitarbeiter_bp_best Q0 40328 23 0.043478260869565216 system_name
 marketing_mitarbeiter_bp_best Q0 33541 24 0.041666666666666664 system_name
 marketing_mitarbeiter_bp_best Q0  25 0.04 system_name
 marketing_mitarbeiter_bp_best Q0  26 0.038461538461538464 system_name
@@ -3829,17 +3829,17 @@ marketing_mitarbeiter_bp_best Q0  28 0.03571428571428571 system_name
 marketing_mitarbeiter_bp_best Q0  29 0.034482758620689655 system_name
 marketing_mitarbeiter_bp_best Q0  30 0.03333333333333333 system_name
 marketing_mitarbeiter_bp_best Q0  31 0.03225806451612903 system_name
-marketing_mitarbeiter_bp_best Q0  32 0.03125 system_name
-marketing_mitarbeiter_bp_best Q0 4380 33 0.030303030303030304 system_name
-marketing_mitarbeiter_bp_best Q0 40328 34 0.029411764705882353 system_name
+marketing_mitarbeiter_bp_best Q0 40328 32 0.03125 system_name
+marketing_mitarbeiter_bp_best Q0 40328 33 0.030303030303030304 system_name
+marketing_mitarbeiter_bp_best Q0  34 0.029411764705882353 system_name
 marketing_mitarbeiter_bp_best Q0  35 0.02857142857142857 system_name
 marketing_mitarbeiter_bp_best Q0  36 0.027777777777777776 system_name
 marketing_mitarbeiter_bp_best Q0  37 0.02702702702702703 system_name
 marketing_mitarbeiter_bp_best Q0  38 0.02631578947368421 system_name
 marketing_mitarbeiter_bp_best Q0  39 0.02564102564102564 system_name
 marketing_mitarbeiter_bp_best Q0  40 0.025 system_name
-marketing_mitarbeiter_bp_best Q0  41 0.024390243902439025 system_name
-marketing_mitarbeiter_bp_best Q0  42 0.023809523809523808 system_name
+marketing_mitarbeiter_bp_best Q0 40328 41 0.024390243902439025 system_name
+marketing_mitarbeiter_bp_best Q0 40328 42 0.023809523809523808 system_name
 marketing_mitarbeiter_bp_best Q0  43 0.023255813953488372 system_name
 marketing_mitarbeiter_bp_best Q0  44 0.022727272727272728 system_name
 marketing_mitarbeiter_bp_best Q0  45 0.022222222222222223 system_name
@@ -3856,39 +3856,39 @@ marketing_mitarbeiter_bp_best Q0  55 0.01818181818181818 system_name
 marketing_mitarbeiter_bp_best Q0  56 0.017857142857142856 system_name
 marketing_mitarbeiter_bp_best Q0  57 0.017543859649122806 system_name
 marketing_mitarbeiter_bp_best Q0  58 0.017241379310344827 system_name
-marketing_mitarbeiter_bp_best Q0 429713 59 0.01694915254237288 system_name
+marketing_mitarbeiter_bp_best Q0  59 0.01694915254237288 system_name
 marketing_mitarbeiter_bp_best Q0  60 0.016666666666666666 system_name
-marketing_mitarbeiter_bp_best Q0 57894 61 0.01639344262295082 system_name
+marketing_mitarbeiter_bp_best Q0  61 0.01639344262295082 system_name
 marketing_mitarbeiter_bp_best Q0  62 0.016129032258064516 system_name
 marketing_mitarbeiter_bp_best Q0  63 0.015873015873015872 system_name
 marketing_mitarbeiter_bp_best Q0  64 0.015625 system_name
 marketing_mitarbeiter_bp_best Q0  65 0.015384615384615385 system_name
 marketing_mitarbeiter_bp_best Q0  66 0.015151515151515152 system_name
-marketing_mitarbeiter_bp_best Q0  67 0.014925373134328358 system_name
+marketing_mitarbeiter_bp_best Q0 24694 67 0.014925373134328358 system_name
 marketing_mitarbeiter_bp_best Q0  68 0.014705882352941176 system_name
 marketing_mitarbeiter_bp_best Q0  69 0.014492753623188406 system_name
-marketing_mitarbeiter_bp_best Q0  70 0.014285714285714285 system_name
+marketing_mitarbeiter_bp_best Q0 38810 70 0.014285714285714285 system_name
 marketing_mitarbeiter_bp_best Q0  71 0.014084507042253521 system_name
 marketing_mitarbeiter_bp_best Q0  72 0.013888888888888888 system_name
 marketing_mitarbeiter_bp_best Q0  73 0.0136986301369863 system_name
-marketing_mitarbeiter_bp_best Q0  74 0.013513513513513514 system_name
-marketing_mitarbeiter_bp_best Q0  75 0.013333333333333334 system_name
+marketing_mitarbeiter_bp_best Q0 40328 74 0.013513513513513514 system_name
+marketing_mitarbeiter_bp_best Q0 40328 75 0.013333333333333334 system_name
 marketing_mitarbeiter_bp_best Q0  76 0.013157894736842105 system_name
 marketing_mitarbeiter_bp_best Q0  77 0.012987012987012988 system_name
-marketing_mitarbeiter_bp_best Q0 24694 78 0.01282051282051282 system_name
+marketing_mitarbeiter_bp_best Q0  78 0.01282051282051282 system_name
 marketing_mitarbeiter_bp_best Q0  79 0.012658227848101266 system_name
 marketing_mitarbeiter_bp_best Q0  80 0.0125 system_name
 marketing_mitarbeiter_bp_best Q0  81 0.012345679012345678 system_name
 marketing_mitarbeiter_bp_best Q0  82 0.012195121951219513 system_name
 marketing_mitarbeiter_bp_best Q0  83 0.012048192771084338 system_name
 marketing_mitarbeiter_bp_best Q0  84 0.011904761904761904 system_name
-marketing_mitarbeiter_bp_best Q0  85 0.011764705882352941 system_name
+marketing_mitarbeiter_bp_best Q0 34467 85 0.011764705882352941 system_name
 marketing_mitarbeiter_bp_best Q0  86 0.011627906976744186 system_name
 marketing_mitarbeiter_bp_best Q0  87 0.011494252873563218 system_name
 marketing_mitarbeiter_bp_best Q0  88 0.011363636363636364 system_name
 marketing_mitarbeiter_bp_best Q0  89 0.011235955056179775 system_name
-marketing_mitarbeiter_bp_best Q0  90 0.011111111111111112 system_name
-marketing_mitarbeiter_bp_best Q0  91 0.01098901098901099 system_name
+marketing_mitarbeiter_bp_best Q0 40328 90 0.011111111111111112 system_name
+marketing_mitarbeiter_bp_best Q0 40328 91 0.01098901098901099 system_name
 marketing_mitarbeiter_bp_best Q0  92 0.010869565217391304 system_name
 marketing_mitarbeiter_bp_best Q0  93 0.010752688172043012 system_name
 marketing_mitarbeiter_bp_best Q0  94 0.010638297872340425 system_name
@@ -3898,11 +3898,11 @@ marketing_mitarbeiter_bp_best Q0  97 0.010309278350515464 system_name
 marketing_mitarbeiter_bp_best Q0  98 0.01020408163265306 system_name
 marketing_mitarbeiter_bp_best Q0  99 0.010101010101010102 system_name
 marketing_mitarbeiter_bp_best Q0  100 0.01 system_name
-marketing_mitarbeiter_bp_best Q0 40328 1 1.0 system_name
-marketing_mitarbeiter_bp_best Q0  2 0.5 system_name
-marketing_mitarbeiter_bp_best Q0  3 0.3333333333333333 system_name
-marketing_mitarbeiter_bp_best Q0  4 0.25 system_name
-marketing_mitarbeiter_bp_best Q0 24694 5 0.2 system_name
+marketing_mitarbeiter_bp_best Q0 33541 1 1.0 system_name
+marketing_mitarbeiter_bp_best Q0 40328 2 0.5 system_name
+marketing_mitarbeiter_bp_best Q0 40328 3 0.3333333333333333 system_name
+marketing_mitarbeiter_bp_best Q0 24694 4 0.25 system_name
+marketing_mitarbeiter_bp_best Q0  5 0.2 system_name
 marketing_mitarbeiter_bp_best Q0  6 0.16666666666666666 system_name
 marketing_mitarbeiter_bp_best Q0  7 0.14285714285714285 system_name
 marketing_mitarbeiter_bp_best Q0  8 0.125 system_name
@@ -3916,11 +3916,11 @@ marketing_mitarbeiter_bp_best Q0  15 0.06666666666666667 system_name
 marketing_mitarbeiter_bp_best Q0  16 0.0625 system_name
 marketing_mitarbeiter_bp_best Q0  17 0.058823529411764705 system_name
 marketing_mitarbeiter_bp_best Q0 33541 18 0.05555555555555555 system_name
-marketing_mitarbeiter_bp_best Q0  19 0.05263157894736842 system_name
+marketing_mitarbeiter_bp_best Q0 33541 19 0.05263157894736842 system_name
 marketing_mitarbeiter_bp_best Q0 43083 20 0.05 system_name
-marketing_mitarbeiter_bp_best Q0  21 0.047619047619047616 system_name
-marketing_mitarbeiter_bp_best Q0  22 0.045454545454545456 system_name
-marketing_mitarbeiter_bp_best Q0  23 0.043478260869565216 system_name
+marketing_mitarbeiter_bp_best Q0 33541 21 0.047619047619047616 system_name
+marketing_mitarbeiter_bp_best Q0 40328 22 0.045454545454545456 system_name
+marketing_mitarbeiter_bp_best Q0 40328 23 0.043478260869565216 system_name
 marketing_mitarbeiter_bp_best Q0 33541 24 0.041666666666666664 system_name
 marketing_mitarbeiter_bp_best Q0  25 0.04 system_name
 marketing_mitarbeiter_bp_best Q0  26 0.038461538461538464 system_name
@@ -3929,17 +3929,17 @@ marketing_mitarbeiter_bp_best Q0  28 0.03571428571428571 system_name
 marketing_mitarbeiter_bp_best Q0  29 0.034482758620689655 system_name
 marketing_mitarbeiter_bp_best Q0  30 0.03333333333333333 system_name
 marketing_mitarbeiter_bp_best Q0  31 0.03225806451612903 system_name
-marketing_mitarbeiter_bp_best Q0  32 0.03125 system_name
-marketing_mitarbeiter_bp_best Q0 4380 33 0.030303030303030304 system_name
-marketing_mitarbeiter_bp_best Q0 40328 34 0.029411764705882353 system_name
+marketing_mitarbeiter_bp_best Q0 40328 32 0.03125 system_name
+marketing_mitarbeiter_bp_best Q0 40328 33 0.030303030303030304 system_name
+marketing_mitarbeiter_bp_best Q0  34 0.029411764705882353 system_name
 marketing_mitarbeiter_bp_best Q0  35 0.02857142857142857 system_name
 marketing_mitarbeiter_bp_best Q0  36 0.027777777777777776 system_name
 marketing_mitarbeiter_bp_best Q0  37 0.02702702702702703 system_name
 marketing_mitarbeiter_bp_best Q0  38 0.02631578947368421 system_name
 marketing_mitarbeiter_bp_best Q0  39 0.02564102564102564 system_name
 marketing_mitarbeiter_bp_best Q0  40 0.025 system_name
-marketing_mitarbeiter_bp_best Q0  41 0.024390243902439025 system_name
-marketing_mitarbeiter_bp_best Q0  42 0.023809523809523808 system_name
+marketing_mitarbeiter_bp_best Q0 40328 41 0.024390243902439025 system_name
+marketing_mitarbeiter_bp_best Q0 40328 42 0.023809523809523808 system_name
 marketing_mitarbeiter_bp_best Q0  43 0.023255813953488372 system_name
 marketing_mitarbeiter_bp_best Q0  44 0.022727272727272728 system_name
 marketing_mitarbeiter_bp_best Q0  45 0.022222222222222223 system_name
@@ -3956,39 +3956,39 @@ marketing_mitarbeiter_bp_best Q0  55 0.01818181818181818 system_name
 marketing_mitarbeiter_bp_best Q0  56 0.017857142857142856 system_name
 marketing_mitarbeiter_bp_best Q0  57 0.017543859649122806 system_name
 marketing_mitarbeiter_bp_best Q0  58 0.017241379310344827 system_name
-marketing_mitarbeiter_bp_best Q0 429713 59 0.01694915254237288 system_name
+marketing_mitarbeiter_bp_best Q0  59 0.01694915254237288 system_name
 marketing_mitarbeiter_bp_best Q0  60 0.016666666666666666 system_name
-marketing_mitarbeiter_bp_best Q0 57894 61 0.01639344262295082 system_name
+marketing_mitarbeiter_bp_best Q0  61 0.01639344262295082 system_name
 marketing_mitarbeiter_bp_best Q0  62 0.016129032258064516 system_name
 marketing_mitarbeiter_bp_best Q0  63 0.015873015873015872 system_name
 marketing_mitarbeiter_bp_best Q0  64 0.015625 system_name
 marketing_mitarbeiter_bp_best Q0  65 0.015384615384615385 system_name
 marketing_mitarbeiter_bp_best Q0  66 0.015151515151515152 system_name
-marketing_mitarbeiter_bp_best Q0  67 0.014925373134328358 system_name
+marketing_mitarbeiter_bp_best Q0 24694 67 0.014925373134328358 system_name
 marketing_mitarbeiter_bp_best Q0  68 0.014705882352941176 system_name
 marketing_mitarbeiter_bp_best Q0  69 0.014492753623188406 system_name
-marketing_mitarbeiter_bp_best Q0  70 0.014285714285714285 system_name
+marketing_mitarbeiter_bp_best Q0 38810 70 0.014285714285714285 system_name
 marketing_mitarbeiter_bp_best Q0  71 0.014084507042253521 system_name
 marketing_mitarbeiter_bp_best Q0  72 0.013888888888888888 system_name
 marketing_mitarbeiter_bp_best Q0  73 0.0136986301369863 system_name
-marketing_mitarbeiter_bp_best Q0  74 0.013513513513513514 system_name
-marketing_mitarbeiter_bp_best Q0  75 0.013333333333333334 system_name
+marketing_mitarbeiter_bp_best Q0 40328 74 0.013513513513513514 system_name
+marketing_mitarbeiter_bp_best Q0 40328 75 0.013333333333333334 system_name
 marketing_mitarbeiter_bp_best Q0  76 0.013157894736842105 system_name
 marketing_mitarbeiter_bp_best Q0  77 0.012987012987012988 system_name
-marketing_mitarbeiter_bp_best Q0 24694 78 0.01282051282051282 system_name
+marketing_mitarbeiter_bp_best Q0  78 0.01282051282051282 system_name
 marketing_mitarbeiter_bp_best Q0  79 0.012658227848101266 system_name
 marketing_mitarbeiter_bp_best Q0  80 0.0125 system_name
 marketing_mitarbeiter_bp_best Q0  81 0.012345679012345678 system_name
 marketing_mitarbeiter_bp_best Q0  82 0.012195121951219513 system_name
 marketing_mitarbeiter_bp_best Q0  83 0.012048192771084338 system_name
 marketing_mitarbeiter_bp_best Q0  84 0.011904761904761904 system_name
-marketing_mitarbeiter_bp_best Q0  85 0.011764705882352941 system_name
+marketing_mitarbeiter_bp_best Q0 34467 85 0.011764705882352941 system_name
 marketing_mitarbeiter_bp_best Q0  86 0.011627906976744186 system_name
 marketing_mitarbeiter_bp_best Q0  87 0.011494252873563218 system_name
 marketing_mitarbeiter_bp_best Q0  88 0.011363636363636364 system_name
 marketing_mitarbeiter_bp_best Q0  89 0.011235955056179775 system_name
-marketing_mitarbeiter_bp_best Q0  90 0.011111111111111112 system_name
-marketing_mitarbeiter_bp_best Q0  91 0.01098901098901099 system_name
+marketing_mitarbeiter_bp_best Q0 40328 90 0.011111111111111112 system_name
+marketing_mitarbeiter_bp_best Q0 40328 91 0.01098901098901099 system_name
 marketing_mitarbeiter_bp_best Q0  92 0.010869565217391304 system_name
 marketing_mitarbeiter_bp_best Q0  93 0.010752688172043012 system_name
 marketing_mitarbeiter_bp_best Q0  94 0.010638297872340425 system_name
@@ -4018,9 +4018,9 @@ personalleiter_bp_best Q0  17 0.058823529411764705 system_name
 personalleiter_bp_best Q0  18 0.05555555555555555 system_name
 personalleiter_bp_best Q0  19 0.05263157894736842 system_name
 personalleiter_bp_best Q0  20 0.05 system_name
-personalleiter_bp_best Q0  21 0.047619047619047616 system_name
+personalleiter_bp_best Q0 923238 21 0.047619047619047616 system_name
 personalleiter_bp_best Q0  22 0.045454545454545456 system_name
-personalleiter_bp_best Q0 355332 23 0.043478260869565216 system_name
+personalleiter_bp_best Q0  23 0.043478260869565216 system_name
 personalleiter_bp_best Q0  24 0.041666666666666664 system_name
 personalleiter_bp_best Q0  25 0.04 system_name
 personalleiter_bp_best Q0  26 0.038461538461538464 system_name
@@ -4072,7 +4072,7 @@ personalleiter_bp_best Q0  71 0.014084507042253521 system_name
 personalleiter_bp_best Q0  72 0.013888888888888888 system_name
 personalleiter_bp_best Q0  73 0.0136986301369863 system_name
 personalleiter_bp_best Q0  74 0.013513513513513514 system_name
-personalleiter_bp_best Q0 63298 75 0.013333333333333334 system_name
+personalleiter_bp_best Q0  75 0.013333333333333334 system_name
 personalleiter_bp_best Q0  76 0.013157894736842105 system_name
 personalleiter_bp_best Q0  77 0.012987012987012988 system_name
 personalleiter_bp_best Q0  78 0.01282051282051282 system_name
@@ -4080,9 +4080,9 @@ personalleiter_bp_best Q0  79 0.012658227848101266 system_name
 personalleiter_bp_best Q0  80 0.0125 system_name
 personalleiter_bp_best Q0  81 0.012345679012345678 system_name
 personalleiter_bp_best Q0  82 0.012195121951219513 system_name
-personalleiter_bp_best Q0  83 0.012048192771084338 system_name
+personalleiter_bp_best Q0 50006 83 0.012048192771084338 system_name
 personalleiter_bp_best Q0  84 0.011904761904761904 system_name
-personalleiter_bp_best Q0  85 0.011764705882352941 system_name
+personalleiter_bp_best Q0 46206 85 0.011764705882352941 system_name
 personalleiter_bp_best Q0  86 0.011627906976744186 system_name
 personalleiter_bp_best Q0  87 0.011494252873563218 system_name
 personalleiter_bp_best Q0  88 0.011363636363636364 system_name
@@ -4118,9 +4118,9 @@ personalsachbearbeiter_bp_best Q0  17 0.058823529411764705 system_name
 personalsachbearbeiter_bp_best Q0  18 0.05555555555555555 system_name
 personalsachbearbeiter_bp_best Q0  19 0.05263157894736842 system_name
 personalsachbearbeiter_bp_best Q0  20 0.05 system_name
-personalsachbearbeiter_bp_best Q0  21 0.047619047619047616 system_name
+personalsachbearbeiter_bp_best Q0 923238 21 0.047619047619047616 system_name
 personalsachbearbeiter_bp_best Q0  22 0.045454545454545456 system_name
-personalsachbearbeiter_bp_best Q0 355332 23 0.043478260869565216 system_name
+personalsachbearbeiter_bp_best Q0  23 0.043478260869565216 system_name
 personalsachbearbeiter_bp_best Q0  24 0.041666666666666664 system_name
 personalsachbearbeiter_bp_best Q0  25 0.04 system_name
 personalsachbearbeiter_bp_best Q0  26 0.038461538461538464 system_name
@@ -4172,7 +4172,7 @@ personalsachbearbeiter_bp_best Q0  71 0.014084507042253521 system_name
 personalsachbearbeiter_bp_best Q0  72 0.013888888888888888 system_name
 personalsachbearbeiter_bp_best Q0  73 0.0136986301369863 system_name
 personalsachbearbeiter_bp_best Q0  74 0.013513513513513514 system_name
-personalsachbearbeiter_bp_best Q0 63298 75 0.013333333333333334 system_name
+personalsachbearbeiter_bp_best Q0  75 0.013333333333333334 system_name
 personalsachbearbeiter_bp_best Q0  76 0.013157894736842105 system_name
 personalsachbearbeiter_bp_best Q0  77 0.012987012987012988 system_name
 personalsachbearbeiter_bp_best Q0  78 0.01282051282051282 system_name
@@ -4180,9 +4180,9 @@ personalsachbearbeiter_bp_best Q0  79 0.012658227848101266 system_name
 personalsachbearbeiter_bp_best Q0  80 0.0125 system_name
 personalsachbearbeiter_bp_best Q0  81 0.012345679012345678 system_name
 personalsachbearbeiter_bp_best Q0  82 0.012195121951219513 system_name
-personalsachbearbeiter_bp_best Q0  83 0.012048192771084338 system_name
+personalsachbearbeiter_bp_best Q0 50006 83 0.012048192771084338 system_name
 personalsachbearbeiter_bp_best Q0  84 0.011904761904761904 system_name
-personalsachbearbeiter_bp_best Q0  85 0.011764705882352941 system_name
+personalsachbearbeiter_bp_best Q0 46206 85 0.011764705882352941 system_name
 personalsachbearbeiter_bp_best Q0  86 0.011627906976744186 system_name
 personalsachbearbeiter_bp_best Q0  87 0.011494252873563218 system_name
 personalsachbearbeiter_bp_best Q0  88 0.011363636363636364 system_name
@@ -4218,9 +4218,9 @@ personalreferent_bp_best Q0  17 0.058823529411764705 system_name
 personalreferent_bp_best Q0  18 0.05555555555555555 system_name
 personalreferent_bp_best Q0  19 0.05263157894736842 system_name
 personalreferent_bp_best Q0  20 0.05 system_name
-personalreferent_bp_best Q0  21 0.047619047619047616 system_name
+personalreferent_bp_best Q0 923238 21 0.047619047619047616 system_name
 personalreferent_bp_best Q0  22 0.045454545454545456 system_name
-personalreferent_bp_best Q0 355332 23 0.043478260869565216 system_name
+personalreferent_bp_best Q0  23 0.043478260869565216 system_name
 personalreferent_bp_best Q0  24 0.041666666666666664 system_name
 personalreferent_bp_best Q0  25 0.04 system_name
 personalreferent_bp_best Q0  26 0.038461538461538464 system_name
@@ -4272,7 +4272,7 @@ personalreferent_bp_best Q0  71 0.014084507042253521 system_name
 personalreferent_bp_best Q0  72 0.013888888888888888 system_name
 personalreferent_bp_best Q0  73 0.0136986301369863 system_name
 personalreferent_bp_best Q0  74 0.013513513513513514 system_name
-personalreferent_bp_best Q0 63298 75 0.013333333333333334 system_name
+personalreferent_bp_best Q0  75 0.013333333333333334 system_name
 personalreferent_bp_best Q0  76 0.013157894736842105 system_name
 personalreferent_bp_best Q0  77 0.012987012987012988 system_name
 personalreferent_bp_best Q0  78 0.01282051282051282 system_name
@@ -4280,9 +4280,9 @@ personalreferent_bp_best Q0  79 0.012658227848101266 system_name
 personalreferent_bp_best Q0  80 0.0125 system_name
 personalreferent_bp_best Q0  81 0.012345679012345678 system_name
 personalreferent_bp_best Q0  82 0.012195121951219513 system_name
-personalreferent_bp_best Q0  83 0.012048192771084338 system_name
+personalreferent_bp_best Q0 50006 83 0.012048192771084338 system_name
 personalreferent_bp_best Q0  84 0.011904761904761904 system_name
-personalreferent_bp_best Q0  85 0.011764705882352941 system_name
+personalreferent_bp_best Q0 46206 85 0.011764705882352941 system_name
 personalreferent_bp_best Q0  86 0.011627906976744186 system_name
 personalreferent_bp_best Q0  87 0.011494252873563218 system_name
 personalreferent_bp_best Q0  88 0.011363636363636364 system_name
@@ -4299,41 +4299,41 @@ personalreferent_bp_best Q0  98 0.01020408163265306 system_name
 personalreferent_bp_best Q0  99 0.010101010101010102 system_name
 personalreferent_bp_best Q0  100 0.01 system_name
 seo_spec_bp_best Q0  1 1.0 system_name
-seo_spec_bp_best Q0  2 0.5 system_name
-seo_spec_bp_best Q0  3 0.3333333333333333 system_name
-seo_spec_bp_best Q0  4 0.25 system_name
-seo_spec_bp_best Q0  5 0.2 system_name
+seo_spec_bp_best Q0 40328 2 0.5 system_name
+seo_spec_bp_best Q0 40328 3 0.3333333333333333 system_name
+seo_spec_bp_best Q0 40328 4 0.25 system_name
+seo_spec_bp_best Q0 40328 5 0.2 system_name
 seo_spec_bp_best Q0  6 0.16666666666666666 system_name
-seo_spec_bp_best Q0  7 0.14285714285714285 system_name
-seo_spec_bp_best Q0  8 0.125 system_name
-seo_spec_bp_best Q0  9 0.1111111111111111 system_name
+seo_spec_bp_best Q0 24694 7 0.14285714285714285 system_name
+seo_spec_bp_best Q0 40328 8 0.125 system_name
+seo_spec_bp_best Q0 33541 9 0.1111111111111111 system_name
 seo_spec_bp_best Q0 40328 10 0.1 system_name
 seo_spec_bp_best Q0  11 0.09090909090909091 system_name
-seo_spec_bp_best Q0 24694 12 0.08333333333333333 system_name
-seo_spec_bp_best Q0  13 0.07692307692307693 system_name
-seo_spec_bp_best Q0 24694 14 0.07142857142857142 system_name
+seo_spec_bp_best Q0  12 0.08333333333333333 system_name
+seo_spec_bp_best Q0 33994 13 0.07692307692307693 system_name
+seo_spec_bp_best Q0  14 0.07142857142857142 system_name
 seo_spec_bp_best Q0  15 0.06666666666666667 system_name
 seo_spec_bp_best Q0  16 0.0625 system_name
 seo_spec_bp_best Q0  17 0.058823529411764705 system_name
 seo_spec_bp_best Q0  18 0.05555555555555555 system_name
-seo_spec_bp_best Q0  19 0.05263157894736842 system_name
-seo_spec_bp_best Q0  20 0.05 system_name
+seo_spec_bp_best Q0 40328 19 0.05263157894736842 system_name
+seo_spec_bp_best Q0 40328 20 0.05 system_name
 seo_spec_bp_best Q0  21 0.047619047619047616 system_name
 seo_spec_bp_best Q0  22 0.045454545454545456 system_name
 seo_spec_bp_best Q0  23 0.043478260869565216 system_name
 seo_spec_bp_best Q0  24 0.041666666666666664 system_name
-seo_spec_bp_best Q0 247061 25 0.04 system_name
+seo_spec_bp_best Q0  25 0.04 system_name
 seo_spec_bp_best Q0  26 0.038461538461538464 system_name
 seo_spec_bp_best Q0  27 0.037037037037037035 system_name
 seo_spec_bp_best Q0  28 0.03571428571428571 system_name
 seo_spec_bp_best Q0  29 0.034482758620689655 system_name
 seo_spec_bp_best Q0 981225 30 0.03333333333333333 system_name
 seo_spec_bp_best Q0  31 0.03225806451612903 system_name
-seo_spec_bp_best Q0 131251 32 0.03125 system_name
+seo_spec_bp_best Q0  32 0.03125 system_name
 seo_spec_bp_best Q0  33 0.030303030303030304 system_name
 seo_spec_bp_best Q0  34 0.029411764705882353 system_name
-seo_spec_bp_best Q0  35 0.02857142857142857 system_name
-seo_spec_bp_best Q0  36 0.027777777777777776 system_name
+seo_spec_bp_best Q0 40328 35 0.02857142857142857 system_name
+seo_spec_bp_best Q0 40328 36 0.027777777777777776 system_name
 seo_spec_bp_best Q0  37 0.02702702702702703 system_name
 seo_spec_bp_best Q0  38 0.02631578947368421 system_name
 seo_spec_bp_best Q0  39 0.02564102564102564 system_name
@@ -4344,7 +4344,7 @@ seo_spec_bp_best Q0  43 0.023255813953488372 system_name
 seo_spec_bp_best Q0  44 0.022727272727272728 system_name
 seo_spec_bp_best Q0  45 0.022222222222222223 system_name
 seo_spec_bp_best Q0  46 0.021739130434782608 system_name
-seo_spec_bp_best Q0 157477 47 0.02127659574468085 system_name
+seo_spec_bp_best Q0  47 0.02127659574468085 system_name
 seo_spec_bp_best Q0  48 0.020833333333333332 system_name
 seo_spec_bp_best Q0  49 0.02040816326530612 system_name
 seo_spec_bp_best Q0  50 0.02 system_name
@@ -4354,7 +4354,7 @@ seo_spec_bp_best Q0  53 0.018867924528301886 system_name
 seo_spec_bp_best Q0  54 0.018518518518518517 system_name
 seo_spec_bp_best Q0  55 0.01818181818181818 system_name
 seo_spec_bp_best Q0  56 0.017857142857142856 system_name
-seo_spec_bp_best Q0  57 0.017543859649122806 system_name
+seo_spec_bp_best Q0 24694 57 0.017543859649122806 system_name
 seo_spec_bp_best Q0  58 0.017241379310344827 system_name
 seo_spec_bp_best Q0  59 0.01694915254237288 system_name
 seo_spec_bp_best Q0  60 0.016666666666666666 system_name
@@ -4362,7 +4362,7 @@ seo_spec_bp_best Q0  61 0.01639344262295082 system_name
 seo_spec_bp_best Q0  62 0.016129032258064516 system_name
 seo_spec_bp_best Q0  63 0.015873015873015872 system_name
 seo_spec_bp_best Q0  64 0.015625 system_name
-seo_spec_bp_best Q0 37776 65 0.015384615384615385 system_name
+seo_spec_bp_best Q0  65 0.015384615384615385 system_name
 seo_spec_bp_best Q0  66 0.015151515151515152 system_name
 seo_spec_bp_best Q0  67 0.014925373134328358 system_name
 seo_spec_bp_best Q0  68 0.014705882352941176 system_name
@@ -4384,7 +4384,7 @@ seo_spec_bp_best Q0  83 0.012048192771084338 system_name
 seo_spec_bp_best Q0  84 0.011904761904761904 system_name
 seo_spec_bp_best Q0  85 0.011764705882352941 system_name
 seo_spec_bp_best Q0  86 0.011627906976744186 system_name
-seo_spec_bp_best Q0 33769 87 0.011494252873563218 system_name
+seo_spec_bp_best Q0  87 0.011494252873563218 system_name
 seo_spec_bp_best Q0  88 0.011363636363636364 system_name
 seo_spec_bp_best Q0  89 0.011235955056179775 system_name
 seo_spec_bp_best Q0  90 0.011111111111111112 system_name
@@ -4399,41 +4399,41 @@ seo_spec_bp_best Q0  98 0.01020408163265306 system_name
 seo_spec_bp_best Q0  99 0.010101010101010102 system_name
 seo_spec_bp_best Q0  100 0.01 system_name
 online_marketing_sales_bp_best Q0  1 1.0 system_name
-online_marketing_sales_bp_best Q0  2 0.5 system_name
-online_marketing_sales_bp_best Q0  3 0.3333333333333333 system_name
-online_marketing_sales_bp_best Q0  4 0.25 system_name
-online_marketing_sales_bp_best Q0  5 0.2 system_name
+online_marketing_sales_bp_best Q0 40328 2 0.5 system_name
+online_marketing_sales_bp_best Q0 40328 3 0.3333333333333333 system_name
+online_marketing_sales_bp_best Q0 40328 4 0.25 system_name
+online_marketing_sales_bp_best Q0 40328 5 0.2 system_name
 online_marketing_sales_bp_best Q0  6 0.16666666666666666 system_name
-online_marketing_sales_bp_best Q0  7 0.14285714285714285 system_name
-online_marketing_sales_bp_best Q0  8 0.125 system_name
-online_marketing_sales_bp_best Q0  9 0.1111111111111111 system_name
+online_marketing_sales_bp_best Q0 24694 7 0.14285714285714285 system_name
+online_marketing_sales_bp_best Q0 40328 8 0.125 system_name
+online_marketing_sales_bp_best Q0 33541 9 0.1111111111111111 system_name
 online_marketing_sales_bp_best Q0 40328 10 0.1 system_name
 online_marketing_sales_bp_best Q0  11 0.09090909090909091 system_name
-online_marketing_sales_bp_best Q0 24694 12 0.08333333333333333 system_name
-online_marketing_sales_bp_best Q0  13 0.07692307692307693 system_name
-online_marketing_sales_bp_best Q0 24694 14 0.07142857142857142 system_name
+online_marketing_sales_bp_best Q0  12 0.08333333333333333 system_name
+online_marketing_sales_bp_best Q0 33994 13 0.07692307692307693 system_name
+online_marketing_sales_bp_best Q0  14 0.07142857142857142 system_name
 online_marketing_sales_bp_best Q0  15 0.06666666666666667 system_name
 online_marketing_sales_bp_best Q0  16 0.0625 system_name
 online_marketing_sales_bp_best Q0  17 0.058823529411764705 system_name
 online_marketing_sales_bp_best Q0  18 0.05555555555555555 system_name
-online_marketing_sales_bp_best Q0  19 0.05263157894736842 system_name
-online_marketing_sales_bp_best Q0  20 0.05 system_name
+online_marketing_sales_bp_best Q0 40328 19 0.05263157894736842 system_name
+online_marketing_sales_bp_best Q0 40328 20 0.05 system_name
 online_marketing_sales_bp_best Q0  21 0.047619047619047616 system_name
 online_marketing_sales_bp_best Q0  22 0.045454545454545456 system_name
 online_marketing_sales_bp_best Q0  23 0.043478260869565216 system_name
 online_marketing_sales_bp_best Q0  24 0.041666666666666664 system_name
-online_marketing_sales_bp_best Q0 247061 25 0.04 system_name
+online_marketing_sales_bp_best Q0  25 0.04 system_name
 online_marketing_sales_bp_best Q0  26 0.038461538461538464 system_name
 online_marketing_sales_bp_best Q0  27 0.037037037037037035 system_name
 online_marketing_sales_bp_best Q0  28 0.03571428571428571 system_name
 online_marketing_sales_bp_best Q0  29 0.034482758620689655 system_name
 online_marketing_sales_bp_best Q0 981225 30 0.03333333333333333 system_name
 online_marketing_sales_bp_best Q0  31 0.03225806451612903 system_name
-online_marketing_sales_bp_best Q0 131251 32 0.03125 system_name
+online_marketing_sales_bp_best Q0  32 0.03125 system_name
 online_marketing_sales_bp_best Q0  33 0.030303030303030304 system_name
 online_marketing_sales_bp_best Q0  34 0.029411764705882353 system_name
-online_marketing_sales_bp_best Q0  35 0.02857142857142857 system_name
-online_marketing_sales_bp_best Q0  36 0.027777777777777776 system_name
+online_marketing_sales_bp_best Q0 40328 35 0.02857142857142857 system_name
+online_marketing_sales_bp_best Q0 40328 36 0.027777777777777776 system_name
 online_marketing_sales_bp_best Q0  37 0.02702702702702703 system_name
 online_marketing_sales_bp_best Q0  38 0.02631578947368421 system_name
 online_marketing_sales_bp_best Q0  39 0.02564102564102564 system_name
@@ -4444,7 +4444,7 @@ online_marketing_sales_bp_best Q0  43 0.023255813953488372 system_name
 online_marketing_sales_bp_best Q0  44 0.022727272727272728 system_name
 online_marketing_sales_bp_best Q0  45 0.022222222222222223 system_name
 online_marketing_sales_bp_best Q0  46 0.021739130434782608 system_name
-online_marketing_sales_bp_best Q0 157477 47 0.02127659574468085 system_name
+online_marketing_sales_bp_best Q0  47 0.02127659574468085 system_name
 online_marketing_sales_bp_best Q0  48 0.020833333333333332 system_name
 online_marketing_sales_bp_best Q0  49 0.02040816326530612 system_name
 online_marketing_sales_bp_best Q0  50 0.02 system_name
@@ -4454,7 +4454,7 @@ online_marketing_sales_bp_best Q0  53 0.018867924528301886 system_name
 online_marketing_sales_bp_best Q0  54 0.018518518518518517 system_name
 online_marketing_sales_bp_best Q0  55 0.01818181818181818 system_name
 online_marketing_sales_bp_best Q0  56 0.017857142857142856 system_name
-online_marketing_sales_bp_best Q0  57 0.017543859649122806 system_name
+online_marketing_sales_bp_best Q0 24694 57 0.017543859649122806 system_name
 online_marketing_sales_bp_best Q0  58 0.017241379310344827 system_name
 online_marketing_sales_bp_best Q0  59 0.01694915254237288 system_name
 online_marketing_sales_bp_best Q0  60 0.016666666666666666 system_name
@@ -4462,7 +4462,7 @@ online_marketing_sales_bp_best Q0  61 0.01639344262295082 system_name
 online_marketing_sales_bp_best Q0  62 0.016129032258064516 system_name
 online_marketing_sales_bp_best Q0  63 0.015873015873015872 system_name
 online_marketing_sales_bp_best Q0  64 0.015625 system_name
-online_marketing_sales_bp_best Q0 37776 65 0.015384615384615385 system_name
+online_marketing_sales_bp_best Q0  65 0.015384615384615385 system_name
 online_marketing_sales_bp_best Q0  66 0.015151515151515152 system_name
 online_marketing_sales_bp_best Q0  67 0.014925373134328358 system_name
 online_marketing_sales_bp_best Q0  68 0.014705882352941176 system_name
@@ -4484,7 +4484,7 @@ online_marketing_sales_bp_best Q0  83 0.012048192771084338 system_name
 online_marketing_sales_bp_best Q0  84 0.011904761904761904 system_name
 online_marketing_sales_bp_best Q0  85 0.011764705882352941 system_name
 online_marketing_sales_bp_best Q0  86 0.011627906976744186 system_name
-online_marketing_sales_bp_best Q0 33769 87 0.011494252873563218 system_name
+online_marketing_sales_bp_best Q0  87 0.011494252873563218 system_name
 online_marketing_sales_bp_best Q0  88 0.011363636363636364 system_name
 online_marketing_sales_bp_best Q0  89 0.011235955056179775 system_name
 online_marketing_sales_bp_best Q0  90 0.011111111111111112 system_name
@@ -4508,7 +4508,7 @@ reingungskraft_bp_best Q0  7 0.14285714285714285 system_name
 reingungskraft_bp_best Q0  8 0.125 system_name
 reingungskraft_bp_best Q0  9 0.1111111111111111 system_name
 reingungskraft_bp_best Q0  10 0.1 system_name
-reingungskraft_bp_best Q0 24694 11 0.09090909090909091 system_name
+reingungskraft_bp_best Q0  11 0.09090909090909091 system_name
 reingungskraft_bp_best Q0  12 0.08333333333333333 system_name
 reingungskraft_bp_best Q0  13 0.07692307692307693 system_name
 reingungskraft_bp_best Q0  14 0.07142857142857142 system_name
@@ -4553,7 +4553,7 @@ reingungskraft_bp_best Q0  52 0.019230769230769232 system_name
 reingungskraft_bp_best Q0  53 0.018867924528301886 system_name
 reingungskraft_bp_best Q0  54 0.018518518518518517 system_name
 reingungskraft_bp_best Q0  55 0.01818181818181818 system_name
-reingungskraft_bp_best Q0 35221 56 0.017857142857142856 system_name
+reingungskraft_bp_best Q0  56 0.017857142857142856 system_name
 reingungskraft_bp_best Q0  57 0.017543859649122806 system_name
 reingungskraft_bp_best Q0  58 0.017241379310344827 system_name
 reingungskraft_bp_best Q0  59 0.01694915254237288 system_name
@@ -4561,7 +4561,7 @@ reingungskraft_bp_best Q0  60 0.016666666666666666 system_name
 reingungskraft_bp_best Q0  61 0.01639344262295082 system_name
 reingungskraft_bp_best Q0  62 0.016129032258064516 system_name
 reingungskraft_bp_best Q0  63 0.015873015873015872 system_name
-reingungskraft_bp_best Q0 83607 64 0.015625 system_name
+reingungskraft_bp_best Q0  64 0.015625 system_name
 reingungskraft_bp_best Q0  65 0.015384615384615385 system_name
 reingungskraft_bp_best Q0  66 0.015151515151515152 system_name
 reingungskraft_bp_best Q0  67 0.014925373134328358 system_name
@@ -4572,7 +4572,7 @@ reingungskraft_bp_best Q0  71 0.014084507042253521 system_name
 reingungskraft_bp_best Q0  72 0.013888888888888888 system_name
 reingungskraft_bp_best Q0  73 0.0136986301369863 system_name
 reingungskraft_bp_best Q0  74 0.013513513513513514 system_name
-reingungskraft_bp_best Q0  75 0.013333333333333334 system_name
+reingungskraft_bp_best Q0 921439 75 0.013333333333333334 system_name
 reingungskraft_bp_best Q0  76 0.013157894736842105 system_name
 reingungskraft_bp_best Q0  77 0.012987012987012988 system_name
 reingungskraft_bp_best Q0  78 0.01282051282051282 system_name
@@ -4595,7 +4595,7 @@ reingungskraft_bp_best Q0  94 0.010638297872340425 system_name
 reingungskraft_bp_best Q0  95 0.010526315789473684 system_name
 reingungskraft_bp_best Q0  96 0.010416666666666666 system_name
 reingungskraft_bp_best Q0  97 0.010309278350515464 system_name
-reingungskraft_bp_best Q0 63642 98 0.01020408163265306 system_name
+reingungskraft_bp_best Q0  98 0.01020408163265306 system_name
 reingungskraft_bp_best Q0  99 0.010101010101010102 system_name
 reingungskraft_bp_best Q0  100 0.01 system_name
 verkaeufer_bp_best Q0  1 1.0 system_name
@@ -4608,7 +4608,7 @@ verkaeufer_bp_best Q0  7 0.14285714285714285 system_name
 verkaeufer_bp_best Q0  8 0.125 system_name
 verkaeufer_bp_best Q0  9 0.1111111111111111 system_name
 verkaeufer_bp_best Q0  10 0.1 system_name
-verkaeufer_bp_best Q0 24694 11 0.09090909090909091 system_name
+verkaeufer_bp_best Q0  11 0.09090909090909091 system_name
 verkaeufer_bp_best Q0  12 0.08333333333333333 system_name
 verkaeufer_bp_best Q0  13 0.07692307692307693 system_name
 verkaeufer_bp_best Q0  14 0.07142857142857142 system_name
@@ -4653,7 +4653,7 @@ verkaeufer_bp_best Q0  52 0.019230769230769232 system_name
 verkaeufer_bp_best Q0  53 0.018867924528301886 system_name
 verkaeufer_bp_best Q0  54 0.018518518518518517 system_name
 verkaeufer_bp_best Q0  55 0.01818181818181818 system_name
-verkaeufer_bp_best Q0 35221 56 0.017857142857142856 system_name
+verkaeufer_bp_best Q0  56 0.017857142857142856 system_name
 verkaeufer_bp_best Q0  57 0.017543859649122806 system_name
 verkaeufer_bp_best Q0  58 0.017241379310344827 system_name
 verkaeufer_bp_best Q0  59 0.01694915254237288 system_name
@@ -4661,7 +4661,7 @@ verkaeufer_bp_best Q0  60 0.016666666666666666 system_name
 verkaeufer_bp_best Q0  61 0.01639344262295082 system_name
 verkaeufer_bp_best Q0  62 0.016129032258064516 system_name
 verkaeufer_bp_best Q0  63 0.015873015873015872 system_name
-verkaeufer_bp_best Q0 83607 64 0.015625 system_name
+verkaeufer_bp_best Q0  64 0.015625 system_name
 verkaeufer_bp_best Q0  65 0.015384615384615385 system_name
 verkaeufer_bp_best Q0  66 0.015151515151515152 system_name
 verkaeufer_bp_best Q0  67 0.014925373134328358 system_name
@@ -4672,7 +4672,7 @@ verkaeufer_bp_best Q0  71 0.014084507042253521 system_name
 verkaeufer_bp_best Q0  72 0.013888888888888888 system_name
 verkaeufer_bp_best Q0  73 0.0136986301369863 system_name
 verkaeufer_bp_best Q0  74 0.013513513513513514 system_name
-verkaeufer_bp_best Q0  75 0.013333333333333334 system_name
+verkaeufer_bp_best Q0 921439 75 0.013333333333333334 system_name
 verkaeufer_bp_best Q0  76 0.013157894736842105 system_name
 verkaeufer_bp_best Q0  77 0.012987012987012988 system_name
 verkaeufer_bp_best Q0  78 0.01282051282051282 system_name
@@ -4695,7 +4695,7 @@ verkaeufer_bp_best Q0  94 0.010638297872340425 system_name
 verkaeufer_bp_best Q0  95 0.010526315789473684 system_name
 verkaeufer_bp_best Q0  96 0.010416666666666666 system_name
 verkaeufer_bp_best Q0  97 0.010309278350515464 system_name
-verkaeufer_bp_best Q0 63642 98 0.01020408163265306 system_name
+verkaeufer_bp_best Q0  98 0.01020408163265306 system_name
 verkaeufer_bp_best Q0  99 0.010101010101010102 system_name
 verkaeufer_bp_best Q0  100 0.01 system_name
 fahrer_bp_best Q0  1 1.0 system_name
@@ -4708,7 +4708,7 @@ fahrer_bp_best Q0  7 0.14285714285714285 system_name
 fahrer_bp_best Q0  8 0.125 system_name
 fahrer_bp_best Q0  9 0.1111111111111111 system_name
 fahrer_bp_best Q0  10 0.1 system_name
-fahrer_bp_best Q0 24694 11 0.09090909090909091 system_name
+fahrer_bp_best Q0  11 0.09090909090909091 system_name
 fahrer_bp_best Q0  12 0.08333333333333333 system_name
 fahrer_bp_best Q0  13 0.07692307692307693 system_name
 fahrer_bp_best Q0  14 0.07142857142857142 system_name
@@ -4753,7 +4753,7 @@ fahrer_bp_best Q0  52 0.019230769230769232 system_name
 fahrer_bp_best Q0  53 0.018867924528301886 system_name
 fahrer_bp_best Q0  54 0.018518518518518517 system_name
 fahrer_bp_best Q0  55 0.01818181818181818 system_name
-fahrer_bp_best Q0 35221 56 0.017857142857142856 system_name
+fahrer_bp_best Q0  56 0.017857142857142856 system_name
 fahrer_bp_best Q0  57 0.017543859649122806 system_name
 fahrer_bp_best Q0  58 0.017241379310344827 system_name
 fahrer_bp_best Q0  59 0.01694915254237288 system_name
@@ -4761,7 +4761,7 @@ fahrer_bp_best Q0  60 0.016666666666666666 system_name
 fahrer_bp_best Q0  61 0.01639344262295082 system_name
 fahrer_bp_best Q0  62 0.016129032258064516 system_name
 fahrer_bp_best Q0  63 0.015873015873015872 system_name
-fahrer_bp_best Q0 83607 64 0.015625 system_name
+fahrer_bp_best Q0  64 0.015625 system_name
 fahrer_bp_best Q0  65 0.015384615384615385 system_name
 fahrer_bp_best Q0  66 0.015151515151515152 system_name
 fahrer_bp_best Q0  67 0.014925373134328358 system_name
@@ -4772,7 +4772,7 @@ fahrer_bp_best Q0  71 0.014084507042253521 system_name
 fahrer_bp_best Q0  72 0.013888888888888888 system_name
 fahrer_bp_best Q0  73 0.0136986301369863 system_name
 fahrer_bp_best Q0  74 0.013513513513513514 system_name
-fahrer_bp_best Q0  75 0.013333333333333334 system_name
+fahrer_bp_best Q0 921439 75 0.013333333333333334 system_name
 fahrer_bp_best Q0  76 0.013157894736842105 system_name
 fahrer_bp_best Q0  77 0.012987012987012988 system_name
 fahrer_bp_best Q0  78 0.01282051282051282 system_name
@@ -4795,7 +4795,7 @@ fahrer_bp_best Q0  94 0.010638297872340425 system_name
 fahrer_bp_best Q0  95 0.010526315789473684 system_name
 fahrer_bp_best Q0  96 0.010416666666666666 system_name
 fahrer_bp_best Q0  97 0.010309278350515464 system_name
-fahrer_bp_best Q0 63642 98 0.01020408163265306 system_name
+fahrer_bp_best Q0  98 0.01020408163265306 system_name
 fahrer_bp_best Q0  99 0.010101010101010102 system_name
 fahrer_bp_best Q0  100 0.01 system_name
 lagerhelfer_bp_best Q0  1 1.0 system_name
@@ -4808,7 +4808,7 @@ lagerhelfer_bp_best Q0  7 0.14285714285714285 system_name
 lagerhelfer_bp_best Q0  8 0.125 system_name
 lagerhelfer_bp_best Q0  9 0.1111111111111111 system_name
 lagerhelfer_bp_best Q0  10 0.1 system_name
-lagerhelfer_bp_best Q0 24694 11 0.09090909090909091 system_name
+lagerhelfer_bp_best Q0  11 0.09090909090909091 system_name
 lagerhelfer_bp_best Q0  12 0.08333333333333333 system_name
 lagerhelfer_bp_best Q0  13 0.07692307692307693 system_name
 lagerhelfer_bp_best Q0  14 0.07142857142857142 system_name
@@ -4853,7 +4853,7 @@ lagerhelfer_bp_best Q0  52 0.019230769230769232 system_name
 lagerhelfer_bp_best Q0  53 0.018867924528301886 system_name
 lagerhelfer_bp_best Q0  54 0.018518518518518517 system_name
 lagerhelfer_bp_best Q0  55 0.01818181818181818 system_name
-lagerhelfer_bp_best Q0 35221 56 0.017857142857142856 system_name
+lagerhelfer_bp_best Q0  56 0.017857142857142856 system_name
 lagerhelfer_bp_best Q0  57 0.017543859649122806 system_name
 lagerhelfer_bp_best Q0  58 0.017241379310344827 system_name
 lagerhelfer_bp_best Q0  59 0.01694915254237288 system_name
@@ -4861,7 +4861,7 @@ lagerhelfer_bp_best Q0  60 0.016666666666666666 system_name
 lagerhelfer_bp_best Q0  61 0.01639344262295082 system_name
 lagerhelfer_bp_best Q0  62 0.016129032258064516 system_name
 lagerhelfer_bp_best Q0  63 0.015873015873015872 system_name
-lagerhelfer_bp_best Q0 83607 64 0.015625 system_name
+lagerhelfer_bp_best Q0  64 0.015625 system_name
 lagerhelfer_bp_best Q0  65 0.015384615384615385 system_name
 lagerhelfer_bp_best Q0  66 0.015151515151515152 system_name
 lagerhelfer_bp_best Q0  67 0.014925373134328358 system_name
@@ -4872,7 +4872,7 @@ lagerhelfer_bp_best Q0  71 0.014084507042253521 system_name
 lagerhelfer_bp_best Q0  72 0.013888888888888888 system_name
 lagerhelfer_bp_best Q0  73 0.0136986301369863 system_name
 lagerhelfer_bp_best Q0  74 0.013513513513513514 system_name
-lagerhelfer_bp_best Q0  75 0.013333333333333334 system_name
+lagerhelfer_bp_best Q0 921439 75 0.013333333333333334 system_name
 lagerhelfer_bp_best Q0  76 0.013157894736842105 system_name
 lagerhelfer_bp_best Q0  77 0.012987012987012988 system_name
 lagerhelfer_bp_best Q0  78 0.01282051282051282 system_name
@@ -4895,7 +4895,7 @@ lagerhelfer_bp_best Q0  94 0.010638297872340425 system_name
 lagerhelfer_bp_best Q0  95 0.010526315789473684 system_name
 lagerhelfer_bp_best Q0  96 0.010416666666666666 system_name
 lagerhelfer_bp_best Q0  97 0.010309278350515464 system_name
-lagerhelfer_bp_best Q0 63642 98 0.01020408163265306 system_name
+lagerhelfer_bp_best Q0  98 0.01020408163265306 system_name
 lagerhelfer_bp_best Q0  99 0.010101010101010102 system_name
 lagerhelfer_bp_best Q0  100 0.01 system_name
 hausmeister_bp_best Q0  1 1.0 system_name
@@ -4956,14 +4956,14 @@ hausmeister_bp_best Q0  55 0.01818181818181818 system_name
 hausmeister_bp_best Q0  56 0.017857142857142856 system_name
 hausmeister_bp_best Q0  57 0.017543859649122806 system_name
 hausmeister_bp_best Q0  58 0.017241379310344827 system_name
-hausmeister_bp_best Q0 5970 59 0.01694915254237288 system_name
+hausmeister_bp_best Q0  59 0.01694915254237288 system_name
 hausmeister_bp_best Q0  60 0.016666666666666666 system_name
 hausmeister_bp_best Q0  61 0.01639344262295082 system_name
 hausmeister_bp_best Q0  62 0.016129032258064516 system_name
 hausmeister_bp_best Q0  63 0.015873015873015872 system_name
-hausmeister_bp_best Q0 225373 64 0.015625 system_name
+hausmeister_bp_best Q0  64 0.015625 system_name
 hausmeister_bp_best Q0  65 0.015384615384615385 system_name
-hausmeister_bp_best Q0 55903 66 0.015151515151515152 system_name
+hausmeister_bp_best Q0  66 0.015151515151515152 system_name
 hausmeister_bp_best Q0  67 0.014925373134328358 system_name
 hausmeister_bp_best Q0  68 0.014705882352941176 system_name
 hausmeister_bp_best Q0  69 0.014492753623188406 system_name
@@ -5000,7 +5000,7 @@ hausmeister_bp_best Q0  99 0.010101010101010102 system_name
 hausmeister_bp_best Q0  100 0.01 system_name
 webdesign_bp_best Q0  1 1.0 system_name
 webdesign_bp_best Q0  2 0.5 system_name
-webdesign_bp_best Q0 765700 3 0.3333333333333333 system_name
+webdesign_bp_best Q0  3 0.3333333333333333 system_name
 webdesign_bp_best Q0  4 0.25 system_name
 webdesign_bp_best Q0  5 0.2 system_name
 webdesign_bp_best Q0  6 0.16666666666666666 system_name
@@ -5018,15 +5018,15 @@ webdesign_bp_best Q0  17 0.058823529411764705 system_name
 webdesign_bp_best Q0  18 0.05555555555555555 system_name
 webdesign_bp_best Q0  19 0.05263157894736842 system_name
 webdesign_bp_best Q0  20 0.05 system_name
-webdesign_bp_best Q0 51141 21 0.047619047619047616 system_name
+webdesign_bp_best Q0  21 0.047619047619047616 system_name
 webdesign_bp_best Q0  22 0.045454545454545456 system_name
 webdesign_bp_best Q0  23 0.043478260869565216 system_name
 webdesign_bp_best Q0 1634 24 0.041666666666666664 system_name
 webdesign_bp_best Q0  25 0.04 system_name
-webdesign_bp_best Q0  26 0.038461538461538464 system_name
+webdesign_bp_best Q0 34880 26 0.038461538461538464 system_name
 webdesign_bp_best Q0  27 0.037037037037037035 system_name
 webdesign_bp_best Q0 1634 28 0.03571428571428571 system_name
-webdesign_bp_best Q0  29 0.034482758620689655 system_name
+webdesign_bp_best Q0 1634 29 0.034482758620689655 system_name
 webdesign_bp_best Q0  30 0.03333333333333333 system_name
 webdesign_bp_best Q0  31 0.03225806451612903 system_name
 webdesign_bp_best Q0  32 0.03125 system_name
@@ -5050,7 +5050,7 @@ webdesign_bp_best Q0  49 0.02040816326530612 system_name
 webdesign_bp_best Q0  50 0.02 system_name
 webdesign_bp_best Q0  51 0.0196078431372549 system_name
 webdesign_bp_best Q0  52 0.019230769230769232 system_name
-webdesign_bp_best Q0 15870 53 0.018867924528301886 system_name
+webdesign_bp_best Q0  53 0.018867924528301886 system_name
 webdesign_bp_best Q0  54 0.018518518518518517 system_name
 webdesign_bp_best Q0  55 0.01818181818181818 system_name
 webdesign_bp_best Q0  56 0.017857142857142856 system_name
@@ -5058,7 +5058,7 @@ webdesign_bp_best Q0  57 0.017543859649122806 system_name
 webdesign_bp_best Q0  58 0.017241379310344827 system_name
 webdesign_bp_best Q0  59 0.01694915254237288 system_name
 webdesign_bp_best Q0  60 0.016666666666666666 system_name
-webdesign_bp_best Q0 40328 61 0.01639344262295082 system_name
+webdesign_bp_best Q0  61 0.01639344262295082 system_name
 webdesign_bp_best Q0  62 0.016129032258064516 system_name
 webdesign_bp_best Q0  63 0.015873015873015872 system_name
 webdesign_bp_best Q0  64 0.015625 system_name
@@ -5072,8 +5072,8 @@ webdesign_bp_best Q0  71 0.014084507042253521 system_name
 webdesign_bp_best Q0  72 0.013888888888888888 system_name
 webdesign_bp_best Q0  73 0.0136986301369863 system_name
 webdesign_bp_best Q0  74 0.013513513513513514 system_name
-webdesign_bp_best Q0  75 0.013333333333333334 system_name
-webdesign_bp_best Q0  76 0.013157894736842105 system_name
+webdesign_bp_best Q0 40328 75 0.013333333333333334 system_name
+webdesign_bp_best Q0 40328 76 0.013157894736842105 system_name
 webdesign_bp_best Q0  77 0.012987012987012988 system_name
 webdesign_bp_best Q0  78 0.01282051282051282 system_name
 webdesign_bp_best Q0  79 0.012658227848101266 system_name
@@ -5151,7 +5151,7 @@ produktionshelfer_bp_best Q0  50 0.02 system_name
 produktionshelfer_bp_best Q0  51 0.0196078431372549 system_name
 produktionshelfer_bp_best Q0  52 0.019230769230769232 system_name
 produktionshelfer_bp_best Q0  53 0.018867924528301886 system_name
-produktionshelfer_bp_best Q0 211381 54 0.018518518518518517 system_name
+produktionshelfer_bp_best Q0  54 0.018518518518518517 system_name
 produktionshelfer_bp_best Q0  55 0.01818181818181818 system_name
 produktionshelfer_bp_best Q0  56 0.017857142857142856 system_name
 produktionshelfer_bp_best Q0  57 0.017543859649122806 system_name
@@ -5169,7 +5169,7 @@ produktionshelfer_bp_best Q0  68 0.014705882352941176 system_name
 produktionshelfer_bp_best Q0  69 0.014492753623188406 system_name
 produktionshelfer_bp_best Q0  70 0.014285714285714285 system_name
 produktionshelfer_bp_best Q0  71 0.014084507042253521 system_name
-produktionshelfer_bp_best Q0 24694 72 0.013888888888888888 system_name
+produktionshelfer_bp_best Q0  72 0.013888888888888888 system_name
 produktionshelfer_bp_best Q0  73 0.0136986301369863 system_name
 produktionshelfer_bp_best Q0  74 0.013513513513513514 system_name
 produktionshelfer_bp_best Q0  75 0.013333333333333334 system_name
@@ -5190,8 +5190,8 @@ produktionshelfer_bp_best Q0  89 0.011235955056179775 system_name
 produktionshelfer_bp_best Q0  90 0.011111111111111112 system_name
 produktionshelfer_bp_best Q0  91 0.01098901098901099 system_name
 produktionshelfer_bp_best Q0  92 0.010869565217391304 system_name
-produktionshelfer_bp_best Q0 49958 93 0.010752688172043012 system_name
-produktionshelfer_bp_best Q0 24694 94 0.010638297872340425 system_name
+produktionshelfer_bp_best Q0  93 0.010752688172043012 system_name
+produktionshelfer_bp_best Q0  94 0.010638297872340425 system_name
 produktionshelfer_bp_best Q0  95 0.010526315789473684 system_name
 produktionshelfer_bp_best Q0  96 0.010416666666666666 system_name
 produktionshelfer_bp_best Q0  97 0.010309278350515464 system_name
@@ -5227,7 +5227,7 @@ berufskraftfahrer_bp_best Q0  26 0.038461538461538464 system_name
 berufskraftfahrer_bp_best Q0  27 0.037037037037037035 system_name
 berufskraftfahrer_bp_best Q0  28 0.03571428571428571 system_name
 berufskraftfahrer_bp_best Q0  29 0.034482758620689655 system_name
-berufskraftfahrer_bp_best Q0 222583 30 0.03333333333333333 system_name
+berufskraftfahrer_bp_best Q0  30 0.03333333333333333 system_name
 berufskraftfahrer_bp_best Q0  31 0.03225806451612903 system_name
 berufskraftfahrer_bp_best Q0  32 0.03125 system_name
 berufskraftfahrer_bp_best Q0  33 0.030303030303030304 system_name
@@ -5250,13 +5250,13 @@ berufskraftfahrer_bp_best Q0  49 0.02040816326530612 system_name
 berufskraftfahrer_bp_best Q0  50 0.02 system_name
 berufskraftfahrer_bp_best Q0  51 0.0196078431372549 system_name
 berufskraftfahrer_bp_best Q0  52 0.019230769230769232 system_name
-berufskraftfahrer_bp_best Q0 151937 53 0.018867924528301886 system_name
+berufskraftfahrer_bp_best Q0  53 0.018867924528301886 system_name
 berufskraftfahrer_bp_best Q0  54 0.018518518518518517 system_name
 berufskraftfahrer_bp_best Q0  55 0.01818181818181818 system_name
 berufskraftfahrer_bp_best Q0  56 0.017857142857142856 system_name
 berufskraftfahrer_bp_best Q0  57 0.017543859649122806 system_name
 berufskraftfahrer_bp_best Q0  58 0.017241379310344827 system_name
-berufskraftfahrer_bp_best Q0 24694 59 0.01694915254237288 system_name
+berufskraftfahrer_bp_best Q0  59 0.01694915254237288 system_name
 berufskraftfahrer_bp_best Q0  60 0.016666666666666666 system_name
 berufskraftfahrer_bp_best Q0  61 0.01639344262295082 system_name
 berufskraftfahrer_bp_best Q0  62 0.016129032258064516 system_name
@@ -5264,7 +5264,7 @@ berufskraftfahrer_bp_best Q0  63 0.015873015873015872 system_name
 berufskraftfahrer_bp_best Q0  64 0.015625 system_name
 berufskraftfahrer_bp_best Q0  65 0.015384615384615385 system_name
 berufskraftfahrer_bp_best Q0  66 0.015151515151515152 system_name
-berufskraftfahrer_bp_best Q0 33541 67 0.014925373134328358 system_name
+berufskraftfahrer_bp_best Q0  67 0.014925373134328358 system_name
 berufskraftfahrer_bp_best Q0  68 0.014705882352941176 system_name
 berufskraftfahrer_bp_best Q0  69 0.014492753623188406 system_name
 berufskraftfahrer_bp_best Q0  70 0.014285714285714285 system_name

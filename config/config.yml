@@ -1,0 +1,52 @@
+# Configuration for the Search Engine
+
+# General settings
+general:
+  environment: "development"       # Options: development, production
+  log_level: "info"                # Options: debug, info, warning, error
+
+# Index settings
+indexing:
+  directory: "./index"             # Path to the index directory
+  type: "dense"                    # Options: dense, sparse
+  batch_size: 25000                # Number of documents per batch
+
+# Retrieval settings
+retrieval:
+  model: "distiluse-base-multilingual-cased-v1"  # Hugging Face model for dense retrieval
+  top_k: 10                                      # Default number of results to return
+  similarity_metric: "cosine"                   # Options: cosine, dot
+
+# Document metadata
+document:
+  title_field: "title"             # Field to use as the title
+  description_field: "description" # Field to use as the description
+  requirements_field: "requirements" # Field to use for requirements
+  score_field: "score"             # Field to display the score
+  other_fields:                    # Other fields to include in metadata
+    - "publisher"
+    - "location"
+
+# Search Engine Result Page (SERP) settings
+serp:
+  num_results: 10                  # Default number of results to display
+  highlight_query: true            # Enable query term highlighting in results
+  display_fields:                  # Fields to display in SERP
+    - title
+    - description
+    - requirements
+    - score
+
+# API settings
+api:
+  base_url: "http://localhost:8000"  # Base URL for the backend API
+
+# Paths for data files
+data:
+  documents: "/path/to/documents/job_postings.csv.zip"
+  metadata: "/path/to/documents/metadata.csv"
+
+# Evaluation settings
+evaluation:
+  queries_file: "/path/to/eval-data/queries.csv"
+  qrels_file: "/path/to/eval-data/qrels.csv"
