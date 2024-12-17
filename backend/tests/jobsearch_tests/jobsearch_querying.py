@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Add the project root directory to sys.path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../")))
 
 from backend.app.services.query_service import QueryService
 
