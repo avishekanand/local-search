@@ -14,7 +14,7 @@ from backend.app.services.query_service import QueryService
 query_service = QueryService(model_name="distiluse-base-multilingual-cased-v1", index_dir="./index")
 
 # Perform Search
-query = "it engineer"  # Your query term
+query = "Fachingenieur"  # Your query term
 top_k = 10
 results = query_service.search(query, top_k=top_k)
 
