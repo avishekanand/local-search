@@ -90,50 +90,120 @@ from backend.app.services.data_loader import Document
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+# class IndexingService:
+#     def __init__(self, model_name: str, index_dir: str = "./index", batch_size: int = 25000):
+#         """
+#         Initialize the indexing service.
+#         :param model_name: Hugging Face model name for encoding.
+#         :param index_dir: Directory to store the index files.
+#         :param batch_size: Number of embeddings per file.
+#         """
+#         self.model = SentenceTransformer(model_name)
+#         self.index_dir = index_dir
+#         self.batch_size = batch_size
+#         os.makedirs(self.index_dir, exist_ok=True)
+
+#     def create_embeddings(self, documents: List[Document]) -> None:
+#         """
+#         Create and store embeddings for the title field of the documents.
+#         Metadata includes title and all text fields.
+#         :param documents: List of Document objects to process.
+#         """
+#         logger.info(f"Starting to create embeddings for {len(documents)} documents...")
+
+#         # Extract titles for embedding and metadata for mapping
+#         titles = [doc.title for doc in documents if doc.title]
+#         skipped_docs = [doc for doc in documents if not doc.title]
+#         logger.info(f"Skipped {len(skipped_docs)} documents without titles.")
+
+#         metadata = [
+#             {
+#                 "id": i,
+#                 "title": doc.title,
+#                 "metadata": {key: value for key, value in vars(doc).items() if value is not None}
+#             }
+#             for i, doc in enumerate(documents) if doc.title
+#         ]
+
+#         # Encode titles to create embeddings
+#         logger.info(f"Encoding {len(titles)} titles using model {self.model}.")
+#         embeddings = self.model.encode(titles, show_progress_bar=True, convert_to_numpy=True)
+
+#         # Log the shape and content of embeddings
+#         logger.debug(f"Shape of embeddings: {embeddings.shape}")
+#         logger.debug(f"Sample embeddings: {embeddings[:2]}")
+
+#         # Split embeddings and metadata into chunks of `batch_size`
+#         total_files = (len(embeddings) + self.batch_size - 1) // self.batch_size
+#         logger.info(f"Storing embeddings in {total_files} files, each containing up to {self.batch_size} embeddings.")
+
+#         for i in range(total_files):
+#             start = i * self.batch_size
+#             end = min(start + self.batch_size, len(embeddings))
+
+#             # Get the batch of embeddings and metadata
+#             batch_embeddings = embeddings[start:end]
+#             batch_metadata = metadata[start:end]
+
+#             # Save embeddings as .npy
+#             embedding_file = os.path.join(self.index_dir, f"embeddings_{i + 1}.npy")
+#             np.save(embedding_file, batch_embeddings)
+
+#             # Save metadata as .json
+#             metadata_file = os.path.join(self.index_dir, f"metadata_{i + 1}.json")
+#             with open(metadata_file, "w") as f:
+#                 json.dump(batch_metadata, f)
+
+#             logger.info(f"Stored embeddings {start}-{end} in file: {embedding_file}")
+#             logger.info(f"Stored metadata {start}-{end} in file: {metadata_file}")
+
+#         logger.info(f"All embeddings and metadata have been processed and stored in {self.index_dir}.")
+
+#         # Validation step: ensure embeddings and metadata are aligned
+#         self._validate_index()
+
 class IndexingService:
-    def __init__(self, model_name: str, index_dir: str = "./index", batch_size: int = 25000):
+    def __init__(self, model_name: str, index_dir: str = "./index", batch_size: int = 25000, field_to_index: str = "title"):
         """
         Initialize the indexing service.
         :param model_name: Hugging Face model name for encoding.
         :param index_dir: Directory to store the index files.
         :param batch_size: Number of embeddings per file.
+        :param field_to_index: The text field in metadata to index.
         """
         self.model = SentenceTransformer(model_name)
         self.index_dir = index_dir
         self.batch_size = batch_size
+        self.field_to_index = field_to_index  # Field to index
         os.makedirs(self.index_dir, exist_ok=True)
 
-    def create_embeddings(self, documents: List[Document]) -> None:
+    def create_embeddings(self, documents: List[dict]) -> None:
         """
-        Create and store embeddings for the title field of the documents.
-        Metadata includes title and all text fields.
+        Create and store embeddings for the specified field of the documents.
+        Metadata includes the indexed field and additional information.
         :param documents: List of Document objects to process.
         """
         logger.info(f"Starting to create embeddings for {len(documents)} documents...")
 
-        # Extract titles for embedding and metadata for mapping
-        titles = [doc.title for doc in documents if doc.title]
-        skipped_docs = [doc for doc in documents if not doc.title]
-        logger.info(f"Skipped {len(skipped_docs)} documents without titles.")
+        # Extract the field to be indexed and the metadata
+        field_texts = [getattr(doc, self.field_to_index, None) for doc in documents if getattr(doc, self.field_to_index, None)]
+        skipped_docs = [doc for doc in documents if not getattr(doc, self.field_to_index, None)]
+        logger.info(f"Skipped {len(skipped_docs)} documents without '{self.field_to_index}' field.")
 
         metadata = [
             {
                 "id": i,
-                "title": doc.title,
+                self.field_to_index: getattr(doc, self.field_to_index, ""),
                 "metadata": {key: value for key, value in vars(doc).items() if value is not None}
             }
-            for i, doc in enumerate(documents) if doc.title
+            for i, doc in enumerate(documents) if getattr(doc, self.field_to_index, None)
         ]
 
-        # Encode titles to create embeddings
-        logger.info(f"Encoding {len(titles)} titles using model {self.model}.")
-        embeddings = self.model.encode(titles, show_progress_bar=True, convert_to_numpy=True)
+        # Encode the text field to create embeddings
+        logger.info(f"Encoding {len(field_texts)} documents for field '{self.field_to_index}' using model {self.model}.")
+        embeddings = self.model.encode(field_texts, show_progress_bar=True, convert_to_numpy=True)
 
-        # Log the shape and content of embeddings
-        logger.debug(f"Shape of embeddings: {embeddings.shape}")
-        logger.debug(f"Sample embeddings: {embeddings[:2]}")
-
-        # Split embeddings and metadata into chunks of `batch_size`
+        # Split embeddings and metadata into chunks
         total_files = (len(embeddings) + self.batch_size - 1) // self.batch_size
         logger.info(f"Storing embeddings in {total_files} files, each containing up to {self.batch_size} embeddings.")
 
@@ -141,15 +211,14 @@ class IndexingService:
             start = i * self.batch_size
             end = min(start + self.batch_size, len(embeddings))
 
-            # Get the batch of embeddings and metadata
             batch_embeddings = embeddings[start:end]
             batch_metadata = metadata[start:end]
 
-            # Save embeddings as .npy
+            # Save embeddings
             embedding_file = os.path.join(self.index_dir, f"embeddings_{i + 1}.npy")
             np.save(embedding_file, batch_embeddings)
 
-            # Save metadata as .json
+            # Save metadata
             metadata_file = os.path.join(self.index_dir, f"metadata_{i + 1}.json")
             with open(metadata_file, "w") as f:
                 json.dump(batch_metadata, f)
@@ -157,10 +226,7 @@ class IndexingService:
             logger.info(f"Stored embeddings {start}-{end} in file: {embedding_file}")
             logger.info(f"Stored metadata {start}-{end} in file: {metadata_file}")
 
-        logger.info(f"All embeddings and metadata have been processed and stored in {self.index_dir}.")
-
-        # Validation step: ensure embeddings and metadata are aligned
-        self._validate_index()
+        logger.info(f"All embeddings and metadata for field '{self.field_to_index}' have been processed and stored in {self.index_dir}.")
 
     def _validate_index(self):
         """

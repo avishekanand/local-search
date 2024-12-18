@@ -10,6 +10,7 @@ indexing:
   directory: "./index"             # Path to the index directory
   type: "dense"                    # Options: dense, sparse
   batch_size: 25000                # Number of documents per batch
+  field_to_index: "requirements"
 
 # Retrieval settings
 retrieval:
@@ -43,8 +44,9 @@ api:
 
 # Paths for data files
 data:
-  documents: "/path/to/documents/job_postings.csv.zip"
-  metadata: "/path/to/documents/metadata.csv"
+  documents: "/Users/avishekanand/Projects/search-engine/data/documents/job_postings.csv.zip"
+  metadata: "/Users/avishekanand/Projects/search-engine/data/documents/metadata.csv"
+  temp_dir: "./temp_test"
 
 # Evaluation settings
 evaluation:

@@ -61,20 +61,6 @@ class QueryService:
                 self.metadata.extend(json.load(f))
 
         logger.info(f"Loaded {len(self.metadata)} documents, size of embeddings {len(self.embeddings)}.")
-    # def _load_index(self):
-    #     """
-    #     Load embeddings and metadata from index files.
-    #     """
-    #     logger.info(f"Loading embeddings and metadata from {self.index_dir}...")
-    #     for file in os.listdir(self.index_dir):
-    #         if file.startswith("embeddings_") and file.endswith(".npy"):
-    #             embedding_file = os.path.join(self.index_dir, file)
-    #             self.embeddings.append(np.load(embedding_file))
-    #         elif file.startswith("metadata_") and file.endswith(".json"):
-    #             metadata_file = os.path.join(self.index_dir, file)
-    #             with open(metadata_file, "r") as f:
-    #                 self.metadata.extend(json.load(f))
-    #     logger.info(f"Loaded {len(self.metadata)} documents, size of embeddings {len(self.embeddings)}.")
 
     def search(self, query: str, top_k: int = 1000):
         """

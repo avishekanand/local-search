@@ -4,14 +4,32 @@ import sys
 import re
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+import yaml
 
 # Add the project root directory to sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../")))
 
+# Path to the configuration file
+CONFIG_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../config/config.yml"))
+
+def load_config():
+    """
+    Loading the configuration from the YAML file.
+    """
+    with open(CONFIG_PATH, "r") as file:
+        config = yaml.safe_load(file)
+    return config
+
+config = load_config()
+
 from backend.app.services.query_service import QueryService
 
-# Query Service Initialization
-query_service = QueryService(model_name="distiluse-base-multilingual-cased-v1", index_dir="./index")
+# Extract relevant settings
+retrieval_model = config["retrieval"]["model"]
+index_directory = config["indexing"]["directory"]
+
+# Initialize QueryService with config values
+query_service = QueryService(model_name=retrieval_model, index_dir=index_directory)
 
 # Perform Search
 query = "Fachingenieur"  # Your query term
