@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div>
-      <Header title="Local Search Engine" />
+      <Header title="Example Search Engine" />
       <SearchInput query={query} setQuery={setQuery} onSearch={handleSearch} />
       {loading && <p>Loading...</p>}
       {error && <p style={{ color: "red" }}>{error}</p>}

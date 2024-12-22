@@ -7,10 +7,10 @@ general:
 
 # Index settings
 indexing:
-  directory: "./index"             # Path to the index directory
+  directory: "./index/title"             # Path to the index directory
   type: "dense"                    # Options: dense, sparse
   batch_size: 25000                # Number of documents per batch
-  field_to_index: "requirements"
+  field_to_index: "title"
 
 # Retrieval settings
 retrieval:
