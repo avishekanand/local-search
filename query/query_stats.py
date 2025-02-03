@@ -1,6 +1,8 @@
 import re
+import csv
 from collections import defaultdict
 
+# Pattern to extract 'jw_jobname' from a line containing the Search(...) text.
 JW_JOBNAME_PATTERN = re.compile(r"'jw_jobname':\s*'([^']*)'")
 
 def parse_line(line):
@@ -15,6 +17,7 @@ def parse_line(line):
 
 def main():
     input_file = "/Users/avishekanand/Library/CloudStorage/Dropbox/CONSULTING/JOBWARE/DATA/searchType1.txt"
+    output_csv = "queries_frequency.csv"  # CSV file output
 
     # Frequencies for ALL queries
     query_frequencies = defaultdict(int)
@@ -22,7 +25,7 @@ def main():
     # For stats across entire dataset
     total_queries = 0  # counts every parsed query
 
-    # Sets for unique typed vs. autocomplete
+    # Sets for unique typed vs. autocomplete queries
     all_queries_typed = set()
     all_queries_autocomplete = set()
 
@@ -41,7 +44,7 @@ def main():
                 total_queries += 1
                 query_frequencies[jw_jobname] += 1
 
-                # Classification logic for entire dataset
+                # Classification logic: if the first character is lowercase, consider it "typed"
                 if jw_jobname[0].islower():
                     all_queries_typed.add(jw_jobname)
                     typed_count_total += 1
@@ -68,7 +71,6 @@ def main():
     print(f"Unique autocomplete queries: {len(all_queries_autocomplete)}")
 
     # === 3) Total Query Counts (ALL) ===
-    #     includes typed vs. autocomplete breakdown
     print("\n=== 3) Total Number of Queries (ALL) ===")
     print(f"Total queries processed: {total_queries}")
     print(f"Total typed queries: {typed_count_total}")
@@ -77,7 +79,6 @@ def main():
     # === 4) Duplicate Queries (ONLY in the TOP 20) ===
     print("\n=== 4) Duplicate Queries Among TOP 20 ===")
     duplicates_top_20 = [(q, f) for (q, f) in top_20 if f > 1]
-
     if duplicates_top_20:
         print("Found duplicate queries (frequency > 1) in the top 20:")
         for q, freq in duplicates_top_20:
@@ -86,19 +87,26 @@ def main():
         print("No duplicates in the top 20 queries.")
 
     # === 5) Top 10 Frequent Typed Queries ===
-    # Filter typed queries only, then sort by frequency
-    typed_queries_with_freq = [(q, query_frequencies[q]) 
-                               for q in all_queries_typed]
+    typed_queries_with_freq = [(q, query_frequencies[q]) for q in all_queries_typed]
     typed_queries_sorted = sorted(
         typed_queries_with_freq,
         key=lambda x: x[1],
         reverse=True
     )
-    top_10_typed = typed_queries_sorted[:50]
-
+    top_10_typed = typed_queries_sorted[:10]
     print("\n=== 5) Top 10 Frequent Typed Queries ===")
     for query, freq in top_10_typed:
         print(f"{query!r} => {freq}")
+
+    # === 6) Output All Query Frequencies to CSV ===
+    # The CSV file will have two columns: query, frequency.
+    with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
+        csv_writer = csv.writer(csvfile)
+        csv_writer.writerow(["query", "frequency"])  # CSV header
+        # Sort queries by frequency (descending order) for output
+        for query, freq in sorted(query_frequencies.items(), key=lambda x: x[1], reverse=True):
+            csv_writer.writerow([query, freq])
+    print(f"\nCSV output written to: {output_csv}")
 
 if __name__ == "__main__":
     main()

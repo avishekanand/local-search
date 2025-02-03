@@ -9,7 +9,6 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../.
 
 from backend.app.services.query_service import QueryService
 
-
 class TestQueryService(unittest.TestCase):
     def setUp(self):
         """

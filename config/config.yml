@@ -52,3 +52,14 @@ data:
 evaluation:
   queries_file: "/path/to/eval-data/queries.csv"
   qrels_file: "/path/to/eval-data/qrels.csv"
+
+
+#LLM settings
+ollama:
+  endpoint: "http://localhost:11434/api/generate"
+  model: "deepseek-r1:8b"
+
+
+# Paths for query workload files
+query_workload:
+  csv_path: "/Users/avishekanand/Projects/search-engine/queries_frequency.csv"
