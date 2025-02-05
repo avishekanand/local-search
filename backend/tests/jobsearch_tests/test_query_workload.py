@@ -1,6 +1,7 @@
 import csv
 import os
 import sys
+import time
 import yaml
 
 # Add the project root directory to sys.path so that modules can be imported.
@@ -20,7 +21,7 @@ def load_config():
 def load_queries(csv_file):
     """
     Loads queries from a CSV file.
-    The CSV is expected to have a header with at least the column "query".
+    The CSV is expected to have a header with at least a column "query".
     
     :param csv_file: Path to the CSV file.
     :return: A list of query strings.
@@ -28,10 +29,14 @@ def load_queries(csv_file):
     queries = []
     with open(csv_file, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
+        # For debugging, you can print out the header keys:
+        # print("CSV header keys:", reader.fieldnames)
         for row in reader:
-            query = row["query"].strip()
+            # Use a case-insensitive lookup for the "query" column.
+            lower_row = {key.lower(): value for key, value in row.items()}
+            query = lower_row.get("query")
             if query:
-                queries.append(query)
+                queries.append(query.strip())
     return queries
 
 def main():
@@ -47,55 +52,78 @@ def main():
     ollama_endpoint = ollama_config.get("endpoint", "http://localhost:11434/api/generate")
     ollama_model = ollama_config.get("model", "deepseek-r1:8b")
 
+    # Setup query workload settings.
+    queries_csv = config.get("query_workload", {}).get("csv_path", "queries_frequency.csv")
+    
     # Initialize the QueryService and EvaluationService.
     query_service = QueryService(model_name=retrieval_model, index_dir=index_directory)
     evaluation_service = EvaluationService(endpoint=ollama_endpoint, model=ollama_model)
-
-    # Get the CSV file path from configuration (under "query_workload").
-    queries_csv = config.get("query_workload", {}).get("csv_path", "queries_frequency.csv")
+    
+    # Load queries from the CSV file and limit to 50.
     queries = load_queries(queries_csv)
-
-    top_k = 10  # Number of top results to retrieve for each query.
-    query_precision_results = []  # To store (query, precision) tuples.
-
-    print("\n=== Evaluating Query Workload ===\n")
+    queries = queries[:365]
+    
+    # We'll compute precision at 10, 20, and 100.
+    top_k_values = [10]
+    
+    # List to hold output rows for CSV.
+    # Each row will have: query, precision@10, time@10, precision@20, time@20, precision@100, time@100.
+    output_rows = []
+    
+    print("\n=== Evaluating Query Workload (Batched) ===\n")
+    
     for query in queries:
-        # Retrieve the top-10 results for the query.
-        results = query_service.search(query, top_k=top_k)
-        relevance_sum = 0.0
-
-        # For each retrieved result, evaluate its relevance.
+        # Retrieve up to 100 results for this query.
+        results = query_service.search(query, top_k=100)
+        # Build a list of documents (each as a dict with "title" and "description").
+        docs = []
         for result in results:
             title = result["metadata"]["title"]
-            # Adjust the key if necessary; here we assume the description is under 'resposibilities'
+            # Here we assume description is under metadata->metadata with key "resposibilities".
             description = result["metadata"]["metadata"].get("resposibilities", "")
+            docs.append({"title": title, "description": description})
+        
+        query_results = {"query": query}
+        
+        # Evaluate at different top_k levels.
+        for k in top_k_values:
+            # If there are fewer than k documents, use what is available.
+            current_docs = docs if len(docs) < k else docs[:k]
             
-            # Evaluate the search result using the evaluation service.
-            eval_result = evaluation_service.evaluate(query, title, description)
+            start_time = time.perf_counter()
+            labels = evaluation_service.evaluate_batch(query, current_docs, k)
+            end_time = time.perf_counter()
+            elapsed_time = end_time - start_time
             
-            # Based on the evaluation result, assign credit:
-            # "relevant" -> 1.0, "partially relevant" -> 0.5, "not relevant" -> 0.0.
-            eval_lower = eval_result.lower()
-            if eval_lower == "relevant":
-                relevance_sum += 1.0
-            elif eval_lower == "partially relevant":
-                relevance_sum += 0.5
-            else:
-                relevance_sum += 0.0
-
-        # Compute precision as the weighted sum divided by the number of retrieved results.
-        precision = relevance_sum / top_k if top_k > 0 else 0.0
-        query_precision_results.append((query, precision))
-        print(f"Query: {query}  =>  Precision: {precision:.2f}")
-
+            # Compute precision: assume "relevant" = 1.0, "partially relevant" = 0.5, "not relevant" = 0.0.
+            relevance_sum = 0.0
+            for label in labels:
+                label_lower = label.lower()
+                if label_lower == "relevant":
+                    relevance_sum += 1.0
+                elif label_lower == "partially relevant":
+                    relevance_sum += 0.5
+                # "not relevant" or any other value gets 0 credit.
+            precision = relevance_sum / k if k > 0 else 0.0
+            
+            query_results[f"precision@{k}"] = precision
+            query_results[f"time@{k}"] = elapsed_time
+            print(f"Query: {query}  =>  Precision@{k}: {precision:.2f}, Time: {elapsed_time:.2f} sec")
+        
+        output_rows.append(query_results)
+    
     # Write the results to a CSV file.
-    output_csv = "query_precision.csv"
+    output_csv = "batched_query_precision_20.csv"
     with open(output_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["query", "precision"])
-        for query, precision in query_precision_results:
-            writer.writerow([query, precision])
-    print(f"\nResults written to {output_csv}")
+        fieldnames = ["query"]
+        for k in top_k_values:
+            fieldnames.append(f"precision@{k}")
+            fieldnames.append(f"time@{k}")
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in output_rows:
+            writer.writerow(row)
+    print(f"\nBatched evaluation results written to {output_csv}")
 
 if __name__ == "__main__":
     main()
