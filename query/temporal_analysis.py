@@ -4,17 +4,31 @@ import editdistance
 from collections import defaultdict
 import matplotlib.pyplot as plt
 
-# Pattern to extract 'jw_jobname' from a line containing the Search(...) text.
+# 1) Pattern to extract `'jw_jobname': 'VALUE'` from the searchParam block
 JW_JOBNAME_PATTERN = re.compile(r"'jw_jobname':\s*'([^']*)'")
+
+# 2) Fallback pattern to extract `jw_jobname=VALUE` from the event_url (e.g. `...?jw_jobname=Minijob&...`)
+JW_JOBNAME_URL_PATTERN = re.compile(r"jw_jobname=([^&]+)")
 
 def parse_line(line):
     """
-    Extract 'jw_jobname' from a line containing the Search(...) text.
+    Try to extract jw_jobname from:
+      1) 'jw_jobname': 'VALUE'
+         (searchParam style)
+      2) jw_jobname=VALUE
+         (event_url style)
     Returns the jobname as a string or None if not found.
     """
+    # First attempt: searchParam style
     match = JW_JOBNAME_PATTERN.search(line)
     if match:
         return match.group(1).strip()
+
+    # Second attempt: event_url fallback
+    fallback = JW_JOBNAME_URL_PATTERN.search(line)
+    if fallback:
+        return fallback.group(1).strip()
+
     return None
 
 def load_autocomplete_queries(filepath):
@@ -49,8 +63,8 @@ def find_closest_match(query, autocomplete_queries):
     return closest_match, edit_distance
 
 def main():
-    # input_file = "/Users/avishekanand/Library/CloudStorage/Dropbox/CONSULTING/JOBWARE/DATA/searchType1.txt"
-    input_file = "/Users/avishekanand/Library/CloudStorage/Dropbox/CONSULTING/JOBWARE/DATA/Querydata/20250110/searchType1.txt"
+    # Adjust your file paths as needed
+    input_file = "/Users/avishekanand/Library/CloudStorage/Dropbox/CONSULTING/JOBWARE/DATA/Querydata/20250112/searchType1.txt"
     autocomplete_queries_file = "/Users/avishekanand/Library/CloudStorage/Dropbox/CONSULTING/JOBWARE/DATA/typeahead_suggestions.txt"
     output_typed_queries_not_found = "typed_queries_not_found.csv"
 
@@ -61,7 +75,7 @@ def main():
     query_frequencies = defaultdict(int)
     total_queries = 0  # counts every parsed query
 
-    # Unique query grouping
+    # Unique query grouping (for canonicalization)
     unique_query_groups = set()
 
     # Sets for typed/autocomplete queries
@@ -85,7 +99,7 @@ def main():
                 else:
                     all_queries_autocomplete.add(jw_jobname)
 
-    # === 1) Find Closest Matches & Count Unique Queries ===
+    # === 1) Analyze Typed Queries (Top 100) ===
     top_100_typed = sorted(
         [(q, query_frequencies[q]) for q in all_queries_typed],
         key=lambda x: x[1],
@@ -99,7 +113,7 @@ def main():
         closest_match, edit_dist = find_closest_match(query, autocomplete_queries)
         closest_match_results.append((query, closest_match, edit_dist, freq))
         
-        # Grouping similar queries as a unique query (edit distance ≤ 6)
+        # Grouping similar queries as a unique query if edit distance ≤ 6
         if edit_dist <= 6:
             unique_query_groups.add(closest_match)
         else:
@@ -115,8 +129,12 @@ def main():
     for query, match, dist, freq in closest_match_results:
         print(f"{query.ljust(30)} | {match.ljust(30)} | {str(dist).ljust(12)} | {str(freq).ljust(8)}")
 
-    # === 3) Print Top 10 Typed Queries NOT Close to Any Autocomplete Query (Edit Distance ≥ 6) ===
-    not_close_typed_queries_sorted = sorted(not_close_typed_queries, key=lambda x: x[1], reverse=True)[:10]
+    # === 3) Print Top 10 Typed Queries NOT Close (Edit Distance ≥ 6) ===
+    not_close_typed_queries_sorted = sorted(
+        not_close_typed_queries,
+        key=lambda x: x[1],
+        reverse=True
+    )[:10]
 
     print("\n=== 3) Top 10 Frequent Typed Queries NOT Close to Any Autocomplete Query ===")
     header = f"{'Typed Query'.ljust(30)} | {'Frequency'.ljust(8)}"
@@ -130,7 +148,7 @@ def main():
     print("\n=== 4) Total Unique Queries After Canonicalization ===")
     print(f"Unique query count: {len(unique_query_groups)}")
 
-    # === 5) Output Typed Queries NOT Found in Autocomplete List ===
+    # === 5) Output Typed Queries NOT Found in Autocomplete List to CSV ===
     with open(output_typed_queries_not_found, "w", newline="", encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(["query", "frequency"])  
@@ -152,18 +170,7 @@ def main():
     plt.tight_layout()
     plt.show()
 
-    # === 7) Plot Overall Long Tail Distribution ===
-    sorted_frequencies = sorted(query_frequencies.values(), reverse=True)
-    ranks = range(1, len(sorted_frequencies) + 1)
-    plt.figure(figsize=(10, 8))
-    plt.plot(ranks, sorted_frequencies, marker='o', linestyle='-')
-    plt.xlabel("Rank")
-    plt.ylabel("Frequency")
-    plt.title("Overall Long Tail Distribution")
-    plt.xscale("log")
-    plt.yscale("log")
-    plt.tight_layout()
-    plt.show()
-
 if __name__ == "__main__":
     main()
+
+
