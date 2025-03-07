@@ -43,7 +43,6 @@ data_file = config["data"]["documents"]
 metadata_file = config["data"]["metadata"]
 
 
-
 documents = load_documents(data_file, metadata_file)
 
 # Load documents
